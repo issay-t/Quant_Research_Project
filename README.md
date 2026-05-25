@@ -26,6 +26,7 @@ Based on backtesting across multiple universes (2021–2025), the answer appears
 ---
 
 ## Primary Architecture
+```text
 quant_research_project/
 ├── fetch_data.py      # Data ingestion, cleaning, and normalization
 ├── stock.py           # Stock class — price history, fundamentals, factor inputs
@@ -33,7 +34,7 @@ quant_research_project/
 ├── options.py         # Options contract class — Black-Scholes pricing simulation
 ├── scoring.py         # Factor scoring — fundamental score, market adjustment factor, composite score
 └── strategies.py      # Strategy classes — systematic trading logic built on top of infrastructure
-
+```
 ### Module Breakdown
 
 **`fetch_data.py`**
