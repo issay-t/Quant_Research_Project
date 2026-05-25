@@ -1,0 +1,7481 @@
+[
+    {
+        "name": "American Airlines Group Inc",
+        "sector": "Consumer Goods",
+        "symbol": "AAL",
+        "exchange": "NAS",
+        "id": "NAS:AAL",
+        "cik": "6201",
+        "FIGI": "tts-67645939"
+    },
+    {
+        "name": "Apple Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "AAPL",
+        "exchange": "NAS",
+        "id": "NAS:AAPL",
+        "cik": "320193",
+        "FIGI": "tts-831814"
+    },
+    {
+        "name": "VictoryShares Pioneer Asset-Based Income ETF",
+        "sector": null,
+        "symbol": "ABI",
+        "exchange": "NAS",
+        "id": "NAS:ABI",
+        "cik": null,
+        "FIGI": "tts-359531532"
+    },
+    {
+        "name": "AMBAC FINL GRP INC",
+        "sector": "Finance",
+        "symbol": "ABKFQ",
+        "exchange": "NAS",
+        "id": "NAS:ABKFQ",
+        "cik": null,
+        "FIGI": "tts-25909381"
+    },
+    {
+        "name": "Airbnb Inc",
+        "sector": null,
+        "symbol": "ABNB",
+        "exchange": "NAS",
+        "id": "NAS:ABNB",
+        "cik": "1559720",
+        "FIGI": "tts-207966789"
+    },
+    {
+        "name": "American Capital, Ltd.",
+        "sector": "Finance",
+        "symbol": "ACAS",
+        "exchange": "NAS",
+        "id": "NAS:ACAS",
+        "cik": null,
+        "FIGI": "tts-826917"
+    },
+    {
+        "name": "Arch Capital Group Ltd",
+        "sector": "Finance",
+        "symbol": "ACGL",
+        "exchange": "NAS",
+        "id": "NAS:ACGL",
+        "cik": "947484",
+        "FIGI": "tts-826938"
+    },
+    {
+        "name": "Adobe Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "ADBE",
+        "exchange": "NAS",
+        "id": "NAS:ADBE",
+        "cik": "796343",
+        "FIGI": "tts-827038"
+    },
+    {
+        "name": "ADC Telecommunications, Inc.",
+        "sector": null,
+        "symbol": "ADCT",
+        "exchange": "NAS",
+        "id": "NAS:ADCT",
+        "cik": "61478",
+        "FIGI": "tts-827046"
+    },
+    {
+        "name": "Analog Devices Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "ADI",
+        "exchange": "NAS",
+        "id": "NAS:ADI",
+        "cik": "6281",
+        "FIGI": "tts-41568568"
+    },
+    {
+        "name": "Automatic Data Processing Inc",
+        "sector": "Finance",
+        "symbol": "ADP",
+        "exchange": "NAS",
+        "id": "NAS:ADP",
+        "cik": "8670",
+        "FIGI": "tts-15888595"
+    },
+    {
+        "name": "Autodesk  Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "ADSK",
+        "exchange": "NAS",
+        "id": "NAS:ADSK",
+        "cik": "769397",
+        "FIGI": "tts-831838"
+    },
+    {
+        "name": "American Electric Power Company Inc",
+        "sector": "Energy",
+        "symbol": "AEP",
+        "exchange": "NAS",
+        "id": "NAS:AEP",
+        "cik": "4904",
+        "FIGI": "tts-203738081"
+    },
+    {
+        "name": "Akamai Technologies Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "AKAM",
+        "exchange": "NAS",
+        "id": "NAS:AKAM",
+        "cik": "1086222",
+        "FIGI": "tts-831856"
+    },
+    {
+        "name": "Align Technology Inc",
+        "sector": "Healthcare",
+        "symbol": "ALGN",
+        "exchange": "NAS",
+        "id": "NAS:ALGN",
+        "cik": "1097149",
+        "FIGI": "tts-827425"
+    },
+    {
+        "name": "Altair Engineering Inc",
+        "sector": null,
+        "symbol": "ALTR",
+        "exchange": "NAS",
+        "id": "NAS:ALTR",
+        "cik": "1701732",
+        "FIGI": "tts-827511"
+    },
+    {
+        "name": "Altair Engineering Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "ALTR",
+        "exchange": "NAS",
+        "id": "NAS:ALTR~1",
+        "cik": "768251",
+        "FIGI": "tts-130097863"
+    },
+    {
+        "name": "Alexion Pharmaceuticals",
+        "sector": "Healthcare",
+        "symbol": "ALXN",
+        "exchange": "NAS",
+        "id": "NAS:ALXN",
+        "cik": "899866",
+        "FIGI": "tts-831866"
+    },
+    {
+        "name": "Applied Materials Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "AMAT",
+        "exchange": "NAS",
+        "id": "NAS:AMAT",
+        "cik": "6951",
+        "FIGI": "tts-827539"
+    },
+    {
+        "name": "Applied Micro Circuits Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "AMCC",
+        "exchange": "NAS",
+        "id": "NAS:AMCC",
+        "cik": "711065",
+        "FIGI": "tts-827554"
+    },
+    {
+        "name": "Advanced Micro Devices Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "AMD",
+        "exchange": "NAS",
+        "id": "NAS:AMD",
+        "cik": "2488",
+        "FIGI": "tts-80383707"
+    },
+    {
+        "name": "Amgen Inc",
+        "sector": "Healthcare",
+        "symbol": "AMGN",
+        "exchange": "NAS",
+        "id": "NAS:AMGN",
+        "cik": "318154",
+        "FIGI": "tts-827593"
+    },
+    {
+        "name": "Amazon.com Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "AMZN",
+        "exchange": "NAS",
+        "id": "NAS:AMZN",
+        "cik": "1018724",
+        "FIGI": "tts-827705"
+    },
+    {
+        "name": "ANSYS  Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "ANSS",
+        "exchange": "NAS",
+        "id": "NAS:ANSS",
+        "cik": "1013462",
+        "FIGI": "tts-827769"
+    },
+    {
+        "name": "APA Corporation",
+        "sector": null,
+        "symbol": "APA",
+        "exchange": "NAS",
+        "id": "NAS:APA",
+        "cik": "1841666",
+        "FIGI": "tts-195239752"
+    },
+    {
+        "name": "Apollo Education Group, Inc.",
+        "sector": "Industry",
+        "symbol": "APOL",
+        "exchange": "NAS",
+        "id": "NAS:APOL",
+        "cik": "929887",
+        "FIGI": "tts-827801"
+    },
+    {
+        "name": "Applovin Corporation",
+        "sector": null,
+        "symbol": "APP",
+        "exchange": "NAS",
+        "id": "NAS:APP",
+        "cik": "1751008",
+        "FIGI": "tts-217036446"
+    },
+    {
+        "name": "Academy Sports and Outdoors Inc",
+        "sector": null,
+        "symbol": "ASO",
+        "exchange": "NAS",
+        "id": "NAS:ASO",
+        "cik": "1817358",
+        "FIGI": "tts-203211641"
+    },
+    {
+        "name": "Activision Blizzard",
+        "sector": "IT/Telecommunications",
+        "symbol": "ATVI",
+        "exchange": "NAS",
+        "id": "NAS:ATVI",
+        "cik": null,
+        "FIGI": "tts-827879"
+    },
+    {
+        "name": "Broadcom Inc",
+        "sector": null,
+        "symbol": "AVGO",
+        "exchange": "NAS",
+        "id": "NAS:AVGO",
+        "cik": "1730168",
+        "FIGI": "tts-3685519"
+    },
+    {
+        "name": "Axon Enterprise",
+        "sector": null,
+        "symbol": "AXON",
+        "exchange": "NAS",
+        "id": "NAS:AXON",
+        "cik": "1069183",
+        "FIGI": "tts-127281511"
+    },
+    {
+        "name": "Bed Bath & Beyond",
+        "sector": "Consumer Goods",
+        "symbol": "BBBY",
+        "exchange": "NAS",
+        "id": "NAS:BBBY",
+        "cik": "886158",
+        "FIGI": "tts-827919"
+    },
+    {
+        "name": "Beam Therapeutics Inc.",
+        "sector": null,
+        "symbol": "BEAM",
+        "exchange": "NAS",
+        "id": "NAS:BEAM",
+        "cik": "1745999",
+        "FIGI": "tts-182941404"
+    },
+    {
+        "name": "Brighthouse Financial Inc",
+        "sector": null,
+        "symbol": "BHF",
+        "exchange": "NAS",
+        "id": "NAS:BHF",
+        "cik": "1685040",
+        "FIGI": "tts-125860598"
+    },
+    {
+        "name": "Biogen Inc",
+        "sector": "Healthcare",
+        "symbol": "BIIB",
+        "exchange": "NAS",
+        "id": "NAS:BIIB",
+        "cik": "875045",
+        "FIGI": "tts-1076458"
+    },
+    {
+        "name": "Booking Holdings Inc",
+        "sector": null,
+        "symbol": "BKNG",
+        "exchange": "NAS",
+        "id": "NAS:BKNG",
+        "cik": "1075531",
+        "FIGI": "tts-136266150"
+    },
+    {
+        "name": "Baker Hughes Company",
+        "sector": null,
+        "symbol": "BKR",
+        "exchange": "NAS",
+        "id": "NAS:BKR",
+        "cik": "1701605",
+        "FIGI": "tts-234941877"
+    },
+    {
+        "name": "BMC Software, Inc.",
+        "sector": "IT/Telecommunications",
+        "symbol": "BMC",
+        "exchange": "NAS",
+        "id": "NAS:BMC",
+        "cik": "835729",
+        "FIGI": "tts-17914522"
+    },
+    {
+        "name": "Broadcom Corporation - Class A",
+        "sector": "IT/Telecommunications",
+        "symbol": "BRCM",
+        "exchange": "NAS",
+        "id": "NAS:BRCM",
+        "cik": "1054374",
+        "FIGI": "tts-828037"
+    },
+    {
+        "name": "Xtrackers California Municipal Bonds ETF",
+        "sector": null,
+        "symbol": "CA",
+        "exchange": "NAS",
+        "id": "NAS:CA",
+        "cik": null,
+        "FIGI": "tts-298814706"
+    },
+    {
+        "name": "Avis Budget Group Inc",
+        "sector": "Industry",
+        "symbol": "CAR",
+        "exchange": "NAS",
+        "id": "NAS:CAR",
+        "cik": "723612",
+        "FIGI": "tts-17914602"
+    },
+    {
+        "name": "CA INC",
+        "sector": "IT/Telecommunications",
+        "symbol": "CA",
+        "exchange": "NAS",
+        "id": "NAS:CA~1",
+        "cik": "356028",
+        "FIGI": "tts-14011355"
+    },
+    {
+        "name": "Coca Cola Europacific Partners PLC",
+        "sector": null,
+        "symbol": "CCEP",
+        "exchange": "NAS",
+        "id": "NAS:CCEP",
+        "cik": "1650107",
+        "FIGI": "tts-228473225"
+    },
+    {
+        "name": "Cadence Design Systems Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "CDNS",
+        "exchange": "NAS",
+        "id": "NAS:CDNS",
+        "cik": "813672",
+        "FIGI": "tts-3468716"
+    },
+    {
+        "name": "CDW Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "CDW",
+        "exchange": "NAS",
+        "id": "NAS:CDW",
+        "cik": "1402057",
+        "FIGI": "tts-61020822"
+    },
+    {
+        "name": "Constellation Energy Corporation",
+        "sector": null,
+        "symbol": "CEG",
+        "exchange": "NAS",
+        "id": "NAS:CEG",
+        "cik": "1868275",
+        "FIGI": "tts-239110702"
+    },
+    {
+        "name": "Celgene Corp",
+        "sector": "Healthcare",
+        "symbol": "CELG",
+        "exchange": "NAS",
+        "id": "NAS:CELG",
+        "cik": "816284",
+        "FIGI": "tts-832022"
+    },
+    {
+        "name": "CEPHALON INC",
+        "sector": "Healthcare",
+        "symbol": "CEPH",
+        "exchange": "NAS",
+        "id": "NAS:CEPH",
+        "cik": "873364",
+        "FIGI": "tts-832024"
+    },
+    {
+        "name": "Cerner Corp",
+        "sector": "IT/Telecommunications",
+        "symbol": "CERN",
+        "exchange": "NAS",
+        "id": "NAS:CERN",
+        "cik": null,
+        "FIGI": "tts-832025"
+    },
+    {
+        "name": "Chesapeake Energy Corporation",
+        "sector": null,
+        "symbol": "CHK",
+        "exchange": "NAS",
+        "id": "NAS:CHK",
+        "cik": "895126",
+        "FIGI": "tts-213544818"
+    },
+    {
+        "name": "CH Robinson Worldwide Inc",
+        "sector": "Industry",
+        "symbol": "CHRW",
+        "exchange": "NAS",
+        "id": "NAS:CHRW",
+        "cik": "1043277",
+        "FIGI": "tts-828266"
+    },
+    {
+        "name": "Charter Communications Inc New",
+        "sector": null,
+        "symbol": "CHTR",
+        "exchange": "NAS",
+        "id": "NAS:CHTR",
+        "cik": "1091667",
+        "FIGI": "tts-828275"
+    },
+    {
+        "name": "Cincinnati Financial Corporation",
+        "sector": "Finance",
+        "symbol": "CINF",
+        "exchange": "NAS",
+        "id": "NAS:CINF",
+        "cik": "20286",
+        "FIGI": "tts-832041"
+    },
+    {
+        "name": "Comcast Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "CMCSA",
+        "exchange": "NAS",
+        "id": "NAS:CMCSA",
+        "cik": "1166691",
+        "FIGI": "tts-828340"
+    },
+    {
+        "name": "Comcast Corporation - Class A Special",
+        "sector": "IT/Telecommunications",
+        "symbol": "CMCSK",
+        "exchange": "NAS",
+        "id": "NAS:CMCSK",
+        "cik": "1166691",
+        "FIGI": "tts-828342"
+    },
+    {
+        "name": "CME Group Inc",
+        "sector": "Finance",
+        "symbol": "CME",
+        "exchange": "NAS",
+        "id": "NAS:CME",
+        "cik": "1156375",
+        "FIGI": "tts-14796283"
+    },
+    {
+        "name": "Comverse Technology, Inc.",
+        "sector": null,
+        "symbol": "CMVT",
+        "exchange": "NAS",
+        "id": "NAS:CMVT",
+        "cik": "803014",
+        "FIGI": "tts-828356"
+    },
+    {
+        "name": "Coinbase Global Inc",
+        "sector": null,
+        "symbol": "COIN",
+        "exchange": "NAS",
+        "id": "NAS:COIN",
+        "cik": "1679788",
+        "FIGI": "tts-217173114"
+    },
+    {
+        "name": "Cooper Companies Inc",
+        "sector": null,
+        "symbol": "COO",
+        "exchange": "NAS",
+        "id": "NAS:COO",
+        "cik": "711404",
+        "FIGI": "tts-291149475"
+    },
+    {
+        "name": "Costco Wholesale Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "COST",
+        "exchange": "NAS",
+        "id": "NAS:COST",
+        "cik": "909832",
+        "FIGI": "tts-828403"
+    },
+    {
+        "name": "Campbells Company",
+        "sector": "Consumer Goods",
+        "symbol": "CPB",
+        "exchange": "NAS",
+        "id": "NAS:CPB",
+        "cik": "16732",
+        "FIGI": "tts-818903"
+    },
+    {
+        "name": "Copart  Inc",
+        "sector": "Consumer Goods",
+        "symbol": "CPRT",
+        "exchange": "NAS",
+        "id": "NAS:CPRT",
+        "cik": "900075",
+        "FIGI": "tts-828408"
+    },
+    {
+        "name": "Compuware Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "CPWR",
+        "exchange": "NAS",
+        "id": "NAS:CPWR",
+        "cik": "859014",
+        "FIGI": "tts-828418"
+    },
+    {
+        "name": "CrowdStrike Holdings Inc",
+        "sector": null,
+        "symbol": "CRWD",
+        "exchange": "NAS",
+        "id": "NAS:CRWD",
+        "cik": "1535527",
+        "FIGI": "tts-167018563"
+    },
+    {
+        "name": "Cisco Systems Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "CSCO",
+        "exchange": "NAS",
+        "id": "NAS:CSCO",
+        "cik": "858877",
+        "FIGI": "tts-828468"
+    },
+    {
+        "name": "CoStar Group Inc",
+        "sector": "Industry",
+        "symbol": "CSGP",
+        "exchange": "NAS",
+        "id": "NAS:CSGP",
+        "cik": "1057352",
+        "FIGI": "tts-832092"
+    },
+    {
+        "name": "CSX Corporation",
+        "sector": "Industry",
+        "symbol": "CSX",
+        "exchange": "NAS",
+        "id": "NAS:CSX",
+        "cik": "277948",
+        "FIGI": "tts-98691180"
+    },
+    {
+        "name": "Cintas Corporation",
+        "sector": "Industry",
+        "symbol": "CTAS",
+        "exchange": "NAS",
+        "id": "NAS:CTAS",
+        "cik": "723254",
+        "FIGI": "tts-832098"
+    },
+    {
+        "name": "Cognizant Technology Solutions Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "CTSH",
+        "exchange": "NAS",
+        "id": "NAS:CTSH",
+        "cik": "1058290",
+        "FIGI": "tts-828513"
+    },
+    {
+        "name": "Citrix Systems",
+        "sector": "IT/Telecommunications",
+        "symbol": "CTXS",
+        "exchange": "NAS",
+        "id": "NAS:CTXS",
+        "cik": null,
+        "FIGI": "tts-828516"
+    },
+    {
+        "name": "Caesars Entertainment Inc",
+        "sector": null,
+        "symbol": "CZR",
+        "exchange": "NAS",
+        "id": "NAS:CZR",
+        "cik": "1590895",
+        "FIGI": "tts-38722992"
+    },
+    {
+        "name": "DoorDash Inc",
+        "sector": null,
+        "symbol": "DASH",
+        "exchange": "NAS",
+        "id": "NAS:DASH",
+        "cik": "1792789",
+        "FIGI": "tts-291149473"
+    },
+    {
+        "name": "Datadog Inc",
+        "sector": null,
+        "symbol": "DDOG",
+        "exchange": "NAS",
+        "id": "NAS:DDOG",
+        "cik": "1561550",
+        "FIGI": "tts-174002103"
+    },
+    {
+        "name": "Dell Inc.",
+        "sector": "IT/Telecommunications",
+        "symbol": "DELL",
+        "exchange": "NAS",
+        "id": "NAS:DELL",
+        "cik": "826083",
+        "FIGI": "tts-828600"
+    },
+    {
+        "name": "Discovery",
+        "sector": "IT/Telecommunications",
+        "symbol": "DISCA",
+        "exchange": "NAS",
+        "id": "NAS:DISCA",
+        "cik": null,
+        "FIGI": "tts-3103596"
+    },
+    {
+        "name": "Discovery",
+        "sector": "IT/Telecommunications",
+        "symbol": "DISCK",
+        "exchange": "NAS",
+        "id": "NAS:DISCK",
+        "cik": null,
+        "FIGI": "tts-15427298"
+    },
+    {
+        "name": "DISH Network Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "DISH",
+        "exchange": "NAS",
+        "id": "NAS:DISH",
+        "cik": null,
+        "FIGI": "tts-832145"
+    },
+    {
+        "name": "Dollar Tree Inc",
+        "sector": "Consumer Goods",
+        "symbol": "DLTR",
+        "exchange": "NAS",
+        "id": "NAS:DLTR",
+        "cik": "935703",
+        "FIGI": "tts-828632"
+    },
+    {
+        "name": "Dominos Pizza Inc",
+        "sector": "Consumer Goods",
+        "symbol": "DPZ",
+        "exchange": "NAS",
+        "id": "NAS:DPZ",
+        "cik": "1286681",
+        "FIGI": "tts-1860018"
+    },
+    {
+        "name": "DIRECTV",
+        "sector": "IT/Telecommunications",
+        "symbol": "DTV",
+        "exchange": "NAS",
+        "id": "NAS:DTV",
+        "cik": "1465112",
+        "FIGI": "tts-12035732"
+    },
+    {
+        "name": "DexCom Inc",
+        "sector": "Healthcare",
+        "symbol": "DXCM",
+        "exchange": "NAS",
+        "id": "NAS:DXCM",
+        "cik": "1093557",
+        "FIGI": "tts-2711488"
+    },
+    {
+        "name": "Dyne Therapeutics, Inc.",
+        "sector": null,
+        "symbol": "DYN",
+        "exchange": "NAS",
+        "id": "NAS:DYN",
+        "cik": "1818794",
+        "FIGI": "tts-202132150"
+    },
+    {
+        "name": "Electronic Arts Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "EA",
+        "exchange": "NAS",
+        "id": "NAS:EA",
+        "cik": "712515",
+        "FIGI": "tts-36769516"
+    },
+    {
+        "name": "eBay Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "EBAY",
+        "exchange": "NAS",
+        "id": "NAS:EBAY",
+        "cik": "1065088",
+        "FIGI": "tts-832177"
+    },
+    {
+        "name": "Endo International plc",
+        "sector": "Healthcare",
+        "symbol": "ENDP",
+        "exchange": "NAS",
+        "id": "NAS:ENDP",
+        "cik": null,
+        "FIGI": "tts-828772"
+    },
+    {
+        "name": "Enphase Energy Inc",
+        "sector": "Energy",
+        "symbol": "ENPH",
+        "exchange": "NAS",
+        "id": "NAS:ENPH",
+        "cik": "1463101",
+        "FIGI": "tts-40948542"
+    },
+    {
+        "name": "Equillium, Inc.",
+        "sector": null,
+        "symbol": "EQ",
+        "exchange": "NAS",
+        "id": "NAS:EQ",
+        "cik": "1746466",
+        "FIGI": "tts-151195204"
+    },
+    {
+        "name": "Equinix Inc",
+        "sector": null,
+        "symbol": "EQIX",
+        "exchange": "NAS",
+        "id": "NAS:EQIX",
+        "cik": "1101239",
+        "FIGI": "tts-828800"
+    },
+    {
+        "name": "Erie Indemnity Company",
+        "sector": "Finance",
+        "symbol": "ERIE",
+        "exchange": "NAS",
+        "id": "NAS:ERIE",
+        "cik": "922621",
+        "FIGI": "tts-832208"
+    },
+    {
+        "name": "Express Scripts Holding Company",
+        "sector": "Healthcare",
+        "symbol": "ESRX",
+        "exchange": "NAS",
+        "id": "NAS:ESRX",
+        "cik": "1532063",
+        "FIGI": "tts-828820"
+    },
+    {
+        "name": "Evergy Inc",
+        "sector": null,
+        "symbol": "EVRG",
+        "exchange": "NAS",
+        "id": "NAS:EVRG",
+        "cik": "1711269",
+        "FIGI": "tts-268463162"
+    },
+    {
+        "name": "Exelon Corporation",
+        "sector": "Energy",
+        "symbol": "EXC",
+        "exchange": "NAS",
+        "id": "NAS:EXC",
+        "cik": "1109357",
+        "FIGI": "tts-175405676"
+    },
+    {
+        "name": "Expand Energy Corporation",
+        "sector": null,
+        "symbol": "EXE",
+        "exchange": "NAS",
+        "id": "NAS:EXE",
+        "cik": "895126",
+        "FIGI": "tts-324551988"
+    },
+    {
+        "name": "Expedia Group Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "EXPE",
+        "exchange": "NAS",
+        "id": "NAS:EXPE",
+        "cik": "1324424",
+        "FIGI": "tts-828861"
+    },
+    {
+        "name": "Diamondback Energy Inc",
+        "sector": "Energy",
+        "symbol": "FANG",
+        "exchange": "NAS",
+        "id": "NAS:FANG",
+        "cik": "1539838",
+        "FIGI": "tts-51776389"
+    },
+    {
+        "name": "Fastenal Company",
+        "sector": "Consumer Goods",
+        "symbol": "FAST",
+        "exchange": "NAS",
+        "id": "NAS:FAST",
+        "cik": "815556",
+        "FIGI": "tts-828870"
+    },
+    {
+        "name": "Meta Platforms",
+        "sector": "IT/Telecommunications",
+        "symbol": "FB",
+        "exchange": "NAS",
+        "id": "NAS:FB",
+        "cik": null,
+        "FIGI": "tts-43902240"
+    },
+    {
+        "name": "F5 Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "FFIV",
+        "exchange": "NAS",
+        "id": "NAS:FFIV",
+        "cik": "1048695",
+        "FIGI": "tts-828913"
+    },
+    {
+        "name": "Fiserv",
+        "sector": "IT/Telecommunications",
+        "symbol": "FISV",
+        "exchange": "NAS",
+        "id": "NAS:FISV",
+        "cik": "798354",
+        "FIGI": "tts-832260"
+    },
+    {
+        "name": "Fiserv Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "FISV",
+        "exchange": "NAS",
+        "id": "NAS:FISV~1",
+        "cik": "798354",
+        "FIGI": "tts-377137730"
+    },
+    {
+        "name": "Fifth Third Bancorp",
+        "sector": "Finance",
+        "symbol": "FITB",
+        "exchange": "NAS",
+        "id": "NAS:FITB",
+        "cik": "35527",
+        "FIGI": "tts-832261"
+    },
+    {
+        "name": "FLIR Systems",
+        "sector": "IT/Telecommunications",
+        "symbol": "FLIR",
+        "exchange": "NAS",
+        "id": "NAS:FLIR",
+        "cik": null,
+        "FIGI": "tts-832266"
+    },
+    {
+        "name": "Fossil Group, Inc.",
+        "sector": "Consumer Goods",
+        "symbol": "FOSL",
+        "exchange": "NAS",
+        "id": "NAS:FOSL",
+        "cik": "883569",
+        "FIGI": "tts-832280"
+    },
+    {
+        "name": "Fox Corporation",
+        "sector": null,
+        "symbol": "FOX",
+        "exchange": "NAS",
+        "id": "NAS:FOX",
+        "cik": "1754301",
+        "FIGI": "tts-61149825"
+    },
+    {
+        "name": "Fox Corporation",
+        "sector": null,
+        "symbol": "FOXA",
+        "exchange": "NAS",
+        "id": "NAS:FOXA",
+        "cik": "1754301",
+        "FIGI": "tts-61149824"
+    },
+    {
+        "name": "First Solar Inc",
+        "sector": "Energy",
+        "symbol": "FSLR",
+        "exchange": "NAS",
+        "id": "NAS:FSLR",
+        "cik": "1274494",
+        "FIGI": "tts-5211016"
+    },
+    {
+        "name": "Fortinet Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "FTNT",
+        "exchange": "NAS",
+        "id": "NAS:FTNT",
+        "cik": "1262039",
+        "FIGI": "tts-20508704"
+    },
+    {
+        "name": "GE HealthCare Technologies Inc",
+        "sector": null,
+        "symbol": "GEHC",
+        "exchange": "NAS",
+        "id": "NAS:GEHC",
+        "cik": "1932393",
+        "FIGI": "tts-268663742"
+    },
+    {
+        "name": "Gen Digital Inc",
+        "sector": null,
+        "symbol": "GEN",
+        "exchange": "NAS",
+        "id": "NAS:GEN",
+        "cik": "849399",
+        "FIGI": "tts-282720976"
+    },
+    {
+        "name": "GENZYME CORPORATION",
+        "sector": null,
+        "symbol": "GENZ",
+        "exchange": "NAS",
+        "id": "NAS:GENZ",
+        "cik": "732485",
+        "FIGI": "tts-829049"
+    },
+    {
+        "name": "Gilead Sciences Inc",
+        "sector": "Healthcare",
+        "symbol": "GILD",
+        "exchange": "NAS",
+        "id": "NAS:GILD",
+        "cik": "882095",
+        "FIGI": "tts-829063"
+    },
+    {
+        "name": "Keurig Green Mountain, Inc.",
+        "sector": "Consumer Goods",
+        "symbol": "GMCR",
+        "exchange": "NAS",
+        "id": "NAS:GMCR",
+        "cik": "909954",
+        "FIGI": "tts-832321"
+    },
+    {
+        "name": "Alphabet C",
+        "sector": null,
+        "symbol": "GOOG",
+        "exchange": "NAS",
+        "id": "NAS:GOOG",
+        "cik": "1652044",
+        "FIGI": "tts-1947579"
+    },
+    {
+        "name": "Alphabet A",
+        "sector": null,
+        "symbol": "GOOGL",
+        "exchange": "NAS",
+        "id": "NAS:GOOGL",
+        "cik": "1652044",
+        "FIGI": "tts-71625495"
+    },
+    {
+        "name": "GreenPower Motor Company Inc.",
+        "sector": null,
+        "symbol": "GP",
+        "exchange": "NAS",
+        "id": "NAS:GP",
+        "cik": "1584547",
+        "FIGI": "tts-201185706"
+    },
+    {
+        "name": "Goodyear Tire and Rubber Company",
+        "sector": "Industry",
+        "symbol": "GT",
+        "exchange": "NAS",
+        "id": "NAS:GT",
+        "cik": "42582",
+        "FIGI": "tts-54104577"
+    },
+    {
+        "name": "Hasbro Inc",
+        "sector": "Consumer Goods",
+        "symbol": "HAS",
+        "exchange": "NAS",
+        "id": "NAS:HAS",
+        "cik": "46080",
+        "FIGI": "tts-17914161"
+    },
+    {
+        "name": "Huntington Bancshares Inc",
+        "sector": "Finance",
+        "symbol": "HBAN",
+        "exchange": "NAS",
+        "id": "NAS:HBAN",
+        "cik": "49196",
+        "FIGI": "tts-832355"
+    },
+    {
+        "name": "Hologic Inc",
+        "sector": "Healthcare",
+        "symbol": "HOLX",
+        "exchange": "NAS",
+        "id": "NAS:HOLX",
+        "cik": "859737",
+        "FIGI": "tts-832375"
+    },
+    {
+        "name": "Honeywell International Inc",
+        "sector": "Industry",
+        "symbol": "HON",
+        "exchange": "NAS",
+        "id": "NAS:HON",
+        "cik": "773840",
+        "FIGI": "tts-219587327"
+    },
+    {
+        "name": "Robinhood Markets Inc",
+        "sector": null,
+        "symbol": "HOOD",
+        "exchange": "NAS",
+        "id": "NAS:HOOD",
+        "cik": "1783879",
+        "FIGI": "tts-224444255"
+    },
+    {
+        "name": "Henry Schein Inc",
+        "sector": "Healthcare",
+        "symbol": "HSIC",
+        "exchange": "NAS",
+        "id": "NAS:HSIC",
+        "cik": "1000228",
+        "FIGI": "tts-829202"
+    },
+    {
+        "name": "Host Hotels and Resorts Inc",
+        "sector": "Finance",
+        "symbol": "HST",
+        "exchange": "NAS",
+        "id": "NAS:HST",
+        "cik": "1070750",
+        "FIGI": "tts-206130495"
+    },
+    {
+        "name": "IAC Inc",
+        "sector": null,
+        "symbol": "IAC",
+        "exchange": "NAS",
+        "id": "NAS:IAC",
+        "cik": "1800227",
+        "FIGI": "tts-99960993"
+    },
+    {
+        "name": "Interactive Brokers Group Inc",
+        "sector": "Finance",
+        "symbol": "IBKR",
+        "exchange": "NAS",
+        "id": "NAS:IBKR",
+        "cik": "1381197",
+        "FIGI": "tts-176240249"
+    },
+    {
+        "name": "IDEXX Laboratories Inc",
+        "sector": "Healthcare",
+        "symbol": "IDXX",
+        "exchange": "NAS",
+        "id": "NAS:IDXX",
+        "cik": "874716",
+        "FIGI": "tts-832406"
+    },
+    {
+        "name": "Illumina Inc",
+        "sector": "Healthcare",
+        "symbol": "ILMN",
+        "exchange": "NAS",
+        "id": "NAS:ILMN",
+        "cik": "1110803",
+        "FIGI": "tts-829281"
+    },
+    {
+        "name": "Incyte Corporation",
+        "sector": "Healthcare",
+        "symbol": "INCY",
+        "exchange": "NAS",
+        "id": "NAS:INCY",
+        "cik": "879169",
+        "FIGI": "tts-829309"
+    },
+    {
+        "name": "IHS Markit Ltd",
+        "sector": null,
+        "symbol": "INFO",
+        "exchange": "NAS",
+        "id": "NAS:INFO",
+        "cik": null,
+        "FIGI": "tts-107626550"
+    },
+    {
+        "name": "Intel Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "INTC",
+        "exchange": "NAS",
+        "id": "NAS:INTC",
+        "cik": "50863",
+        "FIGI": "tts-829352"
+    },
+    {
+        "name": "Intuit Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "INTU",
+        "exchange": "NAS",
+        "id": "NAS:INTU",
+        "cik": "896878",
+        "FIGI": "tts-829359"
+    },
+    {
+        "name": "IPG Photonics Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "IPGP",
+        "exchange": "NAS",
+        "id": "NAS:IPGP",
+        "cik": "1111928",
+        "FIGI": "tts-5366668"
+    },
+    {
+        "name": "Intuitive Surgical Inc",
+        "sector": "Healthcare",
+        "symbol": "ISRG",
+        "exchange": "NAS",
+        "id": "NAS:ISRG",
+        "cik": "1035267",
+        "FIGI": "tts-829383"
+    },
+    {
+        "name": "SUN MICROSYSTEMS INC",
+        "sector": null,
+        "symbol": "JAVA",
+        "exchange": "NAS",
+        "id": "NAS:JAVA",
+        "cik": "709519",
+        "FIGI": "tts-11317091"
+    },
+    {
+        "name": "J B Hunt Transport Services Inc",
+        "sector": "Industry",
+        "symbol": "JBHT",
+        "exchange": "NAS",
+        "id": "NAS:JBHT",
+        "cik": "728535",
+        "FIGI": "tts-829418"
+    },
+    {
+        "name": "Jack Henry and Associates Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "JKHY",
+        "exchange": "NAS",
+        "id": "NAS:JKHY",
+        "cik": "779152",
+        "FIGI": "tts-829435"
+    },
+    {
+        "name": "Keurig Dr Pepper Inc",
+        "sector": null,
+        "symbol": "KDP",
+        "exchange": "NAS",
+        "id": "NAS:KDP",
+        "cik": "1418135",
+        "FIGI": "tts-203738082"
+    },
+    {
+        "name": "Kestrel Group, Ltd.",
+        "sector": "Finance",
+        "symbol": "KG",
+        "exchange": "NAS",
+        "id": "NAS:KG",
+        "cik": "2055116",
+        "FIGI": "tts-355975082"
+    },
+    {
+        "name": "Kraft Heinz Company",
+        "sector": null,
+        "symbol": "KHC",
+        "exchange": "NAS",
+        "id": "NAS:KHC",
+        "cik": "1637459",
+        "FIGI": "tts-90308539"
+    },
+    {
+        "name": "KLA Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "KLAC",
+        "exchange": "NAS",
+        "id": "NAS:KLAC",
+        "cik": "319201",
+        "FIGI": "tts-832472"
+    },
+    {
+        "name": "Kimberly Clark Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "KMB",
+        "exchange": "NAS",
+        "id": "NAS:KMB",
+        "cik": "55785",
+        "FIGI": "tts-820327"
+    },
+    {
+        "name": "Kraft Foods Group, Inc.",
+        "sector": "Consumer Goods",
+        "symbol": "KRFTV",
+        "exchange": "NAS",
+        "id": "NAS:KRFTV",
+        "cik": null,
+        "FIGI": "tts-50624445"
+    },
+    {
+        "name": "LEHMAN BROS HLDGS INC",
+        "sector": null,
+        "symbol": "LEHMQ",
+        "exchange": "NAS",
+        "id": "NAS:LEHMQ",
+        "cik": null,
+        "FIGI": "tts-15427408"
+    },
+    {
+        "name": "ATYR PHARMA INC COM USD0.001",
+        "sector": "Healthcare",
+        "symbol": "LIFE",
+        "exchange": "NAS",
+        "id": "NAS:LIFE",
+        "cik": "1073431",
+        "FIGI": "tts-88339869"
+    },
+    {
+        "name": "Linde PLC",
+        "sector": null,
+        "symbol": "LIN",
+        "exchange": "NAS",
+        "id": "NAS:LIN",
+        "cik": "1707925",
+        "FIGI": "tts-294951046"
+    },
+    {
+        "name": "LKQ Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "LKQ",
+        "exchange": "NAS",
+        "id": "NAS:LKQ",
+        "cik": "1065696",
+        "FIGI": "tts-45185392"
+    },
+    {
+        "name": "Linear Technology Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "LLTC",
+        "exchange": "NAS",
+        "id": "NAS:LLTC",
+        "cik": "791907",
+        "FIGI": "tts-832500"
+    },
+    {
+        "name": "Alliant Energy Corporation",
+        "sector": "Energy",
+        "symbol": "LNT",
+        "exchange": "NAS",
+        "id": "NAS:LNT",
+        "cik": "352541",
+        "FIGI": "tts-157369984"
+    },
+    {
+        "name": "Lam Research Corporation",
+        "sector": null,
+        "symbol": "LRCX",
+        "exchange": "NAS",
+        "id": "NAS:LRCX",
+        "cik": "707549",
+        "FIGI": "tts-832505"
+    },
+    {
+        "name": "LSI Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "LSI",
+        "exchange": "NAS",
+        "id": "NAS:LSI",
+        "cik": null,
+        "FIGI": "tts-54148883"
+    },
+    {
+        "name": "Lululemon Athletica Inc",
+        "sector": "Consumer Goods",
+        "symbol": "LULU",
+        "exchange": "NAS",
+        "id": "NAS:LULU",
+        "cik": "1397187",
+        "FIGI": "tts-11159809"
+    },
+    {
+        "name": "Marriott International Inc",
+        "sector": "Consumer Goods",
+        "symbol": "MAR",
+        "exchange": "NAS",
+        "id": "NAS:MAR",
+        "cik": "1048286",
+        "FIGI": "tts-65832501"
+    },
+    {
+        "name": "Mattel  Inc",
+        "sector": "Consumer Goods",
+        "symbol": "MAT",
+        "exchange": "NAS",
+        "id": "NAS:MAT",
+        "cik": "63276",
+        "FIGI": "tts-17916214"
+    },
+    {
+        "name": "Microchip Technology Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "MCHP",
+        "exchange": "NAS",
+        "id": "NAS:MCHP",
+        "cik": "827054",
+        "FIGI": "tts-829623"
+    },
+    {
+        "name": "Mondelez International Inc",
+        "sector": "Consumer Goods",
+        "symbol": "MDLZ",
+        "exchange": "NAS",
+        "id": "NAS:MDLZ",
+        "cik": "1103982",
+        "FIGI": "tts-51210920"
+    },
+    {
+        "name": "Meta Platforms",
+        "sector": "IT/Telecommunications",
+        "symbol": "META",
+        "exchange": "NAS",
+        "id": "NAS:META",
+        "cik": "1326801",
+        "FIGI": "tts-222568848"
+    },
+    {
+        "name": "MarketAxess Holdings Inc",
+        "sector": "Finance",
+        "symbol": "MKTX",
+        "exchange": "NAS",
+        "id": "NAS:MKTX",
+        "cik": "1278021",
+        "FIGI": "tts-2079936"
+    },
+    {
+        "name": "Monster Beverage Corporation",
+        "sector": null,
+        "symbol": "MNST",
+        "exchange": "NAS",
+        "id": "NAS:MNST",
+        "cik": "865752",
+        "FIGI": "tts-37214168"
+    },
+    {
+        "name": "Molex Incorporated",
+        "sector": "IT/Telecommunications",
+        "symbol": "MOLX",
+        "exchange": "NAS",
+        "id": "NAS:MOLX",
+        "cik": "67472",
+        "FIGI": "tts-829749"
+    },
+    {
+        "name": "Monolithic Power Systems Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "MPWR",
+        "exchange": "NAS",
+        "id": "NAS:MPWR",
+        "cik": "1280452",
+        "FIGI": "tts-2098957"
+    },
+    {
+        "name": "Moderna Inc",
+        "sector": null,
+        "symbol": "MRNA",
+        "exchange": "NAS",
+        "id": "NAS:MRNA",
+        "cik": "1682852",
+        "FIGI": "tts-14359676"
+    },
+    {
+        "name": "Microsoft Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "MSFT",
+        "exchange": "NAS",
+        "id": "NAS:MSFT",
+        "cik": "789019",
+        "FIGI": "tts-829802"
+    },
+    {
+        "name": "Match Group Inc",
+        "sector": null,
+        "symbol": "MTCH",
+        "exchange": "NAS",
+        "id": "NAS:MTCH",
+        "cik": "891103",
+        "FIGI": "tts-97315627"
+    },
+    {
+        "name": "Micron Technology Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "MU",
+        "exchange": "NAS",
+        "id": "NAS:MU",
+        "cik": "723125",
+        "FIGI": "tts-17914799"
+    },
+    {
+        "name": "Maxim Integrated Products",
+        "sector": "IT/Telecommunications",
+        "symbol": "MXIM",
+        "exchange": "NAS",
+        "id": "NAS:MXIM",
+        "cik": "743316",
+        "FIGI": "tts-829854"
+    },
+    {
+        "name": "Mylan NV",
+        "sector": null,
+        "symbol": "MYL",
+        "exchange": "NAS",
+        "id": "NAS:MYL",
+        "cik": "1623613",
+        "FIGI": "tts-16784810"
+    },
+    {
+        "name": "Navient Corporation",
+        "sector": "Finance",
+        "symbol": "NAVI",
+        "exchange": "NAS",
+        "id": "NAS:NAVI",
+        "cik": "1593538",
+        "FIGI": "tts-829885"
+    },
+    {
+        "name": "Nasdaq Inc",
+        "sector": "Finance",
+        "symbol": "NDAQ",
+        "exchange": "NAS",
+        "id": "NAS:NDAQ",
+        "cik": "1120193",
+        "FIGI": "tts-1407072"
+    },
+    {
+        "name": "Nordson Corporation",
+        "sector": "Industry",
+        "symbol": "NDSN",
+        "exchange": "NAS",
+        "id": "NAS:NDSN",
+        "cik": "72331",
+        "FIGI": "tts-832561"
+    },
+    {
+        "name": "Netflix Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "NFLX",
+        "exchange": "NAS",
+        "id": "NAS:NFLX",
+        "cik": "1065280",
+        "FIGI": "tts-829933"
+    },
+    {
+        "name": "Nektar Therapeutics",
+        "sector": null,
+        "symbol": "NKTR",
+        "exchange": "NAS",
+        "id": "NAS:NKTR",
+        "cik": "906709",
+        "FIGI": "tts-829958"
+    },
+    {
+        "name": "NortonLifeLock",
+        "sector": null,
+        "symbol": "NLOK",
+        "exchange": "NAS",
+        "id": "NAS:NLOK",
+        "cik": "849399",
+        "FIGI": "tts-177780551"
+    },
+    {
+        "name": "NOVELL INC",
+        "sector": null,
+        "symbol": "NOVL",
+        "exchange": "NAS",
+        "id": "NAS:NOVL",
+        "cik": "758004",
+        "FIGI": "tts-829989"
+    },
+    {
+        "name": "NetApp Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "NTAP",
+        "exchange": "NAS",
+        "id": "NAS:NTAP",
+        "cik": "1002047",
+        "FIGI": "tts-830016"
+    },
+    {
+        "name": "Northern Trust Corporation",
+        "sector": "Finance",
+        "symbol": "NTRS",
+        "exchange": "NAS",
+        "id": "NAS:NTRS",
+        "cik": "73124",
+        "FIGI": "tts-830030"
+    },
+    {
+        "name": "NVIDIA Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "NVDA",
+        "exchange": "NAS",
+        "id": "NAS:NVDA",
+        "cik": "1045810",
+        "FIGI": "tts-830046"
+    },
+    {
+        "name": "Newell Brands Inc",
+        "sector": "Consumer Goods",
+        "symbol": "NWL",
+        "exchange": "NAS",
+        "id": "NAS:NWL",
+        "cik": "814453",
+        "FIGI": "tts-157369985"
+    },
+    {
+        "name": "News Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "NWS",
+        "exchange": "NAS",
+        "id": "NAS:NWS",
+        "cik": "1564708",
+        "FIGI": "tts-16784815"
+    },
+    {
+        "name": "News Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "NWSA",
+        "exchange": "NAS",
+        "id": "NAS:NWSA",
+        "cik": "1564708",
+        "FIGI": "tts-16784816"
+    },
+    {
+        "name": "NXP Semiconductors NV",
+        "sector": "IT/Telecommunications",
+        "symbol": "NXPI",
+        "exchange": "NAS",
+        "id": "NAS:NXPI",
+        "cik": "1413447",
+        "FIGI": "tts-24429604"
+    },
+    {
+        "name": "Old Dominion Freight Line Inc",
+        "sector": "Industry",
+        "symbol": "ODFL",
+        "exchange": "NAS",
+        "id": "NAS:ODFL",
+        "cik": "878927",
+        "FIGI": "tts-818221"
+    },
+    {
+        "name": "The ODP Corporation",
+        "sector": null,
+        "symbol": "ODP",
+        "exchange": "NAS",
+        "id": "NAS:ODP",
+        "cik": "800240",
+        "FIGI": "tts-76939141"
+    },
+    {
+        "name": "ON Semiconductor",
+        "sector": "IT/Telecommunications",
+        "symbol": "ON",
+        "exchange": "NAS",
+        "id": "NAS:ON",
+        "cik": "1097864",
+        "FIGI": "tts-85128742"
+    },
+    {
+        "name": "O Reilly Automotive Inc",
+        "sector": "Consumer Goods",
+        "symbol": "ORLY",
+        "exchange": "NAS",
+        "id": "NAS:ORLY",
+        "cik": "898173",
+        "FIGI": "tts-818315"
+    },
+    {
+        "name": "Palo Alto Networks Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "PANW",
+        "exchange": "NAS",
+        "id": "NAS:PANW",
+        "cik": "1327567",
+        "FIGI": "tts-231697626"
+    },
+    {
+        "name": "Paramount Global",
+        "sector": null,
+        "symbol": "PARA",
+        "exchange": "NAS",
+        "id": "NAS:PARA",
+        "cik": "813828",
+        "FIGI": "tts-240346757"
+    },
+    {
+        "name": "Paychex  Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "PAYX",
+        "exchange": "NAS",
+        "id": "NAS:PAYX",
+        "cik": "723531",
+        "FIGI": "tts-818433"
+    },
+    {
+        "name": "PACCAR Inc",
+        "sector": "Industry",
+        "symbol": "PCAR",
+        "exchange": "NAS",
+        "id": "NAS:PCAR",
+        "cik": "75362",
+        "FIGI": "tts-830133"
+    },
+    {
+        "name": "Patterson Companies Inc",
+        "sector": "Healthcare",
+        "symbol": "PDCO",
+        "exchange": "NAS",
+        "id": "NAS:PDCO",
+        "cik": "891024",
+        "FIGI": "tts-830145"
+    },
+    {
+        "name": "PENN Entertainment Inc",
+        "sector": "Consumer Goods",
+        "symbol": "PENN",
+        "exchange": "NAS",
+        "id": "NAS:PENN",
+        "cik": "921738",
+        "FIGI": "tts-818567"
+    },
+    {
+        "name": "PepsiCo Inc",
+        "sector": "Consumer Goods",
+        "symbol": "PEP",
+        "exchange": "NAS",
+        "id": "NAS:PEP",
+        "cik": "77476",
+        "FIGI": "tts-132468358"
+    },
+    {
+        "name": "PetSmart, Inc",
+        "sector": "Consumer Goods",
+        "symbol": "PETM",
+        "exchange": "NAS",
+        "id": "NAS:PETM",
+        "cik": "863157",
+        "FIGI": "tts-818586"
+    },
+    {
+        "name": "Principal Financial Group Inc",
+        "sector": "Finance",
+        "symbol": "PFG",
+        "exchange": "NAS",
+        "id": "NAS:PFG",
+        "cik": "1126328",
+        "FIGI": "tts-132294694"
+    },
+    {
+        "name": "Piedmont Lithium Inc",
+        "sector": null,
+        "symbol": "PLL",
+        "exchange": "NAS",
+        "id": "NAS:PLL",
+        "cik": "1728205",
+        "FIGI": "tts-156213659"
+    },
+    {
+        "name": "Palantir Technologies Inc",
+        "sector": null,
+        "symbol": "PLTR",
+        "exchange": "NAS",
+        "id": "NAS:PLTR",
+        "cik": "1321655",
+        "FIGI": "tts-202005198"
+    },
+    {
+        "name": "PMC - Sierra, Inc.",
+        "sector": "IT/Telecommunications",
+        "symbol": "PMCS",
+        "exchange": "NAS",
+        "id": "NAS:PMCS",
+        "cik": "767920",
+        "FIGI": "tts-818770"
+    },
+    {
+        "name": "Insulet Corporation",
+        "sector": "Healthcare",
+        "symbol": "PODD",
+        "exchange": "NAS",
+        "id": "NAS:PODD",
+        "cik": "1145197",
+        "FIGI": "tts-9545523"
+    },
+    {
+        "name": "POMDOCTOR LIMITED - American Depositary Shares",
+        "sector": null,
+        "symbol": "POM",
+        "exchange": "NAS",
+        "id": "NAS:POM",
+        "cik": "1877971",
+        "FIGI": "tts-372289887"
+    },
+    {
+        "name": "Pool Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "POOL",
+        "exchange": "NAS",
+        "id": "NAS:POOL",
+        "cik": "945841",
+        "FIGI": "tts-818921"
+    },
+    {
+        "name": "Paramount Skydance Corporation",
+        "sector": null,
+        "symbol": "PSKY",
+        "exchange": "NAS",
+        "id": "NAS:PSKY",
+        "cik": "2041610",
+        "FIGI": "tts-364559782"
+    },
+    {
+        "name": "PTC Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "PTC",
+        "exchange": "NAS",
+        "id": "NAS:PTC",
+        "cik": "857005",
+        "FIGI": "tts-67417572"
+    },
+    {
+        "name": "PayPal Holdings Inc",
+        "sector": null,
+        "symbol": "PYPL",
+        "exchange": "NAS",
+        "id": "NAS:PYPL",
+        "cik": "1633917",
+        "FIGI": "tts-91263224"
+    },
+    {
+        "name": "QUALCOMM Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "QCOM",
+        "exchange": "NAS",
+        "id": "NAS:QCOM",
+        "cik": "804328",
+        "FIGI": "tts-830263"
+    },
+    {
+        "name": "QLogic Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "QLGC",
+        "exchange": "NAS",
+        "id": "NAS:QLGC",
+        "cik": "918386",
+        "FIGI": "tts-830271"
+    },
+    {
+        "name": "Qorvo Inc",
+        "sector": null,
+        "symbol": "QRVO",
+        "exchange": "NAS",
+        "id": "NAS:QRVO",
+        "cik": "1604778",
+        "FIGI": "tts-80402151"
+    },
+    {
+        "name": "Regency Centers Corporation",
+        "sector": "Finance",
+        "symbol": "REG",
+        "exchange": "NAS",
+        "id": "NAS:REG",
+        "cik": "910606",
+        "FIGI": "tts-157369986"
+    },
+    {
+        "name": "Regeneron Pharmaceuticals Inc",
+        "sector": "Healthcare",
+        "symbol": "REGN",
+        "exchange": "NAS",
+        "id": "NAS:REGN",
+        "cik": "872589",
+        "FIGI": "tts-830313"
+    },
+    {
+        "name": "Roper Technologies Inc",
+        "sector": "Industry",
+        "symbol": "ROP",
+        "exchange": "NAS",
+        "id": "NAS:ROP",
+        "cik": "882835",
+        "FIGI": "tts-284392746"
+    },
+    {
+        "name": "Ross Stores Inc",
+        "sector": "Consumer Goods",
+        "symbol": "ROST",
+        "exchange": "NAS",
+        "id": "NAS:ROST",
+        "cik": "745732",
+        "FIGI": "tts-830361"
+    },
+    {
+        "name": "Sanmina Corporation",
+        "sector": "Industry",
+        "symbol": "SANM",
+        "exchange": "NAS",
+        "id": "NAS:SANM",
+        "cik": "897723",
+        "FIGI": "tts-819878"
+    },
+    {
+        "name": "SBA Communications Corporation",
+        "sector": null,
+        "symbol": "SBAC",
+        "exchange": "NAS",
+        "id": "NAS:SBAC",
+        "cik": "1034054",
+        "FIGI": "tts-819921"
+    },
+    {
+        "name": "Starbucks Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "SBUX",
+        "exchange": "NAS",
+        "id": "NAS:SBUX",
+        "cik": "829224",
+        "FIGI": "tts-830408"
+    },
+    {
+        "name": "SolarEdge Technologies Inc",
+        "sector": null,
+        "symbol": "SEDG",
+        "exchange": "NAS",
+        "id": "NAS:SEDG",
+        "cik": "1419612",
+        "FIGI": "tts-84737604"
+    },
+    {
+        "name": "Sigma-Aldrich Corporation",
+        "sector": "Commodities",
+        "symbol": "SIAL",
+        "exchange": "NAS",
+        "id": "NAS:SIAL",
+        "cik": "90185",
+        "FIGI": "tts-830475"
+    },
+    {
+        "name": "SLM Corporation",
+        "sector": "Finance",
+        "symbol": "SLM",
+        "exchange": "NAS",
+        "id": "NAS:SLM",
+        "cik": "1032033",
+        "FIGI": "tts-36546743"
+    },
+    {
+        "name": "Super Micro Computer Inc",
+        "sector": null,
+        "symbol": "SMCI",
+        "exchange": "NAS",
+        "id": "NAS:SMCI",
+        "cik": "1375365",
+        "FIGI": "tts-181976270"
+    },
+    {
+        "name": "SanDisk Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "SNDK",
+        "exchange": "NAS",
+        "id": "NAS:SNDK",
+        "cik": "1000180",
+        "FIGI": "tts-830518"
+    },
+    {
+        "name": "SanDisk Corporation",
+        "sector": null,
+        "symbol": "SNDK",
+        "exchange": "NAS",
+        "id": "NAS:SNDK~1",
+        "cik": "2023554",
+        "FIGI": "tts-342851559"
+    },
+    {
+        "name": "Scripps Networks Interactive, Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "SNI",
+        "exchange": "NAS",
+        "id": "NAS:SNI",
+        "cik": null,
+        "FIGI": "tts-102491200"
+    },
+    {
+        "name": "Synopsys  Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "SNPS",
+        "exchange": "NAS",
+        "id": "NAS:SNPS",
+        "cik": "883241",
+        "FIGI": "tts-830523"
+    },
+    {
+        "name": "Solstice Advanced Materials Inc",
+        "sector": null,
+        "symbol": "SOLS",
+        "exchange": "NAS",
+        "id": "NAS:SOLS",
+        "cik": "2064953",
+        "FIGI": "tts-375502573"
+    },
+    {
+        "name": "Solstice Advanced Materials Inc",
+        "sector": null,
+        "symbol": "SOLSV",
+        "exchange": "NAS",
+        "id": "NAS:SOLSV",
+        "cik": null,
+        "FIGI": "tts-374002503"
+    },
+    {
+        "name": "Staples, Inc.",
+        "sector": "Consumer Goods",
+        "symbol": "SPLS",
+        "exchange": "NAS",
+        "id": "NAS:SPLS",
+        "cik": "791519",
+        "FIGI": "tts-820309"
+    },
+    {
+        "name": "Stericycle Inc",
+        "sector": "Utilities",
+        "symbol": "SRCL",
+        "exchange": "NAS",
+        "id": "NAS:SRCL",
+        "cik": "861878",
+        "FIGI": "tts-830564"
+    },
+    {
+        "name": "E.W. Scripps Company (The) - Class A Common Stock",
+        "sector": "IT/Telecommunications",
+        "symbol": "SSP",
+        "exchange": "NAS",
+        "id": "NAS:SSP",
+        "cik": "832428",
+        "FIGI": "tts-142321438"
+    },
+    {
+        "name": "Solidion Technology, Inc.",
+        "sector": null,
+        "symbol": "STI",
+        "exchange": "NAS",
+        "id": "NAS:STI",
+        "cik": "1881551",
+        "FIGI": "tts-302187152"
+    },
+    {
+        "name": "Steel Dynamics Inc",
+        "sector": "Commodities",
+        "symbol": "STLD",
+        "exchange": "NAS",
+        "id": "NAS:STLD",
+        "cik": "1022671",
+        "FIGI": "tts-830598"
+    },
+    {
+        "name": "Seagate Technology Holdings PLC",
+        "sector": null,
+        "symbol": "STX",
+        "exchange": "NAS",
+        "id": "NAS:STX",
+        "cik": "1137789",
+        "FIGI": "tts-15401130"
+    },
+    {
+        "name": "SUNation Energy, Inc.",
+        "sector": null,
+        "symbol": "SUNE",
+        "exchange": "NAS",
+        "id": "NAS:SUNE",
+        "cik": "22701",
+        "FIGI": "tts-329721530"
+    },
+    {
+        "name": "Skyworks Solutions Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "SWKS",
+        "exchange": "NAS",
+        "id": "NAS:SWKS",
+        "cik": "4127",
+        "FIGI": "tts-830638"
+    },
+    {
+        "name": "Bio Techne Corporation",
+        "sector": null,
+        "symbol": "TECH",
+        "exchange": "NAS",
+        "id": "NAS:TECH",
+        "cik": "842023",
+        "FIGI": "tts-830675"
+    },
+    {
+        "name": "Teradyne Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "TER",
+        "exchange": "NAS",
+        "id": "NAS:TER",
+        "cik": "97210",
+        "FIGI": "tts-158183018"
+    },
+    {
+        "name": "Tellabs, Inc.",
+        "sector": "IT/Telecommunications",
+        "symbol": "TLAB",
+        "exchange": "NAS",
+        "id": "NAS:TLAB",
+        "cik": "317771",
+        "FIGI": "tts-830736"
+    },
+    {
+        "name": "T Mobile US Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "TMUS",
+        "exchange": "NAS",
+        "id": "NAS:TMUS",
+        "cik": "1283699",
+        "FIGI": "tts-96423906"
+    },
+    {
+        "name": "TripAdvisor Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "TRIP",
+        "exchange": "NAS",
+        "id": "NAS:TRIP",
+        "cik": "1526520",
+        "FIGI": "tts-36804965"
+    },
+    {
+        "name": "Trimble Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "TRMB",
+        "exchange": "NAS",
+        "id": "NAS:TRMB",
+        "cik": "864749",
+        "FIGI": "tts-830806"
+    },
+    {
+        "name": "T Rowe Price Group Inc",
+        "sector": "Finance",
+        "symbol": "TROW",
+        "exchange": "NAS",
+        "id": "NAS:TROW",
+        "cik": "1113169",
+        "FIGI": "tts-830813"
+    },
+    {
+        "name": "Tractor Supply Company",
+        "sector": "Consumer Goods",
+        "symbol": "TSCO",
+        "exchange": "NAS",
+        "id": "NAS:TSCO",
+        "cik": "916365",
+        "FIGI": "tts-830823"
+    },
+    {
+        "name": "Tesla Inc",
+        "sector": "Industry",
+        "symbol": "TSLA",
+        "exchange": "NAS",
+        "id": "NAS:TSLA",
+        "cik": "1318605",
+        "FIGI": "tts-23947362"
+    },
+    {
+        "name": "The Trade Desk Inc",
+        "sector": null,
+        "symbol": "TTD",
+        "exchange": "NAS",
+        "id": "NAS:TTD",
+        "cik": "1671933",
+        "FIGI": "tts-110325346"
+    },
+    {
+        "name": "TakeTwo Interactive Software Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "TTWO",
+        "exchange": "NAS",
+        "id": "NAS:TTWO",
+        "cik": "946581",
+        "FIGI": "tts-830842"
+    },
+    {
+        "name": "Texas Instruments Incorporated",
+        "sector": "IT/Telecommunications",
+        "symbol": "TXN",
+        "exchange": "NAS",
+        "id": "NAS:TXN",
+        "cik": "97476",
+        "FIGI": "tts-37090221"
+    },
+    {
+        "name": "United Airlines Holdings Inc",
+        "sector": "Consumer Goods",
+        "symbol": "UAL",
+        "exchange": "NAS",
+        "id": "NAS:UAL",
+        "cik": "100517",
+        "FIGI": "tts-149357573"
+    },
+    {
+        "name": "uCloudlink Group Inc. - American Depositary Shares",
+        "sector": null,
+        "symbol": "UCL",
+        "exchange": "NAS",
+        "id": "NAS:UCL",
+        "cik": "1775898",
+        "FIGI": "tts-194794756"
+    },
+    {
+        "name": "Ulta Beauty Inc",
+        "sector": "Consumer Goods",
+        "symbol": "ULTA",
+        "exchange": "NAS",
+        "id": "NAS:ULTA",
+        "cik": "1403568",
+        "FIGI": "tts-11704179"
+    },
+    {
+        "name": "Urban Outfitters Inc",
+        "sector": "Consumer Goods",
+        "symbol": "URBN",
+        "exchange": "NAS",
+        "id": "NAS:URBN",
+        "cik": "912615",
+        "FIGI": "tts-820920"
+    },
+    {
+        "name": "Viacom",
+        "sector": "IT/Telecommunications",
+        "symbol": "VIAB",
+        "exchange": "NAS",
+        "id": "NAS:VIAB",
+        "cik": "1339947",
+        "FIGI": "tts-36228692"
+    },
+    {
+        "name": "Viavi Solutions Inc",
+        "sector": null,
+        "symbol": "VIAV",
+        "exchange": "NAS",
+        "id": "NAS:VIAV",
+        "cik": "912093",
+        "FIGI": "tts-92502185"
+    },
+    {
+        "name": "Verisk Analytics Inc",
+        "sector": "Industry",
+        "symbol": "VRSK",
+        "exchange": "NAS",
+        "id": "NAS:VRSK",
+        "cik": "1442145",
+        "FIGI": "tts-20189978"
+    },
+    {
+        "name": "VeriSign Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "VRSN",
+        "exchange": "NAS",
+        "id": "NAS:VRSN",
+        "cik": "1014473",
+        "FIGI": "tts-830966"
+    },
+    {
+        "name": "Vertex Pharmaceuticals Inc",
+        "sector": "Healthcare",
+        "symbol": "VRTX",
+        "exchange": "NAS",
+        "id": "NAS:VRTX",
+        "cik": "875320",
+        "FIGI": "tts-821074"
+    },
+    {
+        "name": "Viatris Inc",
+        "sector": null,
+        "symbol": "VTRS",
+        "exchange": "NAS",
+        "id": "NAS:VTRS",
+        "cik": "1792044",
+        "FIGI": "tts-206812113"
+    },
+    {
+        "name": "WASH MUTUAL INC",
+        "sector": "Finance",
+        "symbol": "WAMUQ",
+        "exchange": "NAS",
+        "id": "NAS:WAMUQ",
+        "cik": null,
+        "FIGI": "tts-15515053"
+    },
+    {
+        "name": "Weibo Corporation - American Depositary Shares",
+        "sector": null,
+        "symbol": "WB",
+        "exchange": "NAS",
+        "id": "NAS:WB",
+        "cik": "1595761",
+        "FIGI": "tts-72017885"
+    },
+    {
+        "name": "Walgreens Boots Alliance Inc",
+        "sector": null,
+        "symbol": "WBA",
+        "exchange": "NAS",
+        "id": "NAS:WBA",
+        "cik": "1618921",
+        "FIGI": "tts-80360010"
+    },
+    {
+        "name": "Warner Brothers Discovery Inc",
+        "sector": null,
+        "symbol": "WBD",
+        "exchange": "NAS",
+        "id": "NAS:WBD",
+        "cik": "1437107",
+        "FIGI": "tts-245373754"
+    },
+    {
+        "name": "Workday Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "WDAY",
+        "exchange": "NAS",
+        "id": "NAS:WDAY",
+        "cik": "1327811",
+        "FIGI": "tts-127962865"
+    },
+    {
+        "name": "Western Digital Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "WDC",
+        "exchange": "NAS",
+        "id": "NAS:WDC",
+        "cik": "106040",
+        "FIGI": "tts-45576417"
+    },
+    {
+        "name": "Wendys Company",
+        "sector": "Consumer Goods",
+        "symbol": "WEN",
+        "exchange": "NAS",
+        "id": "NAS:WEN",
+        "cik": "30697",
+        "FIGI": "tts-36942699"
+    },
+    {
+        "name": "Whole Foods Market, Inc.",
+        "sector": "Consumer Goods",
+        "symbol": "WFM",
+        "exchange": "NAS",
+        "id": "NAS:WFM",
+        "cik": "865436",
+        "FIGI": "tts-29400599"
+    },
+    {
+        "name": "Walmart Inc",
+        "sector": "Consumer Goods",
+        "symbol": "WMT",
+        "exchange": "NAS",
+        "id": "NAS:WMT",
+        "cik": "104169",
+        "FIGI": "tts-827665"
+    },
+    {
+        "name": "Willis Towers Watson Public Limited Company",
+        "sector": null,
+        "symbol": "WTW",
+        "exchange": "NAS",
+        "id": "NAS:WTW",
+        "cik": "1140536",
+        "FIGI": "tts-159320127"
+    },
+    {
+        "name": "Wynn Resorts Ltd",
+        "sector": "Consumer Goods",
+        "symbol": "WYNN",
+        "exchange": "NAS",
+        "id": "NAS:WYNN",
+        "cik": "1174922",
+        "FIGI": "tts-831069"
+    },
+    {
+        "name": "Xcel Energy Inc",
+        "sector": "Energy",
+        "symbol": "XEL",
+        "exchange": "NAS",
+        "id": "NAS:XEL",
+        "cik": "72903",
+        "FIGI": "tts-132814882"
+    },
+    {
+        "name": "Xilinx",
+        "sector": "IT/Telecommunications",
+        "symbol": "XLNX",
+        "exchange": "NAS",
+        "id": "NAS:XLNX",
+        "cik": null,
+        "FIGI": "tts-821283"
+    },
+    {
+        "name": "DENTSPLY SIRONA Inc",
+        "sector": null,
+        "symbol": "XRAY",
+        "exchange": "NAS",
+        "id": "NAS:XRAY",
+        "cik": "818479",
+        "FIGI": "tts-821304"
+    },
+    {
+        "name": "Xerox Holdings Corporation",
+        "sector": null,
+        "symbol": "XRX",
+        "exchange": "NAS",
+        "id": "NAS:XRX",
+        "cik": "1770450",
+        "FIGI": "tts-229047670"
+    },
+    {
+        "name": "Zebra Technologies Corp",
+        "sector": "Industry",
+        "symbol": "ZBRA",
+        "exchange": "NAS",
+        "id": "NAS:ZBRA",
+        "cik": "877212",
+        "FIGI": "tts-831103"
+    },
+    {
+        "name": "Zions Bancorporation NA",
+        "sector": "Finance",
+        "symbol": "ZION",
+        "exchange": "NAS",
+        "id": "NAS:ZION",
+        "cik": "109380",
+        "FIGI": "tts-831144"
+    },
+    {
+        "name": "Agilent Technologies",
+        "sector": "Industry",
+        "symbol": "A",
+        "exchange": "NYS",
+        "id": "NYS:A",
+        "cik": "1090872",
+        "FIGI": "tts-823911"
+    },
+    {
+        "name": "Advance Auto Parts",
+        "sector": "Consumer Goods",
+        "symbol": "AAP",
+        "exchange": "NYS",
+        "id": "NYS:AAP",
+        "cik": "1158449",
+        "FIGI": "tts-823924"
+    },
+    {
+        "name": "AbbVie Inc",
+        "sector": "Healthcare",
+        "symbol": "ABBV",
+        "exchange": "NYS",
+        "id": "NYS:ABBV",
+        "cik": "1551152",
+        "FIGI": "tts-54471318"
+    },
+    {
+        "name": "Abbott Laboratories",
+        "sector": "Healthcare",
+        "symbol": "ABT",
+        "exchange": "NYS",
+        "id": "NYS:ABT",
+        "cik": "1800",
+        "FIGI": "tts-823937"
+    },
+    {
+        "name": "Accenture Plc",
+        "sector": "IT/Telecommunications",
+        "symbol": "ACN",
+        "exchange": "NYS",
+        "id": "NYS:ACN",
+        "cik": "1467373",
+        "FIGI": "tts-818138"
+    },
+    {
+        "name": "Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest",
+        "sector": null,
+        "symbol": "ACV",
+        "exchange": "NYS",
+        "id": "NYS:ACV",
+        "cik": "1636289",
+        "FIGI": "tts-87988853"
+    },
+    {
+        "name": "ADC Therapeutics SA Common Shares",
+        "sector": null,
+        "symbol": "ADCT",
+        "exchange": "NYS",
+        "id": "NYS:ADCT",
+        "cik": "1771910",
+        "FIGI": "tts-175090367"
+    },
+    {
+        "name": "Archer Daniels Midland Company",
+        "sector": "Consumer Goods",
+        "symbol": "ADM",
+        "exchange": "NYS",
+        "id": "NYS:ADM",
+        "cik": "7084",
+        "FIGI": "tts-823958"
+    },
+    {
+        "name": "ADT Inc. Common Stock",
+        "sector": null,
+        "symbol": "ADT",
+        "exchange": "NYS",
+        "id": "NYS:ADT",
+        "cik": "1703056",
+        "FIGI": "tts-51173763"
+    },
+    {
+        "name": "ADT Inc.",
+        "sector": "Industry",
+        "symbol": "ADT",
+        "exchange": "NYS",
+        "id": "NYS:ADT~1",
+        "cik": null,
+        "FIGI": "tts-133993341"
+    },
+    {
+        "name": "Ameren Corp",
+        "sector": "Energy",
+        "symbol": "AEE",
+        "exchange": "NYS",
+        "id": "NYS:AEE",
+        "cik": "1002910",
+        "FIGI": "tts-818154"
+    },
+    {
+        "name": "AES Corp",
+        "sector": "Energy",
+        "symbol": "AES",
+        "exchange": "NYS",
+        "id": "NYS:AES",
+        "cik": "874761",
+        "FIGI": "tts-823967"
+    },
+    {
+        "name": "Aetna Inc",
+        "sector": "Healthcare",
+        "symbol": "AET",
+        "exchange": "NYS",
+        "id": "NYS:AET",
+        "cik": null,
+        "FIGI": "tts-823969"
+    },
+    {
+        "name": "AFLAC Inc",
+        "sector": "Finance",
+        "symbol": "AFL",
+        "exchange": "NYS",
+        "id": "NYS:AFL",
+        "cik": "4977",
+        "FIGI": "tts-818171"
+    },
+    {
+        "name": "Allergan PLC",
+        "sector": null,
+        "symbol": "AGN",
+        "exchange": "NYS",
+        "id": "NYS:AGN",
+        "cik": null,
+        "FIGI": "tts-823980"
+    },
+    {
+        "name": "American International Group Inc",
+        "sector": "Finance",
+        "symbol": "AIG",
+        "exchange": "NYS",
+        "id": "NYS:AIG",
+        "cik": "5272",
+        "FIGI": "tts-818201"
+    },
+    {
+        "name": "Apartment Investment and Management Company Common Stock",
+        "sector": null,
+        "symbol": "AIV",
+        "exchange": "NYS",
+        "id": "NYS:AIV",
+        "cik": "922864",
+        "FIGI": "tts-823989"
+    },
+    {
+        "name": "Assurant Inc",
+        "sector": "Finance",
+        "symbol": "AIZ",
+        "exchange": "NYS",
+        "id": "NYS:AIZ",
+        "cik": "1267238",
+        "FIGI": "tts-1195188"
+    },
+    {
+        "name": "Arthur J Gallagher and Company",
+        "sector": "Finance",
+        "symbol": "AJG",
+        "exchange": "NYS",
+        "id": "NYS:AJG",
+        "cik": "354190",
+        "FIGI": "tts-818215"
+    },
+    {
+        "name": "AK Steel Holding Corp",
+        "sector": "Commodities",
+        "symbol": "AKS",
+        "exchange": "NYS",
+        "id": "NYS:AKS",
+        "cik": null,
+        "FIGI": "tts-823999"
+    },
+    {
+        "name": "Albemarle Corporation",
+        "sector": "Commodities",
+        "symbol": "ALB",
+        "exchange": "NYS",
+        "id": "NYS:ALB",
+        "cik": "915913",
+        "FIGI": "tts-824002"
+    },
+    {
+        "name": "Alaska Air Group Inc",
+        "sector": "Consumer Goods",
+        "symbol": "ALK",
+        "exchange": "NYS",
+        "id": "NYS:ALK",
+        "cik": "766421",
+        "FIGI": "tts-818232"
+    },
+    {
+        "name": "Allstate Corporation",
+        "sector": "Finance",
+        "symbol": "ALL",
+        "exchange": "NYS",
+        "id": "NYS:ALL",
+        "cik": "899051",
+        "FIGI": "tts-824005"
+    },
+    {
+        "name": "Allegion Plc",
+        "sector": "Industry",
+        "symbol": "ALLE",
+        "exchange": "NYS",
+        "id": "NYS:ALLE",
+        "cik": "1579241",
+        "FIGI": "tts-67360106"
+    },
+    {
+        "name": "Amcor plc",
+        "sector": null,
+        "symbol": "AMCR",
+        "exchange": "NYS",
+        "id": "NYS:AMCR",
+        "cik": "1748790",
+        "FIGI": "tts-167822172"
+    },
+    {
+        "name": "Ametek Inc",
+        "sector": "Industry",
+        "symbol": "AME",
+        "exchange": "NYS",
+        "id": "NYS:AME",
+        "cik": "1037868",
+        "FIGI": "tts-824014"
+    },
+    {
+        "name": "Affiliated Managers Group Inc",
+        "sector": "Finance",
+        "symbol": "AMG",
+        "exchange": "NYS",
+        "id": "NYS:AMG",
+        "cik": "1004434",
+        "FIGI": "tts-824015"
+    },
+    {
+        "name": "Ameriprise Financial Inc",
+        "sector": "Finance",
+        "symbol": "AMP",
+        "exchange": "NYS",
+        "id": "NYS:AMP",
+        "cik": "820027",
+        "FIGI": "tts-3385019"
+    },
+    {
+        "name": "American Tower Corporation",
+        "sector": "Finance",
+        "symbol": "AMT",
+        "exchange": "NYS",
+        "id": "NYS:AMT",
+        "cik": "1053507",
+        "FIGI": "tts-818258"
+    },
+    {
+        "name": "Amentum Holdings Inc",
+        "sector": null,
+        "symbol": "AMTM",
+        "exchange": "NYS",
+        "id": "NYS:AMTM",
+        "cik": "2011286",
+        "FIGI": "tts-324308742"
+    },
+    {
+        "name": "AutoNation  Inc",
+        "sector": "Consumer Goods",
+        "symbol": "AN",
+        "exchange": "NYS",
+        "id": "NYS:AN",
+        "cik": "350698",
+        "FIGI": "tts-824022"
+    },
+    {
+        "name": "Andeavor",
+        "sector": null,
+        "symbol": "ANDV",
+        "exchange": "NYS",
+        "id": "NYS:ANDV",
+        "cik": null,
+        "FIGI": "tts-125612512"
+    },
+    {
+        "name": "Arista Networks",
+        "sector": null,
+        "symbol": "ANET",
+        "exchange": "NYS",
+        "id": "NYS:ANET",
+        "cik": "1596532",
+        "FIGI": "tts-73295693"
+    },
+    {
+        "name": "Abercrombie and Fitch Co",
+        "sector": "Consumer Goods",
+        "symbol": "ANF",
+        "exchange": "NYS",
+        "id": "NYS:ANF",
+        "cik": "1018840",
+        "FIGI": "tts-824026"
+    },
+    {
+        "name": "Aon PLC",
+        "sector": null,
+        "symbol": "AON",
+        "exchange": "NYS",
+        "id": "NYS:AON",
+        "cik": "315293",
+        "FIGI": "tts-20796040"
+    },
+    {
+        "name": "AO Smith Corp",
+        "sector": "Industry",
+        "symbol": "AOS",
+        "exchange": "NYS",
+        "id": "NYS:AOS",
+        "cik": "91142",
+        "FIGI": "tts-824036"
+    },
+    {
+        "name": "Apache Corp",
+        "sector": "Energy",
+        "symbol": "APA",
+        "exchange": "NYS",
+        "id": "NYS:APA",
+        "cik": null,
+        "FIGI": "tts-818281"
+    },
+    {
+        "name": "Anadarko Petroleum Corp",
+        "sector": "Energy",
+        "symbol": "APC",
+        "exchange": "NYS",
+        "id": "NYS:APC",
+        "cik": null,
+        "FIGI": "tts-818284"
+    },
+    {
+        "name": "Air Products and Chemicals Inc",
+        "sector": "Commodities",
+        "symbol": "APD",
+        "exchange": "NYS",
+        "id": "NYS:APD",
+        "cik": "2969",
+        "FIGI": "tts-818286"
+    },
+    {
+        "name": "Amphenol Corp",
+        "sector": "IT/Telecommunications",
+        "symbol": "APH",
+        "exchange": "NYS",
+        "id": "NYS:APH",
+        "cik": "820313",
+        "FIGI": "tts-824038"
+    },
+    {
+        "name": "Apollo Global Management Inc",
+        "sector": null,
+        "symbol": "APO",
+        "exchange": "NYS",
+        "id": "NYS:APO",
+        "cik": "1858681",
+        "FIGI": "tts-28526107"
+    },
+    {
+        "name": "Aptiv PLC",
+        "sector": null,
+        "symbol": "APTV",
+        "exchange": "NYS",
+        "id": "NYS:APTV",
+        "cik": "1521332",
+        "FIGI": "tts-131772441"
+    },
+    {
+        "name": "Alexandria Real Estate Equities Inc",
+        "sector": "Finance",
+        "symbol": "ARE",
+        "exchange": "NYS",
+        "id": "NYS:ARE",
+        "cik": "1035443",
+        "FIGI": "tts-818299"
+    },
+    {
+        "name": "Ares Management Corporation Class A Common Stock",
+        "sector": null,
+        "symbol": "ARES",
+        "exchange": "NYS",
+        "id": "NYS:ARES",
+        "cik": "1176948",
+        "FIGI": "tts-72343156"
+    },
+    {
+        "name": "Airgas, Inc.",
+        "sector": "Commodities",
+        "symbol": "ARG",
+        "exchange": "NYS",
+        "id": "NYS:ARG",
+        "cik": null,
+        "FIGI": "tts-824042"
+    },
+    {
+        "name": "Ashland Inc",
+        "sector": null,
+        "symbol": "ASH",
+        "exchange": "NYS",
+        "id": "NYS:ASH",
+        "cik": "1674862",
+        "FIGI": "tts-818316"
+    },
+    {
+        "name": "Adtalem Global Education Inc",
+        "sector": null,
+        "symbol": "ATGE",
+        "exchange": "NYS",
+        "id": "NYS:ATGE",
+        "cik": "730464",
+        "FIGI": "tts-122549822"
+    },
+    {
+        "name": "ATI Inc",
+        "sector": "Commodities",
+        "symbol": "ATI",
+        "exchange": "NYS",
+        "id": "NYS:ATI",
+        "cik": "1018963",
+        "FIGI": "tts-824059"
+    },
+    {
+        "name": "Atmos Energy Corp",
+        "sector": "Energy",
+        "symbol": "ATO",
+        "exchange": "NYS",
+        "id": "NYS:ATO",
+        "cik": "731802",
+        "FIGI": "tts-827969"
+    },
+    {
+        "name": "Avalonbay Communities Inc",
+        "sector": "Finance",
+        "symbol": "AVB",
+        "exchange": "NYS",
+        "id": "NYS:AVB",
+        "cik": "915912",
+        "FIGI": "tts-824068"
+    },
+    {
+        "name": "Avon Products Inc",
+        "sector": "Consumer Goods",
+        "symbol": "AVP",
+        "exchange": "NYS",
+        "id": "NYS:AVP",
+        "cik": null,
+        "FIGI": "tts-824071"
+    },
+    {
+        "name": "Avery Dennison Corp",
+        "sector": "Consumer Goods",
+        "symbol": "AVY",
+        "exchange": "NYS",
+        "id": "NYS:AVY",
+        "cik": "8818",
+        "FIGI": "tts-824074"
+    },
+    {
+        "name": "American Water Works",
+        "sector": "Utilities",
+        "symbol": "AWK",
+        "exchange": "NYS",
+        "id": "NYS:AWK",
+        "cik": "1410636",
+        "FIGI": "tts-13958797"
+    },
+    {
+        "name": "American Express Company",
+        "sector": "Finance",
+        "symbol": "AXP",
+        "exchange": "NYS",
+        "id": "NYS:AXP",
+        "cik": "4962",
+        "FIGI": "tts-824081"
+    },
+    {
+        "name": "Acuity Inc",
+        "sector": "Industry",
+        "symbol": "AYI",
+        "exchange": "NYS",
+        "id": "NYS:AYI",
+        "cik": "1144215",
+        "FIGI": "tts-824084"
+    },
+    {
+        "name": "AutoZone Inc",
+        "sector": "Consumer Goods",
+        "symbol": "AZO",
+        "exchange": "NYS",
+        "id": "NYS:AZO",
+        "cik": "866787",
+        "FIGI": "tts-818395"
+    },
+    {
+        "name": "Boeing Company",
+        "sector": "Industry",
+        "symbol": "BA",
+        "exchange": "NYS",
+        "id": "NYS:BA",
+        "cik": "12927",
+        "FIGI": "tts-818400"
+    },
+    {
+        "name": "Bank of America Corporation",
+        "sector": "Finance",
+        "symbol": "BAC",
+        "exchange": "NYS",
+        "id": "NYS:BAC",
+        "cik": "70858",
+        "FIGI": "tts-824090"
+    },
+    {
+        "name": "Ball Corp",
+        "sector": "Industry",
+        "symbol": "BALL",
+        "exchange": "NYS",
+        "id": "NYS:BALL",
+        "cik": "9389",
+        "FIGI": "tts-247896717"
+    },
+    {
+        "name": "Baxter International Inc",
+        "sector": "Healthcare",
+        "symbol": "BAX",
+        "exchange": "NYS",
+        "id": "NYS:BAX",
+        "cik": "10456",
+        "FIGI": "tts-824095"
+    },
+    {
+        "name": "Bed Bath & Beyond, Inc. Common Stock",
+        "sector": "IT/Telecommunications",
+        "symbol": "BBBY",
+        "exchange": "NYS",
+        "id": "NYS:BBBY",
+        "cik": "1130713",
+        "FIGI": "tts-367344332"
+    },
+    {
+        "name": "Beacon Financial Corporation",
+        "sector": "Finance",
+        "symbol": "BBT",
+        "exchange": "NYS",
+        "id": "NYS:BBT",
+        "cik": "1108134",
+        "FIGI": "tts-367634050"
+    },
+    {
+        "name": "Bath & Body Works Inc",
+        "sector": null,
+        "symbol": "BBWI",
+        "exchange": "NYS",
+        "id": "NYS:BBWI",
+        "cik": "701985",
+        "FIGI": "tts-225316618"
+    },
+    {
+        "name": "Best Buy Company",
+        "sector": "Consumer Goods",
+        "symbol": "BBY",
+        "exchange": "NYS",
+        "id": "NYS:BBY",
+        "cik": "764478",
+        "FIGI": "tts-824108"
+    },
+    {
+        "name": "Brunswick Corp",
+        "sector": "Consumer Goods",
+        "symbol": "BC",
+        "exchange": "NYS",
+        "id": "NYS:BC",
+        "cik": "14930",
+        "FIGI": "tts-824109"
+    },
+    {
+        "name": "C.R. Bard, Inc.",
+        "sector": "Healthcare",
+        "symbol": "BCR",
+        "exchange": "NYS",
+        "id": "NYS:BCR",
+        "cik": null,
+        "FIGI": "tts-818441"
+    },
+    {
+        "name": "Becton Dickinson and Company",
+        "sector": "Healthcare",
+        "symbol": "BDX",
+        "exchange": "NYS",
+        "id": "NYS:BDX",
+        "cik": "10795",
+        "FIGI": "tts-824119"
+    },
+    {
+        "name": "Franklin Resources Inc",
+        "sector": "Finance",
+        "symbol": "BEN",
+        "exchange": "NYS",
+        "id": "NYS:BEN",
+        "cik": "38777",
+        "FIGI": "tts-824123"
+    },
+    {
+        "name": "Brown Forman Corp",
+        "sector": "Consumer Goods",
+        "symbol": "BF.B",
+        "exchange": "NYS",
+        "id": "NYS:BF.B",
+        "cik": "14693",
+        "FIGI": "tts-824128"
+    },
+    {
+        "name": "Bunge Global SA",
+        "sector": null,
+        "symbol": "BG",
+        "exchange": "NYS",
+        "id": "NYS:BG",
+        "cik": "1996862",
+        "FIGI": "tts-824133"
+    },
+    {
+        "name": "Big Lots Inc",
+        "sector": "Consumer Goods",
+        "symbol": "BIG",
+        "exchange": "NYS",
+        "id": "NYS:BIG",
+        "cik": "768835",
+        "FIGI": "tts-4759245"
+    },
+    {
+        "name": "Bio Rad Laboratories Inc",
+        "sector": "Healthcare",
+        "symbol": "BIO",
+        "exchange": "NYS",
+        "id": "NYS:BIO",
+        "cik": "12208",
+        "FIGI": "tts-15935732"
+    },
+    {
+        "name": "Bank New York Mellon Corporation",
+        "sector": "Finance",
+        "symbol": "BK",
+        "exchange": "NYS",
+        "id": "NYS:BK",
+        "cik": "1390777",
+        "FIGI": "tts-818492"
+    },
+    {
+        "name": "Builders FirstSource Inc",
+        "sector": "Industry",
+        "symbol": "BLDR",
+        "exchange": "NYS",
+        "id": "NYS:BLDR",
+        "cik": "1316835",
+        "FIGI": "tts-236022292"
+    },
+    {
+        "name": "BlackRock Inc",
+        "sector": null,
+        "symbol": "BLK",
+        "exchange": "NYS",
+        "id": "NYS:BLK",
+        "cik": "2012383",
+        "FIGI": "tts-824158"
+    },
+    {
+        "name": "Bemis Co Inc",
+        "sector": "Industry",
+        "symbol": "BMS",
+        "exchange": "NYS",
+        "id": "NYS:BMS",
+        "cik": null,
+        "FIGI": "tts-824166"
+    },
+    {
+        "name": "Bristol Myers Squibb Co",
+        "sector": "Healthcare",
+        "symbol": "BMY",
+        "exchange": "NYS",
+        "id": "NYS:BMY",
+        "cik": "14272",
+        "FIGI": "tts-818515"
+    },
+    {
+        "name": "Broadridge Financial Solutions Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "BR",
+        "exchange": "NYS",
+        "id": "NYS:BR",
+        "cik": "1383312",
+        "FIGI": "tts-818544"
+    },
+    {
+        "name": "Berkshire Hathaway Inc B",
+        "sector": "Finance",
+        "symbol": "BRK.B",
+        "exchange": "NYS",
+        "id": "NYS:BRK.B",
+        "cik": "1067983",
+        "FIGI": "tts-824192"
+    },
+    {
+        "name": "Brown and Brown Inc",
+        "sector": "Finance",
+        "symbol": "BRO",
+        "exchange": "NYS",
+        "id": "NYS:BRO",
+        "cik": "79282",
+        "FIGI": "tts-818560"
+    },
+    {
+        "name": "Boston Scientific Corporation",
+        "sector": "Healthcare",
+        "symbol": "BSX",
+        "exchange": "NYS",
+        "id": "NYS:BSX",
+        "cik": "885725",
+        "FIGI": "tts-824210"
+    },
+    {
+        "name": "Anheuser-Busch Inbev SA Sponsored ADR (Belgium)",
+        "sector": "Consumer Goods",
+        "symbol": "BUD",
+        "exchange": "NYS",
+        "id": "NYS:BUD",
+        "cik": "1668717",
+        "FIGI": "tts-818595"
+    },
+    {
+        "name": "BorgWarner Inc",
+        "sector": "Industry",
+        "symbol": "BWA",
+        "exchange": "NYS",
+        "id": "NYS:BWA",
+        "cik": "908255",
+        "FIGI": "tts-818608"
+    },
+    {
+        "name": "Blackstone Inc",
+        "sector": null,
+        "symbol": "BX",
+        "exchange": "NYS",
+        "id": "NYS:BX",
+        "cik": "1393818",
+        "FIGI": "tts-10884108"
+    },
+    {
+        "name": "Baxalta Incorporated",
+        "sector": null,
+        "symbol": "BXLT",
+        "exchange": "NYS",
+        "id": "NYS:BXLT",
+        "cik": null,
+        "FIGI": "tts-89838560"
+    },
+    {
+        "name": "BXP Inc",
+        "sector": "Finance",
+        "symbol": "BXP",
+        "exchange": "NYS",
+        "id": "NYS:BXP",
+        "cik": "1037540",
+        "FIGI": "tts-818612"
+    },
+    {
+        "name": "Citigroup Inc",
+        "sector": "Finance",
+        "symbol": "C",
+        "exchange": "NYS",
+        "id": "NYS:C",
+        "cik": "831001",
+        "FIGI": "tts-818629"
+    },
+    {
+        "name": "ConAgra Brands Inc",
+        "sector": "Consumer Goods",
+        "symbol": "CAG",
+        "exchange": "NYS",
+        "id": "NYS:CAG",
+        "cik": "23217",
+        "FIGI": "tts-824238"
+    },
+    {
+        "name": "Cardinal Health Inc",
+        "sector": "Healthcare",
+        "symbol": "CAH",
+        "exchange": "NYS",
+        "id": "NYS:CAH",
+        "cik": "721371",
+        "FIGI": "tts-824240"
+    },
+    {
+        "name": "Cameron International Corporation",
+        "sector": "Energy",
+        "symbol": "CAM",
+        "exchange": "NYS",
+        "id": "NYS:CAM",
+        "cik": null,
+        "FIGI": "tts-824241"
+    },
+    {
+        "name": "Carrier Global Corp",
+        "sector": null,
+        "symbol": "CARR",
+        "exchange": "NYS",
+        "id": "NYS:CARR",
+        "cik": "1783180",
+        "FIGI": "tts-189514258"
+    },
+    {
+        "name": "Caterpillar Inc",
+        "sector": "Industry",
+        "symbol": "CAT",
+        "exchange": "NYS",
+        "id": "NYS:CAT",
+        "cik": "18230",
+        "FIGI": "tts-824243"
+    },
+    {
+        "name": "Chubb Ltd",
+        "sector": "Finance",
+        "symbol": "CB",
+        "exchange": "NYS",
+        "id": "NYS:CB",
+        "cik": "896159",
+        "FIGI": "tts-824244"
+    },
+    {
+        "name": "Cooper Industries, plc  (Ireland)",
+        "sector": null,
+        "symbol": "CBE",
+        "exchange": "NYS",
+        "id": "NYS:CBE",
+        "cik": null,
+        "FIGI": "tts-824249"
+    },
+    {
+        "name": "Virtus Convertible and Income 2024 Target Term Fund",
+        "sector": null,
+        "symbol": "CBH",
+        "exchange": "NYS",
+        "id": "NYS:CBH",
+        "cik": null,
+        "FIGI": "tts-123951804"
+    },
+    {
+        "name": "Cboe Global Markets Inc",
+        "sector": "Finance",
+        "symbol": "CBOE",
+        "exchange": "NYS",
+        "id": "NYS:CBOE",
+        "cik": "1374310",
+        "FIGI": "tts-149797942"
+    },
+    {
+        "name": "CBRE Group Inc",
+        "sector": "Finance",
+        "symbol": "CBRE",
+        "exchange": "NYS",
+        "id": "NYS:CBRE",
+        "cik": "1138118",
+        "FIGI": "tts-137464333"
+    },
+    {
+        "name": "Crown Castle Inc",
+        "sector": null,
+        "symbol": "CCI",
+        "exchange": "NYS",
+        "id": "NYS:CCI",
+        "cik": "1051470",
+        "FIGI": "tts-818684"
+    },
+    {
+        "name": "Carnival Corp",
+        "sector": "Consumer Goods",
+        "symbol": "CCL",
+        "exchange": "NYS",
+        "id": "NYS:CCL",
+        "cik": "815097",
+        "FIGI": "tts-824264"
+    },
+    {
+        "name": "Compania Cervecerias Unidas, S.A. Common Stock",
+        "sector": "Consumer Goods",
+        "symbol": "CCU",
+        "exchange": "NYS",
+        "id": "NYS:CCU",
+        "cik": "888746",
+        "FIGI": "tts-828038"
+    },
+    {
+        "name": "Celanese Corporation",
+        "sector": "Commodities",
+        "symbol": "CE",
+        "exchange": "NYS",
+        "id": "NYS:CE",
+        "cik": "1306830",
+        "FIGI": "tts-818709"
+    },
+    {
+        "name": "Constellation Energy Group, Inc. Common Stock",
+        "sector": null,
+        "symbol": "CEG",
+        "exchange": "NYS",
+        "id": "NYS:CEG",
+        "cik": null,
+        "FIGI": "tts-818716"
+    },
+    {
+        "name": "CF Industries Holdings Inc",
+        "sector": "Commodities",
+        "symbol": "CF",
+        "exchange": "NYS",
+        "id": "NYS:CF",
+        "cik": "1324404",
+        "FIGI": "tts-824286"
+    },
+    {
+        "name": "Citizens Financial Group Inc",
+        "sector": null,
+        "symbol": "CFG",
+        "exchange": "NYS",
+        "id": "NYS:CFG",
+        "cik": "759944",
+        "FIGI": "tts-76828925"
+    },
+    {
+        "name": "CareFusion Corporation",
+        "sector": "Healthcare",
+        "symbol": "CFN",
+        "exchange": "NYS",
+        "id": "NYS:CFN",
+        "cik": null,
+        "FIGI": "tts-818730"
+    },
+    {
+        "name": "Church and Dwight Co Inc",
+        "sector": "Consumer Goods",
+        "symbol": "CHD",
+        "exchange": "NYS",
+        "id": "NYS:CHD",
+        "cik": "313927",
+        "FIGI": "tts-824299"
+    },
+    {
+        "name": "Chesapeake Energy Corp",
+        "sector": null,
+        "symbol": "CHK",
+        "exchange": "NYS",
+        "id": "NYS:CHK",
+        "cik": null,
+        "FIGI": "tts-818752"
+    },
+    {
+        "name": "Cigna Group",
+        "sector": null,
+        "symbol": "CI",
+        "exchange": "NYS",
+        "id": "NYS:CI",
+        "cik": "1739940",
+        "FIGI": "tts-824309"
+    },
+    {
+        "name": "Ciena Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "CIEN",
+        "exchange": "NYS",
+        "id": "NYS:CIEN",
+        "cik": "936395",
+        "FIGI": "tts-68058336"
+    },
+    {
+        "name": "Colgate Palmolive Co",
+        "sector": "Consumer Goods",
+        "symbol": "CL",
+        "exchange": "NYS",
+        "id": "NYS:CL",
+        "cik": "21665",
+        "FIGI": "tts-828055"
+    },
+    {
+        "name": "Cleveland Cliffs Inc",
+        "sector": null,
+        "symbol": "CLF",
+        "exchange": "NYS",
+        "id": "NYS:CLF",
+        "cik": "764065",
+        "FIGI": "tts-818807"
+    },
+    {
+        "name": "Clorox Co",
+        "sector": "Consumer Goods",
+        "symbol": "CLX",
+        "exchange": "NYS",
+        "id": "NYS:CLX",
+        "cik": "21076",
+        "FIGI": "tts-824346"
+    },
+    {
+        "name": "Comerica Incorporated",
+        "sector": "Finance",
+        "symbol": "CMA",
+        "exchange": "NYS",
+        "id": "NYS:CMA",
+        "cik": "28412",
+        "FIGI": "tts-824348"
+    },
+    {
+        "name": "Chipotle Mexican Grill Inc",
+        "sector": "Consumer Goods",
+        "symbol": "CMG",
+        "exchange": "NYS",
+        "id": "NYS:CMG",
+        "cik": "1058090",
+        "FIGI": "tts-3817871"
+    },
+    {
+        "name": "Cummins Inc",
+        "sector": "Industry",
+        "symbol": "CMI",
+        "exchange": "NYS",
+        "id": "NYS:CMI",
+        "cik": "26172",
+        "FIGI": "tts-1106230"
+    },
+    {
+        "name": "CMS Energy Corporation",
+        "sector": "Energy",
+        "symbol": "CMS",
+        "exchange": "NYS",
+        "id": "NYS:CMS",
+        "cik": "811156",
+        "FIGI": "tts-824358"
+    },
+    {
+        "name": "Centene Corp",
+        "sector": "Healthcare",
+        "symbol": "CNC",
+        "exchange": "NYS",
+        "id": "NYS:CNC",
+        "cik": "1071739",
+        "FIGI": "tts-1032559"
+    },
+    {
+        "name": "CenterPoint Energy Inc",
+        "sector": "Energy",
+        "symbol": "CNP",
+        "exchange": "NYS",
+        "id": "NYS:CNP",
+        "cik": "1130310",
+        "FIGI": "tts-818881"
+    },
+    {
+        "name": "CNX Resources Corporation",
+        "sector": null,
+        "symbol": "CNX",
+        "exchange": "NYS",
+        "id": "NYS:CNX",
+        "cik": "1070412",
+        "FIGI": "tts-828065"
+    },
+    {
+        "name": "Capital One Financial Corporation",
+        "sector": "Finance",
+        "symbol": "COF",
+        "exchange": "NYS",
+        "id": "NYS:COF",
+        "cik": "927628",
+        "FIGI": "tts-818890"
+    },
+    {
+        "name": "Rockwell Collins Inc",
+        "sector": "Industry",
+        "symbol": "COL",
+        "exchange": "NYS",
+        "id": "NYS:COL",
+        "cik": null,
+        "FIGI": "tts-824383"
+    },
+    {
+        "name": "ConocoPhillips",
+        "sector": "Energy",
+        "symbol": "COP",
+        "exchange": "NYS",
+        "id": "NYS:COP",
+        "cik": "1163165",
+        "FIGI": "tts-824385"
+    },
+    {
+        "name": "Cencora Inc",
+        "sector": "Healthcare",
+        "symbol": "COR",
+        "exchange": "NYS",
+        "id": "NYS:COR",
+        "cik": "1140859",
+        "FIGI": "tts-298814037"
+    },
+    {
+        "name": "Coty Inc",
+        "sector": "Consumer Goods",
+        "symbol": "COTY",
+        "exchange": "NYS",
+        "id": "NYS:COTY",
+        "cik": "1024305",
+        "FIGI": "tts-60431697"
+    },
+    {
+        "name": "Covidien plc. Ordinary Shares (Ireland)",
+        "sector": "Healthcare",
+        "symbol": "COV",
+        "exchange": "NYS",
+        "id": "NYS:COV",
+        "cik": null,
+        "FIGI": "tts-10976623"
+    },
+    {
+        "name": "Corpay Inc",
+        "sector": null,
+        "symbol": "CPAY",
+        "exchange": "NYS",
+        "id": "NYS:CPAY",
+        "cik": "1175454",
+        "FIGI": "tts-306925844"
+    },
+    {
+        "name": "CPGX",
+        "sector": null,
+        "symbol": "CPGX",
+        "exchange": "NYS",
+        "id": "NYS:CPGX",
+        "cik": null,
+        "FIGI": "tts-90010722"
+    },
+    {
+        "name": "Capri Holdings Limited",
+        "sector": null,
+        "symbol": "CPRI",
+        "exchange": "NYS",
+        "id": "NYS:CPRI",
+        "cik": "1530721",
+        "FIGI": "tts-157814327"
+    },
+    {
+        "name": "Camden Property Trust",
+        "sector": "Finance",
+        "symbol": "CPT",
+        "exchange": "NYS",
+        "id": "NYS:CPT",
+        "cik": "906345",
+        "FIGI": "tts-818925"
+    },
+    {
+        "name": "CRH PLC Ordinary Shares",
+        "sector": "Industry",
+        "symbol": "CRH",
+        "exchange": "NYS",
+        "id": "NYS:CRH",
+        "cik": "849395",
+        "FIGI": "tts-824406"
+    },
+    {
+        "name": "Charles River Laboratories International Inc",
+        "sector": "Healthcare",
+        "symbol": "CRL",
+        "exchange": "NYS",
+        "id": "NYS:CRL",
+        "cik": "1100682",
+        "FIGI": "tts-824408"
+    },
+    {
+        "name": "Salesforce Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "CRM",
+        "exchange": "NYS",
+        "id": "NYS:CRM",
+        "cik": "1108524",
+        "FIGI": "tts-824409"
+    },
+    {
+        "name": "CSRA Inc.",
+        "sector": null,
+        "symbol": "CSRA",
+        "exchange": "NYS",
+        "id": "NYS:CSRA",
+        "cik": null,
+        "FIGI": "tts-97735350"
+    },
+    {
+        "name": "Catalent Inc",
+        "sector": "Healthcare",
+        "symbol": "CTLT",
+        "exchange": "NYS",
+        "id": "NYS:CTLT",
+        "cik": "1596783",
+        "FIGI": "tts-74938584"
+    },
+    {
+        "name": "Coterra Energy Inc",
+        "sector": "Energy",
+        "symbol": "CTRA",
+        "exchange": "NYS",
+        "id": "NYS:CTRA",
+        "cik": "858470",
+        "FIGI": "tts-153457237"
+    },
+    {
+        "name": "Corteva Inc",
+        "sector": null,
+        "symbol": "CTVA",
+        "exchange": "NYS",
+        "id": "NYS:CTVA",
+        "cik": "1755672",
+        "FIGI": "tts-167149635"
+    },
+    {
+        "name": "Cablevision Systems Corporation Class A",
+        "sector": "IT/Telecommunications",
+        "symbol": "CVC",
+        "exchange": "NYS",
+        "id": "NYS:CVC",
+        "cik": null,
+        "FIGI": "tts-818989"
+    },
+    {
+        "name": "Convergys Corporation",
+        "sector": "Industry",
+        "symbol": "CVG",
+        "exchange": "NYS",
+        "id": "NYS:CVG",
+        "cik": null,
+        "FIGI": "tts-828083"
+    },
+    {
+        "name": "Coventry Health Care, Inc.",
+        "sector": "Healthcare",
+        "symbol": "CVH",
+        "exchange": "NYS",
+        "id": "NYS:CVH",
+        "cik": null,
+        "FIGI": "tts-824437"
+    },
+    {
+        "name": "Carvana Co. Class A Common Stock",
+        "sector": null,
+        "symbol": "CVNA",
+        "exchange": "NYS",
+        "id": "NYS:CVNA",
+        "cik": "1690820",
+        "FIGI": "tts-121062451"
+    },
+    {
+        "name": "CVS Health Corporation",
+        "sector": "Healthcare",
+        "symbol": "CVS",
+        "exchange": "NYS",
+        "id": "NYS:CVS",
+        "cik": "64803",
+        "FIGI": "tts-819001"
+    },
+    {
+        "name": "Chevron Corporation",
+        "sector": "Energy",
+        "symbol": "CVX",
+        "exchange": "NYS",
+        "id": "NYS:CVX",
+        "cik": "93410",
+        "FIGI": "tts-819002"
+    },
+    {
+        "name": "Concho Resources Inc",
+        "sector": "Energy",
+        "symbol": "CXO",
+        "exchange": "NYS",
+        "id": "NYS:CXO",
+        "cik": null,
+        "FIGI": "tts-11186878"
+    },
+    {
+        "name": "Dominion Energy Inc",
+        "sector": "Energy",
+        "symbol": "D",
+        "exchange": "NYS",
+        "id": "NYS:D",
+        "cik": "715957",
+        "FIGI": "tts-824461"
+    },
+    {
+        "name": "Delta Air Lines Inc",
+        "sector": "Consumer Goods",
+        "symbol": "DAL",
+        "exchange": "NYS",
+        "id": "NYS:DAL",
+        "cik": "27904",
+        "FIGI": "tts-824463"
+    },
+    {
+        "name": "Dayforce Inc",
+        "sector": null,
+        "symbol": "DAY",
+        "exchange": "NYS",
+        "id": "NYS:DAY",
+        "cik": "1725057",
+        "FIGI": "tts-301905847"
+    },
+    {
+        "name": "E.I. du Pont de Nemours and Company",
+        "sector": "Commodities",
+        "symbol": "DD",
+        "exchange": "NYS",
+        "id": "NYS:DD",
+        "cik": null,
+        "FIGI": "tts-824472"
+    },
+    {
+        "name": "Dillard's, Inc. Common Stock",
+        "sector": "Consumer Goods",
+        "symbol": "DDS",
+        "exchange": "NYS",
+        "id": "NYS:DDS",
+        "cik": "28917",
+        "FIGI": "tts-824480"
+    },
+    {
+        "name": "DuPont de Nemours Inc",
+        "sector": null,
+        "symbol": "DD",
+        "exchange": "NYS",
+        "id": "NYS:DD~1",
+        "cik": "1666700",
+        "FIGI": "tts-167251369"
+    },
+    {
+        "name": "Deere and Co",
+        "sector": "Industry",
+        "symbol": "DE",
+        "exchange": "NYS",
+        "id": "NYS:DE",
+        "cik": "315189",
+        "FIGI": "tts-824481"
+    },
+    {
+        "name": "Deckers Outdoor",
+        "sector": "Consumer Goods",
+        "symbol": "DECK",
+        "exchange": "NYS",
+        "id": "NYS:DECK",
+        "cik": "910521",
+        "FIGI": "tts-72407107"
+    },
+    {
+        "name": "Dell Technologies Inc",
+        "sector": null,
+        "symbol": "DELL",
+        "exchange": "NYS",
+        "id": "NYS:DELL",
+        "cik": "1571996",
+        "FIGI": "tts-157040141"
+    },
+    {
+        "name": "Discover Financial Services",
+        "sector": "Finance",
+        "symbol": "DFS",
+        "exchange": "NYS",
+        "id": "NYS:DFS",
+        "cik": "1393612",
+        "FIGI": "tts-824485"
+    },
+    {
+        "name": "Dollar General Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "DG",
+        "exchange": "NYS",
+        "id": "NYS:DG",
+        "cik": "29534",
+        "FIGI": "tts-824486"
+    },
+    {
+        "name": "Quest Diagnostics Inc",
+        "sector": "Healthcare",
+        "symbol": "DGX",
+        "exchange": "NYS",
+        "id": "NYS:DGX",
+        "cik": "1022079",
+        "FIGI": "tts-824488"
+    },
+    {
+        "name": "D R Horton Inc",
+        "sector": "Consumer Goods",
+        "symbol": "DHI",
+        "exchange": "NYS",
+        "id": "NYS:DHI",
+        "cik": "882184",
+        "FIGI": "tts-824489"
+    },
+    {
+        "name": "Danaher Corporation",
+        "sector": "Industry",
+        "symbol": "DHR",
+        "exchange": "NYS",
+        "id": "NYS:DHR",
+        "cik": "313616",
+        "FIGI": "tts-819263"
+    },
+    {
+        "name": "Walt Disney Co",
+        "sector": "IT/Telecommunications",
+        "symbol": "DIS",
+        "exchange": "NYS",
+        "id": "NYS:DIS",
+        "cik": "1744489",
+        "FIGI": "tts-828100"
+    },
+    {
+        "name": "Digital Realty Trust Inc",
+        "sector": "Finance",
+        "symbol": "DLR",
+        "exchange": "NYS",
+        "id": "NYS:DLR",
+        "cik": "1297996",
+        "FIGI": "tts-2074152"
+    },
+    {
+        "name": "Dun and Bradstreet Corp",
+        "sector": null,
+        "symbol": "DNB",
+        "exchange": "NYS",
+        "id": "NYS:DNB",
+        "cik": "1799208",
+        "FIGI": "tts-819299"
+    },
+    {
+        "name": "Denbury Resources Inc",
+        "sector": "Energy",
+        "symbol": "DNR",
+        "exchange": "NYS",
+        "id": "NYS:DNR",
+        "cik": null,
+        "FIGI": "tts-819303"
+    },
+    {
+        "name": "Healthpeak Properties Inc",
+        "sector": null,
+        "symbol": "DOC",
+        "exchange": "NYS",
+        "id": "NYS:DOC",
+        "cik": "765880",
+        "FIGI": "tts-61741993"
+    },
+    {
+        "name": "Dover Corp",
+        "sector": "Industry",
+        "symbol": "DOV",
+        "exchange": "NYS",
+        "id": "NYS:DOV",
+        "cik": "29905",
+        "FIGI": "tts-824511"
+    },
+    {
+        "name": "Dow Chemical Company (The)",
+        "sector": "Commodities",
+        "symbol": "DOW",
+        "exchange": "NYS",
+        "id": "NYS:DOW",
+        "cik": null,
+        "FIGI": "tts-824512"
+    },
+    {
+        "name": "Dow Inc",
+        "sector": null,
+        "symbol": "DOW",
+        "exchange": "NYS",
+        "id": "NYS:DOW~1",
+        "cik": "1751788",
+        "FIGI": "tts-162054712"
+    },
+    {
+        "name": "Darden Restaurants Inc",
+        "sector": "Consumer Goods",
+        "symbol": "DRI",
+        "exchange": "NYS",
+        "id": "NYS:DRI",
+        "cik": "940944",
+        "FIGI": "tts-824528"
+    },
+    {
+        "name": "DTE Energy Company",
+        "sector": "Energy",
+        "symbol": "DTE",
+        "exchange": "NYS",
+        "id": "NYS:DTE",
+        "cik": "936340",
+        "FIGI": "tts-824535"
+    },
+    {
+        "name": "DTE Energy Co",
+        "sector": null,
+        "symbol": "DTV",
+        "exchange": "NYS",
+        "id": "NYS:DTV",
+        "cik": null,
+        "FIGI": "tts-111093294"
+    },
+    {
+        "name": "Duke Energy Corp New",
+        "sector": "Energy",
+        "symbol": "DUK",
+        "exchange": "NYS",
+        "id": "NYS:DUK",
+        "cik": "1326160",
+        "FIGI": "tts-819384"
+    },
+    {
+        "name": "DaVita Inc",
+        "sector": "Healthcare",
+        "symbol": "DVA",
+        "exchange": "NYS",
+        "id": "NYS:DVA",
+        "cik": "927066",
+        "FIGI": "tts-824544"
+    },
+    {
+        "name": "Devon Energy Corp",
+        "sector": "Energy",
+        "symbol": "DVN",
+        "exchange": "NYS",
+        "id": "NYS:DVN",
+        "cik": "1090012",
+        "FIGI": "tts-2042965"
+    },
+    {
+        "name": "DXC Technology Company",
+        "sector": null,
+        "symbol": "DXC",
+        "exchange": "NYS",
+        "id": "NYS:DXC",
+        "cik": "1688568",
+        "FIGI": "tts-120149502"
+    },
+    {
+        "name": "Ecopetrol S.A. American Depositary Shares",
+        "sector": "Energy",
+        "symbol": "EC",
+        "exchange": "NYS",
+        "id": "NYS:EC",
+        "cik": "1444406",
+        "FIGI": "tts-819455"
+    },
+    {
+        "name": "Ecolab Inc",
+        "sector": "Commodities",
+        "symbol": "ECL",
+        "exchange": "NYS",
+        "id": "NYS:ECL",
+        "cik": "31462",
+        "FIGI": "tts-819459"
+    },
+    {
+        "name": "Consolidated Edison Inc",
+        "sector": "Energy",
+        "symbol": "ED",
+        "exchange": "NYS",
+        "id": "NYS:ED",
+        "cik": "1047862",
+        "FIGI": "tts-824557"
+    },
+    {
+        "name": "Equifax Inc",
+        "sector": "Finance",
+        "symbol": "EFX",
+        "exchange": "NYS",
+        "id": "NYS:EFX",
+        "cik": "33185",
+        "FIGI": "tts-819510"
+    },
+    {
+        "name": "Everest Group Ltd",
+        "sector": "Finance",
+        "symbol": "EG",
+        "exchange": "NYS",
+        "id": "NYS:EG",
+        "cik": "1095073",
+        "FIGI": "tts-284468580"
+    },
+    {
+        "name": "Edison International",
+        "sector": "Energy",
+        "symbol": "EIX",
+        "exchange": "NYS",
+        "id": "NYS:EIX",
+        "cik": "827052",
+        "FIGI": "tts-824574"
+    },
+    {
+        "name": "Estee Lauder Companies Inc",
+        "sector": "Consumer Goods",
+        "symbol": "EL",
+        "exchange": "NYS",
+        "id": "NYS:EL",
+        "cik": "1001250",
+        "FIGI": "tts-824577"
+    },
+    {
+        "name": "Elevance Health Inc",
+        "sector": null,
+        "symbol": "ELV",
+        "exchange": "NYS",
+        "id": "NYS:ELV",
+        "cik": "1156039",
+        "FIGI": "tts-252682894"
+    },
+    {
+        "name": "EMC Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "EMC",
+        "exchange": "NYS",
+        "id": "NYS:EMC",
+        "cik": null,
+        "FIGI": "tts-828121"
+    },
+    {
+        "name": "EMCOR Group Inc",
+        "sector": "Industry",
+        "symbol": "EME",
+        "exchange": "NYS",
+        "id": "NYS:EME",
+        "cik": "105634",
+        "FIGI": "tts-819562"
+    },
+    {
+        "name": "Eastman Chemical Co",
+        "sector": "Commodities",
+        "symbol": "EMN",
+        "exchange": "NYS",
+        "id": "NYS:EMN",
+        "cik": "915389",
+        "FIGI": "tts-828123"
+    },
+    {
+        "name": "Emerson Electric Co",
+        "sector": "Industry",
+        "symbol": "EMR",
+        "exchange": "NYS",
+        "id": "NYS:EMR",
+        "cik": "32604",
+        "FIGI": "tts-824588"
+    },
+    {
+        "name": "EOG Resources Inc",
+        "sector": "Energy",
+        "symbol": "EOG",
+        "exchange": "NYS",
+        "id": "NYS:EOG",
+        "cik": "821189",
+        "FIGI": "tts-819587"
+    },
+    {
+        "name": "El Paso Corporation (Holding Co.)",
+        "sector": null,
+        "symbol": "EP",
+        "exchange": "NYS",
+        "id": "NYS:EP",
+        "cik": null,
+        "FIGI": "tts-824602"
+    },
+    {
+        "name": "EPAM Systems Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "EPAM",
+        "exchange": "NYS",
+        "id": "NYS:EPAM",
+        "cik": "1352010",
+        "FIGI": "tts-38627679"
+    },
+    {
+        "name": "Empire Petroleum Corporation Common Stock",
+        "sector": null,
+        "symbol": "EP",
+        "exchange": "NYS",
+        "id": "NYS:EP~1",
+        "cik": "887396",
+        "FIGI": "tts-241776317"
+    },
+    {
+        "name": "Equity Residential",
+        "sector": "Finance",
+        "symbol": "EQR",
+        "exchange": "NYS",
+        "id": "NYS:EQR",
+        "cik": "906107",
+        "FIGI": "tts-819604"
+    },
+    {
+        "name": "EQT Corporation",
+        "sector": "Energy",
+        "symbol": "EQT",
+        "exchange": "NYS",
+        "id": "NYS:EQT",
+        "cik": "33213",
+        "FIGI": "tts-824612"
+    },
+    {
+        "name": "Eversource Energy",
+        "sector": null,
+        "symbol": "ES",
+        "exchange": "NYS",
+        "id": "NYS:ES",
+        "cik": "72741",
+        "FIGI": "tts-11874978"
+    },
+    {
+        "name": "Essex Property Trust Inc",
+        "sector": "Finance",
+        "symbol": "ESS",
+        "exchange": "NYS",
+        "id": "NYS:ESS",
+        "cik": "920522",
+        "FIGI": "tts-819621"
+    },
+    {
+        "name": "Eaton Corp New",
+        "sector": "Industry",
+        "symbol": "ETN",
+        "exchange": "NYS",
+        "id": "NYS:ETN",
+        "cik": "1551182",
+        "FIGI": "tts-819627"
+    },
+    {
+        "name": "Entergy Corp",
+        "sector": "Energy",
+        "symbol": "ETR",
+        "exchange": "NYS",
+        "id": "NYS:ETR",
+        "cik": "65984",
+        "FIGI": "tts-819631"
+    },
+    {
+        "name": "Etsy Inc",
+        "sector": null,
+        "symbol": "ETSY",
+        "exchange": "NYS",
+        "id": "NYS:ETSY",
+        "cik": "1370637",
+        "FIGI": "tts-85481127"
+    },
+    {
+        "name": "Edwards Lifesciences Corp",
+        "sector": "Healthcare",
+        "symbol": "EW",
+        "exchange": "NYS",
+        "id": "NYS:EW",
+        "cik": "1099800",
+        "FIGI": "tts-819638"
+    },
+    {
+        "name": "Expeditors International of Washington Inc",
+        "sector": "Industry",
+        "symbol": "EXPD",
+        "exchange": "NYS",
+        "id": "NYS:EXPD",
+        "cik": "746515",
+        "FIGI": "tts-828860"
+    },
+    {
+        "name": "Extra Space Storage Inc",
+        "sector": "Finance",
+        "symbol": "EXR",
+        "exchange": "NYS",
+        "id": "NYS:EXR",
+        "cik": "1289490",
+        "FIGI": "tts-1945576"
+    },
+    {
+        "name": "Ford Motor Company",
+        "sector": "Industry",
+        "symbol": "F",
+        "exchange": "NYS",
+        "id": "NYS:F",
+        "cik": "37996",
+        "FIGI": "tts-819654"
+    },
+    {
+        "name": "ProShares S&P 500 Dynamic Buffer ETF",
+        "sector": null,
+        "symbol": "FB",
+        "exchange": "NYS",
+        "id": "NYS:FB",
+        "cik": null,
+        "FIGI": "tts-359531590"
+    },
+    {
+        "name": "Four Corners Property Trust Inc",
+        "sector": null,
+        "symbol": "FCPT",
+        "exchange": "NYS",
+        "id": "NYS:FCPT",
+        "cik": "1650132",
+        "FIGI": "tts-96983136"
+    },
+    {
+        "name": "Freeport McMoRan Inc",
+        "sector": "Commodities",
+        "symbol": "FCX",
+        "exchange": "NYS",
+        "id": "NYS:FCX",
+        "cik": "831259",
+        "FIGI": "tts-824654"
+    },
+    {
+        "name": "Family Dollar Stores, Inc.",
+        "sector": "Consumer Goods",
+        "symbol": "FDO",
+        "exchange": "NYS",
+        "id": "NYS:FDO",
+        "cik": null,
+        "FIGI": "tts-819689"
+    },
+    {
+        "name": "FactSet Research Systems Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "FDS",
+        "exchange": "NYS",
+        "id": "NYS:FDS",
+        "cik": "1013237",
+        "FIGI": "tts-824661"
+    },
+    {
+        "name": "FedEx Corp",
+        "sector": "Industry",
+        "symbol": "FDX",
+        "exchange": "NYS",
+        "id": "NYS:FDX",
+        "cik": "1048911",
+        "FIGI": "tts-819694"
+    },
+    {
+        "name": "FirstEnergy Corp",
+        "sector": "Energy",
+        "symbol": "FE",
+        "exchange": "NYS",
+        "id": "NYS:FE",
+        "cik": "1031296",
+        "FIGI": "tts-824662"
+    },
+    {
+        "name": "First Horizon Corporation",
+        "sector": "Finance",
+        "symbol": "FHN",
+        "exchange": "NYS",
+        "id": "NYS:FHN",
+        "cik": "36966",
+        "FIGI": "tts-1366641"
+    },
+    {
+        "name": "Fiserv",
+        "sector": "IT/Telecommunications",
+        "symbol": "FI",
+        "exchange": "NYS",
+        "id": "NYS:FI",
+        "cik": "798354",
+        "FIGI": "tts-63081317"
+    },
+    {
+        "name": "Fair Isaac Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "FICO",
+        "exchange": "NYS",
+        "id": "NYS:FICO",
+        "cik": "814547",
+        "FIGI": "tts-19583252"
+    },
+    {
+        "name": "Fidelity National Information Services Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "FIS",
+        "exchange": "NYS",
+        "id": "NYS:FIS",
+        "cik": "1136893",
+        "FIGI": "tts-3855383"
+    },
+    {
+        "name": "Comfort Systems USA Inc",
+        "sector": "Industry",
+        "symbol": "FIX",
+        "exchange": "NYS",
+        "id": "NYS:FIX",
+        "cik": "1035983",
+        "FIGI": "tts-824677"
+    },
+    {
+        "name": "Foot Locker Inc",
+        "sector": "Consumer Goods",
+        "symbol": "FL",
+        "exchange": "NYS",
+        "id": "NYS:FL",
+        "cik": "850209",
+        "FIGI": "tts-824679"
+    },
+    {
+        "name": "Fluor Corp",
+        "sector": "Industry",
+        "symbol": "FLR",
+        "exchange": "NYS",
+        "id": "NYS:FLR",
+        "cik": "1124198",
+        "FIGI": "tts-819729"
+    },
+    {
+        "name": "Flowserve Corp",
+        "sector": "Industry",
+        "symbol": "FLS",
+        "exchange": "NYS",
+        "id": "NYS:FLS",
+        "cik": "30625",
+        "FIGI": "tts-819731"
+    },
+    {
+        "name": "FMC Corp",
+        "sector": "Commodities",
+        "symbol": "FMC",
+        "exchange": "NYS",
+        "id": "NYS:FMC",
+        "cik": "37785",
+        "FIGI": "tts-819733"
+    },
+    {
+        "name": "Federal Realty Investment Trust",
+        "sector": null,
+        "symbol": "FRT",
+        "exchange": "NYS",
+        "id": "NYS:FRT",
+        "cik": "34903",
+        "FIGI": "tts-824723"
+    },
+    {
+        "name": "Forest Laboratories, Inc.",
+        "sector": "Healthcare",
+        "symbol": "FRX",
+        "exchange": "NYS",
+        "id": "NYS:FRX",
+        "cik": null,
+        "FIGI": "tts-824726"
+    },
+    {
+        "name": "Forest Road Acquisition Corp",
+        "sector": null,
+        "symbol": "FRX",
+        "exchange": "NYS",
+        "id": "NYS:FRX~1",
+        "cik": null,
+        "FIGI": "tts-210984145"
+    },
+    {
+        "name": "TechnipFMC Limited",
+        "sector": null,
+        "symbol": "FTI",
+        "exchange": "NYS",
+        "id": "NYS:FTI",
+        "cik": "1681459",
+        "FIGI": "tts-824730"
+    },
+    {
+        "name": "Fortive Corporation",
+        "sector": null,
+        "symbol": "FTV",
+        "exchange": "NYS",
+        "id": "NYS:FTV",
+        "cik": "1659166",
+        "FIGI": "tts-107229686"
+    },
+    {
+        "name": "Genpact Limited",
+        "sector": "Industry",
+        "symbol": "G",
+        "exchange": "NYS",
+        "id": "NYS:G",
+        "cik": "1398659",
+        "FIGI": "tts-824738"
+    },
+    {
+        "name": "AGL Resources, Inc.",
+        "sector": "Energy",
+        "symbol": "GAS",
+        "exchange": "NYS",
+        "id": "NYS:GAS",
+        "cik": null,
+        "FIGI": "tts-824745"
+    },
+    {
+        "name": "General Dynamics Corporation",
+        "sector": "Industry",
+        "symbol": "GD",
+        "exchange": "NYS",
+        "id": "NYS:GD",
+        "cik": "40533",
+        "FIGI": "tts-824752"
+    },
+    {
+        "name": "GoDaddy Inc",
+        "sector": null,
+        "symbol": "GDDY",
+        "exchange": "NYS",
+        "id": "NYS:GDDY",
+        "cik": "1609711",
+        "FIGI": "tts-84995962"
+    },
+    {
+        "name": "GE Aerospace",
+        "sector": null,
+        "symbol": "GE",
+        "exchange": "NYS",
+        "id": "NYS:GE",
+        "cik": "40545",
+        "FIGI": "tts-824756"
+    },
+    {
+        "name": "GE Vernova Inc",
+        "sector": null,
+        "symbol": "GEV",
+        "exchange": "NYS",
+        "id": "NYS:GEV",
+        "cik": "1996810",
+        "FIGI": "tts-307473587"
+    },
+    {
+        "name": "GGP Inc.",
+        "sector": null,
+        "symbol": "GGP",
+        "exchange": "NYS",
+        "id": "NYS:GGP",
+        "cik": null,
+        "FIGI": "tts-824770"
+    },
+    {
+        "name": "Graham Holdings Company",
+        "sector": "IT/Telecommunications",
+        "symbol": "GHC",
+        "exchange": "NYS",
+        "id": "NYS:GHC",
+        "cik": "104889",
+        "FIGI": "tts-67312163"
+    },
+    {
+        "name": "General Mills Inc",
+        "sector": "Consumer Goods",
+        "symbol": "GIS",
+        "exchange": "NYS",
+        "id": "NYS:GIS",
+        "cik": "40704",
+        "FIGI": "tts-819910"
+    },
+    {
+        "name": "Globe Life Inc",
+        "sector": null,
+        "symbol": "GL",
+        "exchange": "NYS",
+        "id": "NYS:GL",
+        "cik": "320335",
+        "FIGI": "tts-171851873"
+    },
+    {
+        "name": "Corning Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "GLW",
+        "exchange": "NYS",
+        "id": "NYS:GLW",
+        "cik": "24741",
+        "FIGI": "tts-824779"
+    },
+    {
+        "name": "General Motors Company",
+        "sector": "Industry",
+        "symbol": "GM",
+        "exchange": "NYS",
+        "id": "NYS:GM",
+        "cik": "1467858",
+        "FIGI": "tts-26033121"
+    },
+    {
+        "name": "GameStop Corp",
+        "sector": "Consumer Goods",
+        "symbol": "GME",
+        "exchange": "NYS",
+        "id": "NYS:GME",
+        "cik": "1326380",
+        "FIGI": "tts-824781"
+    },
+    {
+        "name": "Generac Holding Inc",
+        "sector": "Energy",
+        "symbol": "GNRC",
+        "exchange": "NYS",
+        "id": "NYS:GNRC",
+        "cik": "1474735",
+        "FIGI": "tts-21608803"
+    },
+    {
+        "name": "Genworth Financial Inc",
+        "sector": "Finance",
+        "symbol": "GNW",
+        "exchange": "NYS",
+        "id": "NYS:GNW",
+        "cik": "1276520",
+        "FIGI": "tts-1779839"
+    },
+    {
+        "name": "Genuine Parts Co",
+        "sector": "Consumer Goods",
+        "symbol": "GPC",
+        "exchange": "NYS",
+        "id": "NYS:GPC",
+        "cik": "40987",
+        "FIGI": "tts-824791"
+    },
+    {
+        "name": "Global Payments Inc",
+        "sector": "Finance",
+        "symbol": "GPN",
+        "exchange": "NYS",
+        "id": "NYS:GPN",
+        "cik": "1123360",
+        "FIGI": "tts-828179"
+    },
+    {
+        "name": "Goodrich Corporation (The)",
+        "sector": null,
+        "symbol": "GR",
+        "exchange": "NYS",
+        "id": "NYS:GR",
+        "cik": null,
+        "FIGI": "tts-819966"
+    },
+    {
+        "name": "Garmin Ltd",
+        "sector": "Industry",
+        "symbol": "GRMN",
+        "exchange": "NYS",
+        "id": "NYS:GRMN",
+        "cik": "1121788",
+        "FIGI": "tts-237275457"
+    },
+    {
+        "name": "Goldman Sachs Group Inc",
+        "sector": "Finance",
+        "symbol": "GS",
+        "exchange": "NYS",
+        "id": "NYS:GS",
+        "cik": "886982",
+        "FIGI": "tts-824806"
+    },
+    {
+        "name": "WW Grainger Inc",
+        "sector": "Consumer Goods",
+        "symbol": "GWW",
+        "exchange": "NYS",
+        "id": "NYS:GWW",
+        "cik": "277135",
+        "FIGI": "tts-820016"
+    },
+    {
+        "name": "Hyatt Hotels Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "H",
+        "exchange": "NYS",
+        "id": "NYS:H",
+        "cik": "1468174",
+        "FIGI": "tts-1243470"
+    },
+    {
+        "name": "Halliburton Co",
+        "sector": "Energy",
+        "symbol": "HAL",
+        "exchange": "NYS",
+        "id": "NYS:HAL",
+        "cik": "45012",
+        "FIGI": "tts-824829"
+    },
+    {
+        "name": "Harman International Industries, Incorporated",
+        "sector": "Consumer Goods",
+        "symbol": "HAR",
+        "exchange": "NYS",
+        "id": "NYS:HAR",
+        "cik": null,
+        "FIGI": "tts-820023"
+    },
+    {
+        "name": "Hanesbrands Inc",
+        "sector": "Consumer Goods",
+        "symbol": "HBI",
+        "exchange": "NYS",
+        "id": "NYS:HBI",
+        "cik": "1359841",
+        "FIGI": "tts-4837238"
+    },
+    {
+        "name": "HCA Healthcare Inc",
+        "sector": "Healthcare",
+        "symbol": "HCA",
+        "exchange": "NYS",
+        "id": "NYS:HCA",
+        "cik": "860730",
+        "FIGI": "tts-28208589"
+    },
+    {
+        "name": "Home Depot Inc",
+        "sector": "Consumer Goods",
+        "symbol": "HD",
+        "exchange": "NYS",
+        "id": "NYS:HD",
+        "cik": "354950",
+        "FIGI": "tts-824874"
+    },
+    {
+        "name": "Hess Corporation",
+        "sector": "Energy",
+        "symbol": "HES",
+        "exchange": "NYS",
+        "id": "NYS:HES",
+        "cik": "4447",
+        "FIGI": "tts-4256505"
+    },
+    {
+        "name": "HollyFrontier Corp",
+        "sector": "Energy",
+        "symbol": "HFC",
+        "exchange": "NYS",
+        "id": "NYS:HFC",
+        "cik": null,
+        "FIGI": "tts-30448896"
+    },
+    {
+        "name": "Hartford Insurance Group Inc",
+        "sector": "Finance",
+        "symbol": "HIG",
+        "exchange": "NYS",
+        "id": "NYS:HIG",
+        "cik": "874766",
+        "FIGI": "tts-825004"
+    },
+    {
+        "name": "Huntington Ingalls Industries Inc",
+        "sector": "Industry",
+        "symbol": "HII",
+        "exchange": "NYS",
+        "id": "NYS:HII",
+        "cik": "1501585",
+        "FIGI": "tts-28562574"
+    },
+    {
+        "name": "Hilton Worldwide Holdings Inc New",
+        "sector": null,
+        "symbol": "HLT",
+        "exchange": "NYS",
+        "id": "NYS:HLT",
+        "cik": "1585689",
+        "FIGI": "tts-67693128"
+    },
+    {
+        "name": "Health Management Associates, Inc.",
+        "sector": "Healthcare",
+        "symbol": "HMA",
+        "exchange": "NYS",
+        "id": "NYS:HMA",
+        "cik": null,
+        "FIGI": "tts-825026"
+    },
+    {
+        "name": "H.J. Heinz Company",
+        "sector": "Consumer Goods",
+        "symbol": "HNZ",
+        "exchange": "NYS",
+        "id": "NYS:HNZ",
+        "cik": null,
+        "FIGI": "tts-820105"
+    },
+    {
+        "name": "Harley Davidson Inc",
+        "sector": "Industry",
+        "symbol": "HOG",
+        "exchange": "NYS",
+        "id": "NYS:HOG",
+        "cik": "793952",
+        "FIGI": "tts-4745058"
+    },
+    {
+        "name": "Starwood Hotels & Resorts Worldwide, Inc.",
+        "sector": "Consumer Goods",
+        "symbol": "HOT",
+        "exchange": "NYS",
+        "id": "NYS:HOT",
+        "cik": null,
+        "FIGI": "tts-825040"
+    },
+    {
+        "name": "Helmerich and Payne Inc",
+        "sector": "Energy",
+        "symbol": "HP",
+        "exchange": "NYS",
+        "id": "NYS:HP",
+        "cik": "46765",
+        "FIGI": "tts-820111"
+    },
+    {
+        "name": "Hewlett Packard Enterprise Co",
+        "sector": null,
+        "symbol": "HPE",
+        "exchange": "NYS",
+        "id": "NYS:HPE",
+        "cik": "1645590",
+        "FIGI": "tts-96649775"
+    },
+    {
+        "name": "HP Inc",
+        "sector": null,
+        "symbol": "HPQ",
+        "exchange": "NYS",
+        "id": "NYS:HPQ",
+        "cik": "47217",
+        "FIGI": "tts-820116"
+    },
+    {
+        "name": "H and R Block Inc",
+        "sector": "Finance",
+        "symbol": "HRB",
+        "exchange": "NYS",
+        "id": "NYS:HRB",
+        "cik": "12659",
+        "FIGI": "tts-820124"
+    },
+    {
+        "name": "Hormel Foods Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "HRL",
+        "exchange": "NYS",
+        "id": "NYS:HRL",
+        "cik": "48465",
+        "FIGI": "tts-820130"
+    },
+    {
+        "name": "Hillshire Brands Company (The)",
+        "sector": "Consumer Goods",
+        "symbol": "HSH",
+        "exchange": "NYS",
+        "id": "NYS:HSH",
+        "cik": null,
+        "FIGI": "tts-47882778"
+    },
+    {
+        "name": "Hospira Inc",
+        "sector": "Healthcare",
+        "symbol": "HSP",
+        "exchange": "NYS",
+        "id": "NYS:HSP",
+        "cik": null,
+        "FIGI": "tts-820141"
+    },
+    {
+        "name": "Hershey Company",
+        "sector": "Consumer Goods",
+        "symbol": "HSY",
+        "exchange": "NYS",
+        "id": "NYS:HSY",
+        "cik": "47111",
+        "FIGI": "tts-825092"
+    },
+    {
+        "name": "Hubbell Incorporated",
+        "sector": null,
+        "symbol": "HUBB",
+        "exchange": "NYS",
+        "id": "NYS:HUBB",
+        "cik": "48898",
+        "FIGI": "tts-98772733"
+    },
+    {
+        "name": "Humana Inc",
+        "sector": "Healthcare",
+        "symbol": "HUM",
+        "exchange": "NYS",
+        "id": "NYS:HUM",
+        "cik": "49071",
+        "FIGI": "tts-825120"
+    },
+    {
+        "name": "Howmet Aerospace Inc",
+        "sector": null,
+        "symbol": "HWM",
+        "exchange": "NYS",
+        "id": "NYS:HWM",
+        "cik": "4281",
+        "FIGI": "tts-189319823"
+    },
+    {
+        "name": "International Business Machines Corp",
+        "sector": "IT/Telecommunications",
+        "symbol": "IBM",
+        "exchange": "NYS",
+        "id": "NYS:IBM",
+        "cik": "51143",
+        "FIGI": "tts-825194"
+    },
+    {
+        "name": "Intercontinental Exchange Inc",
+        "sector": "Finance",
+        "symbol": "ICE",
+        "exchange": "NYS",
+        "id": "NYS:ICE",
+        "cik": "1571949",
+        "FIGI": "tts-3536577"
+    },
+    {
+        "name": "IDEX Corporation",
+        "sector": "Industry",
+        "symbol": "IEX",
+        "exchange": "NYS",
+        "id": "NYS:IEX",
+        "cik": "832101",
+        "FIGI": "tts-825299"
+    },
+    {
+        "name": "International Flavors and Fragrances Inc",
+        "sector": "Commodities",
+        "symbol": "IFF",
+        "exchange": "NYS",
+        "id": "NYS:IFF",
+        "cik": "51253",
+        "FIGI": "tts-825324"
+    },
+    {
+        "name": "International Game Technology PLC",
+        "sector": null,
+        "symbol": "IGT",
+        "exchange": "NYS",
+        "id": "NYS:IGT",
+        "cik": "1619762",
+        "FIGI": "tts-820200"
+    },
+    {
+        "name": "Invitation Homes Inc",
+        "sector": null,
+        "symbol": "INVH",
+        "exchange": "NYS",
+        "id": "NYS:INVH",
+        "cik": "1687229",
+        "FIGI": "tts-117308293"
+    },
+    {
+        "name": "International Paper Company",
+        "sector": "Commodities",
+        "symbol": "IP",
+        "exchange": "NYS",
+        "id": "NYS:IP",
+        "cik": "51434",
+        "FIGI": "tts-820237"
+    },
+    {
+        "name": "Interpublic Group of Companies Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "IPG",
+        "exchange": "NYS",
+        "id": "NYS:IPG",
+        "cik": "51644",
+        "FIGI": "tts-825561"
+    },
+    {
+        "name": "IQVIA Holdings Inc",
+        "sector": null,
+        "symbol": "IQV",
+        "exchange": "NYS",
+        "id": "NYS:IQV",
+        "cik": "1478242",
+        "FIGI": "tts-130773564"
+    },
+    {
+        "name": "Ingersoll Rand PLC",
+        "sector": null,
+        "symbol": "IR",
+        "exchange": "NYS",
+        "id": "NYS:IR",
+        "cik": "1699150",
+        "FIGI": "tts-825590"
+    },
+    {
+        "name": "Iron Mountain Inc REIT",
+        "sector": null,
+        "symbol": "IRM",
+        "exchange": "NYS",
+        "id": "NYS:IRM",
+        "cik": "1020569",
+        "FIGI": "tts-825613"
+    },
+    {
+        "name": "Gartner Inc",
+        "sector": "Industry",
+        "symbol": "IT",
+        "exchange": "NYS",
+        "id": "NYS:IT",
+        "cik": "749251",
+        "FIGI": "tts-820252"
+    },
+    {
+        "name": "ITT Inc",
+        "sector": null,
+        "symbol": "ITT",
+        "exchange": "NYS",
+        "id": "NYS:ITT",
+        "cik": "216228",
+        "FIGI": "tts-825696"
+    },
+    {
+        "name": "Illinois Tool Works Inc",
+        "sector": "Industry",
+        "symbol": "ITW",
+        "exchange": "NYS",
+        "id": "NYS:ITW",
+        "cik": "49826",
+        "FIGI": "tts-825697"
+    },
+    {
+        "name": "Invesco Ltd",
+        "sector": "Finance",
+        "symbol": "IVZ",
+        "exchange": "NYS",
+        "id": "NYS:IVZ",
+        "cik": "914208",
+        "FIGI": "tts-10254193"
+    },
+    {
+        "name": "Jacobs Solutions Inc",
+        "sector": null,
+        "symbol": "J",
+        "exchange": "NYS",
+        "id": "NYS:J",
+        "cik": "52988",
+        "FIGI": "tts-179987468"
+    },
+    {
+        "name": "Jabil Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "JBL",
+        "exchange": "NYS",
+        "id": "NYS:JBL",
+        "cik": "898293",
+        "FIGI": "tts-820265"
+    },
+    {
+        "name": "Johnson Controls International PLC",
+        "sector": null,
+        "symbol": "JCI",
+        "exchange": "NYS",
+        "id": "NYS:JCI",
+        "cik": "833444",
+        "FIGI": "tts-820268"
+    },
+    {
+        "name": "Jefferies Financial Group Inc",
+        "sector": null,
+        "symbol": "JEF",
+        "exchange": "NYS",
+        "id": "NYS:JEF",
+        "cik": "96223",
+        "FIGI": "tts-825736"
+    },
+    {
+        "name": "Johnson and Johnson",
+        "sector": "Healthcare",
+        "symbol": "JNJ",
+        "exchange": "NYS",
+        "id": "NYS:JNJ",
+        "cik": "200406",
+        "FIGI": "tts-825807"
+    },
+    {
+        "name": "Juniper Networks Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "JNPR",
+        "exchange": "NYS",
+        "id": "NYS:JNPR",
+        "cik": "1043604",
+        "FIGI": "tts-20366359"
+    },
+    {
+        "name": "Janus Capital Group, Inc. Cmn Stk",
+        "sector": "Finance",
+        "symbol": "JNS",
+        "exchange": "NYS",
+        "id": "NYS:JNS",
+        "cik": null,
+        "FIGI": "tts-825809"
+    },
+    {
+        "name": "Jones Group, Inc. (The)",
+        "sector": "Consumer Goods",
+        "symbol": "JNY",
+        "exchange": "NYS",
+        "id": "NYS:JNY",
+        "cik": null,
+        "FIGI": "tts-820285"
+    },
+    {
+        "name": "Joy Global Inc.",
+        "sector": "Industry",
+        "symbol": "JOY",
+        "exchange": "NYS",
+        "id": "NYS:JOY",
+        "cik": "801898",
+        "FIGI": "tts-36299719"
+    },
+    {
+        "name": "JP Morgan Chase and Co",
+        "sector": "Finance",
+        "symbol": "JPM",
+        "exchange": "NYS",
+        "id": "NYS:JPM",
+        "cik": "19617",
+        "FIGI": "tts-825840"
+    },
+    {
+        "name": "Nordstrom Inc",
+        "sector": "Consumer Goods",
+        "symbol": "JWN",
+        "exchange": "NYS",
+        "id": "NYS:JWN",
+        "cik": null,
+        "FIGI": "tts-825890"
+    },
+    {
+        "name": "Kellanova Co",
+        "sector": "Consumer Goods",
+        "symbol": "K",
+        "exchange": "NYS",
+        "id": "NYS:K",
+        "cik": "55067",
+        "FIGI": "tts-820303"
+    },
+    {
+        "name": "Kate Spade & Company",
+        "sector": "Consumer Goods",
+        "symbol": "KATE",
+        "exchange": "NYS",
+        "id": "NYS:KATE",
+        "cik": null,
+        "FIGI": "tts-70515122"
+    },
+    {
+        "name": "KB Home",
+        "sector": "Consumer Goods",
+        "symbol": "KBH",
+        "exchange": "NYS",
+        "id": "NYS:KBH",
+        "cik": "795266",
+        "FIGI": "tts-820305"
+    },
+    {
+        "name": "KeyCorp",
+        "sector": "Finance",
+        "symbol": "KEY",
+        "exchange": "NYS",
+        "id": "NYS:KEY",
+        "cik": "91576",
+        "FIGI": "tts-820318"
+    },
+    {
+        "name": "Keysight Technologies Inc",
+        "sector": null,
+        "symbol": "KEYS",
+        "exchange": "NYS",
+        "id": "NYS:KEYS",
+        "cik": "1601046",
+        "FIGI": "tts-78355419"
+    },
+    {
+        "name": "Kimco Realty Corporation",
+        "sector": "Finance",
+        "symbol": "KIM",
+        "exchange": "NYS",
+        "id": "NYS:KIM",
+        "cik": "879101",
+        "FIGI": "tts-825957"
+    },
+    {
+        "name": "KKR and Company Inc",
+        "sector": null,
+        "symbol": "KKR",
+        "exchange": "NYS",
+        "id": "NYS:KKR",
+        "cik": "1404912",
+        "FIGI": "tts-24178047"
+    },
+    {
+        "name": "Kinder Morgan Inc",
+        "sector": "Energy",
+        "symbol": "KMI",
+        "exchange": "NYS",
+        "id": "NYS:KMI",
+        "cik": "1506307",
+        "FIGI": "tts-27680104"
+    },
+    {
+        "name": "CarMax Group",
+        "sector": "Consumer Goods",
+        "symbol": "KMX",
+        "exchange": "NYS",
+        "id": "NYS:KMX",
+        "cik": "1170010",
+        "FIGI": "tts-820338"
+    },
+    {
+        "name": "Coca Cola Company",
+        "sector": "Consumer Goods",
+        "symbol": "KO",
+        "exchange": "NYS",
+        "id": "NYS:KO",
+        "cik": "21344",
+        "FIGI": "tts-825992"
+    },
+    {
+        "name": "Kroger Co",
+        "sector": "Consumer Goods",
+        "symbol": "KR",
+        "exchange": "NYS",
+        "id": "NYS:KR",
+        "cik": "56873",
+        "FIGI": "tts-820351"
+    },
+    {
+        "name": "Kohls  Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "KSS",
+        "exchange": "NYS",
+        "id": "NYS:KSS",
+        "cik": "885639",
+        "FIGI": "tts-820366"
+    },
+    {
+        "name": "Kenvue Inc",
+        "sector": null,
+        "symbol": "KVUE",
+        "exchange": "NYS",
+        "id": "NYS:KVUE",
+        "cik": "1944048",
+        "FIGI": "tts-278925995"
+    },
+    {
+        "name": "Loews Corporation",
+        "sector": "Finance",
+        "symbol": "L",
+        "exchange": "NYS",
+        "id": "NYS:L",
+        "cik": "60086",
+        "FIGI": "tts-826122"
+    },
+    {
+        "name": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests",
+        "sector": null,
+        "symbol": "LB",
+        "exchange": "NYS",
+        "id": "NYS:LB",
+        "cik": "1995807",
+        "FIGI": "tts-315465495"
+    },
+    {
+        "name": "Leidos Holdings Inc",
+        "sector": "Industry",
+        "symbol": "LDOS",
+        "exchange": "NYS",
+        "id": "NYS:LDOS",
+        "cik": "1336920",
+        "FIGI": "tts-65187270"
+    },
+    {
+        "name": "Leggett and Platt Inc",
+        "sector": "Industry",
+        "symbol": "LEG",
+        "exchange": "NYS",
+        "id": "NYS:LEG",
+        "cik": "58492",
+        "FIGI": "tts-820425"
+    },
+    {
+        "name": "Lennar Corp",
+        "sector": "Consumer Goods",
+        "symbol": "LEN",
+        "exchange": "NYS",
+        "id": "NYS:LEN",
+        "cik": "920760",
+        "FIGI": "tts-826145"
+    },
+    {
+        "name": "Labcorp Holdings Inc",
+        "sector": null,
+        "symbol": "LH",
+        "exchange": "NYS",
+        "id": "NYS:LH",
+        "cik": "920148",
+        "FIGI": "tts-826167"
+    },
+    {
+        "name": "L3Harris Technologies Inc",
+        "sector": null,
+        "symbol": "LHX",
+        "exchange": "NYS",
+        "id": "NYS:LHX",
+        "cik": "202058",
+        "FIGI": "tts-169233535"
+    },
+    {
+        "name": "Lennox International Inc",
+        "sector": "Industry",
+        "symbol": "LII",
+        "exchange": "NYS",
+        "id": "NYS:LII",
+        "cik": "1069202",
+        "FIGI": "tts-820447"
+    },
+    {
+        "name": "L3 Technologies Inc",
+        "sector": null,
+        "symbol": "LLL",
+        "exchange": "NYS",
+        "id": "NYS:LLL",
+        "cik": null,
+        "FIGI": "tts-230442547"
+    },
+    {
+        "name": "Eli Lilly and Co",
+        "sector": "Healthcare",
+        "symbol": "LLY",
+        "exchange": "NYS",
+        "id": "NYS:LLY",
+        "cik": "59478",
+        "FIGI": "tts-820450"
+    },
+    {
+        "name": "Legg Mason Inc",
+        "sector": "Finance",
+        "symbol": "LM",
+        "exchange": "NYS",
+        "id": "NYS:LM",
+        "cik": null,
+        "FIGI": "tts-820451"
+    },
+    {
+        "name": "Lockheed Martin Corp",
+        "sector": "Industry",
+        "symbol": "LMT",
+        "exchange": "NYS",
+        "id": "NYS:LMT",
+        "cik": "936468",
+        "FIGI": "tts-820454"
+    },
+    {
+        "name": "Lincoln National Corporation",
+        "sector": "Finance",
+        "symbol": "LNC",
+        "exchange": "NYS",
+        "id": "NYS:LNC",
+        "cik": "59558",
+        "FIGI": "tts-826198"
+    },
+    {
+        "name": "Lorillard, Inc",
+        "sector": "Consumer Goods",
+        "symbol": "LO",
+        "exchange": "NYS",
+        "id": "NYS:LO",
+        "cik": null,
+        "FIGI": "tts-14347668"
+    },
+    {
+        "name": "Lowes Companies Inc",
+        "sector": "Consumer Goods",
+        "symbol": "LOW",
+        "exchange": "NYS",
+        "id": "NYS:LOW",
+        "cik": "60667",
+        "FIGI": "tts-826218"
+    },
+    {
+        "name": "Louisiana Pacific Corp",
+        "sector": "Industry",
+        "symbol": "LPX",
+        "exchange": "NYS",
+        "id": "NYS:LPX",
+        "cik": "60519",
+        "FIGI": "tts-826220"
+    },
+    {
+        "name": "Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",
+        "sector": null,
+        "symbol": "LU",
+        "exchange": "NYS",
+        "id": "NYS:LU",
+        "cik": "1816007",
+        "FIGI": "tts-205241943"
+    },
+    {
+        "name": "Lumen Technologies Inc",
+        "sector": null,
+        "symbol": "LUMN",
+        "exchange": "NYS",
+        "id": "NYS:LUMN",
+        "cik": "18926",
+        "FIGI": "tts-202639733"
+    },
+    {
+        "name": "Southwest Airlines Co",
+        "sector": "Consumer Goods",
+        "symbol": "LUV",
+        "exchange": "NYS",
+        "id": "NYS:LUV",
+        "cik": "92380",
+        "FIGI": "tts-820480"
+    },
+    {
+        "name": "Level 3 Communications, Inc.",
+        "sector": "IT/Telecommunications",
+        "symbol": "LVLT",
+        "exchange": "NYS",
+        "id": "NYS:LVLT",
+        "cik": "794323",
+        "FIGI": "tts-33659182"
+    },
+    {
+        "name": "Las Vegas Sands Corp",
+        "sector": "Consumer Goods",
+        "symbol": "LVS",
+        "exchange": "NYS",
+        "id": "NYS:LVS",
+        "cik": "1300514",
+        "FIGI": "tts-2184004"
+    },
+    {
+        "name": "Lamb Weston Holdings Inc",
+        "sector": null,
+        "symbol": "LW",
+        "exchange": "NYS",
+        "id": "NYS:LW",
+        "cik": "1679273",
+        "FIGI": "tts-112264524"
+    },
+    {
+        "name": "Lexmark International, Inc.",
+        "sector": "IT/Telecommunications",
+        "symbol": "LXK",
+        "exchange": "NYS",
+        "id": "NYS:LXK",
+        "cik": null,
+        "FIGI": "tts-820483"
+    },
+    {
+        "name": "LyondellBasell Industries NV",
+        "sector": "Commodities",
+        "symbol": "LYB",
+        "exchange": "NYS",
+        "id": "NYS:LYB",
+        "cik": "1489393",
+        "FIGI": "tts-25471963"
+    },
+    {
+        "name": "Live Nation Entertainment Inc",
+        "sector": "Industry",
+        "symbol": "LYV",
+        "exchange": "NYS",
+        "id": "NYS:LYV",
+        "cik": "1335258",
+        "FIGI": "tts-3682398"
+    },
+    {
+        "name": "Macys Inc",
+        "sector": "Consumer Goods",
+        "symbol": "M",
+        "exchange": "NYS",
+        "id": "NYS:M",
+        "cik": "794367",
+        "FIGI": "tts-1314686"
+    },
+    {
+        "name": "MasterCard Incorporated",
+        "sector": "Finance",
+        "symbol": "MA",
+        "exchange": "NYS",
+        "id": "NYS:MA",
+        "cik": "1141391",
+        "FIGI": "tts-4340548"
+    },
+    {
+        "name": "Mid America Apartment Communities Inc",
+        "sector": "Finance",
+        "symbol": "MAA",
+        "exchange": "NYS",
+        "id": "NYS:MAA",
+        "cik": "912595",
+        "FIGI": "tts-826254"
+    },
+    {
+        "name": "Macerich Co",
+        "sector": "Finance",
+        "symbol": "MAC",
+        "exchange": "NYS",
+        "id": "NYS:MAC",
+        "cik": "912242",
+        "FIGI": "tts-826261"
+    },
+    {
+        "name": "Masco Corp",
+        "sector": "Industry",
+        "symbol": "MAS",
+        "exchange": "NYS",
+        "id": "NYS:MAS",
+        "cik": "62996",
+        "FIGI": "tts-820498"
+    },
+    {
+        "name": "MBIA Inc. Common Stock",
+        "sector": "Finance",
+        "symbol": "MBI",
+        "exchange": "NYS",
+        "id": "NYS:MBI",
+        "cik": "814585",
+        "FIGI": "tts-820502"
+    },
+    {
+        "name": "McDonalds Corp",
+        "sector": "Consumer Goods",
+        "symbol": "MCD",
+        "exchange": "NYS",
+        "id": "NYS:MCD",
+        "cik": "63908",
+        "FIGI": "tts-820508"
+    },
+    {
+        "name": "McKesson Corporation",
+        "sector": "Healthcare",
+        "symbol": "MCK",
+        "exchange": "NYS",
+        "id": "NYS:MCK",
+        "cik": "927653",
+        "FIGI": "tts-826286"
+    },
+    {
+        "name": "Moodys Corp",
+        "sector": "Finance",
+        "symbol": "MCO",
+        "exchange": "NYS",
+        "id": "NYS:MCO",
+        "cik": "1059556",
+        "FIGI": "tts-820516"
+    },
+    {
+        "name": "Meredith Corp",
+        "sector": null,
+        "symbol": "MDP",
+        "exchange": "NYS",
+        "id": "NYS:MDP",
+        "cik": null,
+        "FIGI": "tts-826300"
+    },
+    {
+        "name": "Medtronic PLC",
+        "sector": null,
+        "symbol": "MDT",
+        "exchange": "NYS",
+        "id": "NYS:MDT",
+        "cik": "1613103",
+        "FIGI": "tts-826302"
+    },
+    {
+        "name": "MetLife Inc",
+        "sector": "Finance",
+        "symbol": "MET",
+        "exchange": "NYS",
+        "id": "NYS:MET",
+        "cik": "1099219",
+        "FIGI": "tts-826316"
+    },
+    {
+        "name": "MGM Resorts International",
+        "sector": "Consumer Goods",
+        "symbol": "MGM",
+        "exchange": "NYS",
+        "id": "NYS:MGM",
+        "cik": "789570",
+        "FIGI": "tts-826329"
+    },
+    {
+        "name": "Mohawk Industries Inc",
+        "sector": "Consumer Goods",
+        "symbol": "MHK",
+        "exchange": "NYS",
+        "id": "NYS:MHK",
+        "cik": "851968",
+        "FIGI": "tts-826333"
+    },
+    {
+        "name": "MedcoHealth Solutions Inc Common Stock",
+        "sector": "Healthcare",
+        "symbol": "MHS",
+        "exchange": "NYS",
+        "id": "NYS:MHS",
+        "cik": null,
+        "FIGI": "tts-972725"
+    },
+    {
+        "name": "Marshall & Ilsley Corp",
+        "sector": null,
+        "symbol": "MI",
+        "exchange": "NYS",
+        "id": "NYS:MI",
+        "cik": null,
+        "FIGI": "tts-826337"
+    },
+    {
+        "name": "NFT Limited Class A Ordinary Share",
+        "sector": null,
+        "symbol": "MI",
+        "exchange": "NYS",
+        "id": "NYS:MI~1",
+        "cik": "1958713",
+        "FIGI": "tts-289505740"
+    },
+    {
+        "name": "Mead Johnson Nutrition Company",
+        "sector": "Healthcare",
+        "symbol": "MJN",
+        "exchange": "NYS",
+        "id": "NYS:MJN",
+        "cik": null,
+        "FIGI": "tts-826358"
+    },
+    {
+        "name": "McCormick and Co",
+        "sector": "Consumer Goods",
+        "symbol": "MKC",
+        "exchange": "NYS",
+        "id": "NYS:MKC",
+        "cik": "63754",
+        "FIGI": "tts-826366"
+    },
+    {
+        "name": "Martin Marietta Materials Inc",
+        "sector": "Industry",
+        "symbol": "MLM",
+        "exchange": "NYS",
+        "id": "NYS:MLM",
+        "cik": "916076",
+        "FIGI": "tts-820603"
+    },
+    {
+        "name": "Marsh and McLennan Companies Inc",
+        "sector": "Finance",
+        "symbol": "MMC",
+        "exchange": "NYS",
+        "id": "NYS:MMC",
+        "cik": "62709",
+        "FIGI": "tts-820608"
+    },
+    {
+        "name": "Marcus and Millichap Inc",
+        "sector": "Finance",
+        "symbol": "MMI",
+        "exchange": "NYS",
+        "id": "NYS:MMI",
+        "cik": "1578732",
+        "FIGI": "tts-26844907"
+    },
+    {
+        "name": "3M Company",
+        "sector": null,
+        "symbol": "MMM",
+        "exchange": "NYS",
+        "id": "NYS:MMM",
+        "cik": "66740",
+        "FIGI": "tts-826391"
+    },
+    {
+        "name": "Mallinckrodt plc Ordinary Shares",
+        "sector": "Healthcare",
+        "symbol": "MNK",
+        "exchange": "NYS",
+        "id": "NYS:MNK",
+        "cik": null,
+        "FIGI": "tts-60662927"
+    },
+    {
+        "name": "Mallinckrodt PLC",
+        "sector": null,
+        "symbol": "MNK",
+        "exchange": "NYS",
+        "id": "NYS:MNK~1",
+        "cik": null,
+        "FIGI": "tts-23932154"
+    },
+    {
+        "name": "Altria Group Inc",
+        "sector": "Consumer Goods",
+        "symbol": "MO",
+        "exchange": "NYS",
+        "id": "NYS:MO",
+        "cik": "764180",
+        "FIGI": "tts-826399"
+    },
+    {
+        "name": "Molina Healthcare Inc",
+        "sector": "Healthcare",
+        "symbol": "MOH",
+        "exchange": "NYS",
+        "id": "NYS:MOH",
+        "cik": "1179929",
+        "FIGI": "tts-931139"
+    },
+    {
+        "name": "Mosaic Company",
+        "sector": "Commodities",
+        "symbol": "MOS",
+        "exchange": "NYS",
+        "id": "NYS:MOS",
+        "cik": "1285785",
+        "FIGI": "tts-2063060"
+    },
+    {
+        "name": "Marathon Petroleum Corporation",
+        "sector": "Energy",
+        "symbol": "MPC",
+        "exchange": "NYS",
+        "id": "NYS:MPC",
+        "cik": "1510295",
+        "FIGI": "tts-30448931"
+    },
+    {
+        "name": "Merck and Co Inc",
+        "sector": "Healthcare",
+        "symbol": "MRK",
+        "exchange": "NYS",
+        "id": "NYS:MRK",
+        "cik": "310158",
+        "FIGI": "tts-826413"
+    },
+    {
+        "name": "Marathon Oil Corp",
+        "sector": "Energy",
+        "symbol": "MRO",
+        "exchange": "NYS",
+        "id": "NYS:MRO",
+        "cik": "101778",
+        "FIGI": "tts-826414"
+    },
+    {
+        "name": "Morgan Stanley",
+        "sector": "Finance",
+        "symbol": "MS",
+        "exchange": "NYS",
+        "id": "NYS:MS",
+        "cik": "895421",
+        "FIGI": "tts-2174372"
+    },
+    {
+        "name": "MSCI Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "MSCI",
+        "exchange": "NYS",
+        "id": "NYS:MSCI",
+        "cik": "1408198",
+        "FIGI": "tts-24025054"
+    },
+    {
+        "name": "Motorola Solutions Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "MSI",
+        "exchange": "NYS",
+        "id": "NYS:MSI",
+        "cik": "68505",
+        "FIGI": "tts-26846582"
+    },
+    {
+        "name": "M&T Bank Corporation",
+        "sector": "Finance",
+        "symbol": "MTB",
+        "exchange": "NYS",
+        "id": "NYS:MTB",
+        "cik": "36270",
+        "FIGI": "tts-826421"
+    },
+    {
+        "name": "Mettler Toledo International Inc",
+        "sector": "Industry",
+        "symbol": "MTD",
+        "exchange": "NYS",
+        "id": "NYS:MTD",
+        "cik": "1037646",
+        "FIGI": "tts-826422"
+    },
+    {
+        "name": "MGIC Investment Corp",
+        "sector": "Finance",
+        "symbol": "MTG",
+        "exchange": "NYS",
+        "id": "NYS:MTG",
+        "cik": "876437",
+        "FIGI": "tts-820659"
+    },
+    {
+        "name": "Manitowoc Company, Inc. (The) Common Stock",
+        "sector": null,
+        "symbol": "MTW",
+        "exchange": "NYS",
+        "id": "NYS:MTW",
+        "cik": "61986",
+        "FIGI": "tts-820666"
+    },
+    {
+        "name": "Murphy Oil Corp",
+        "sector": "Energy",
+        "symbol": "MUR",
+        "exchange": "NYS",
+        "id": "NYS:MUR",
+        "cik": "717423",
+        "FIGI": "tts-820677"
+    },
+    {
+        "name": "Meadwestvaco Corporation",
+        "sector": "Commodities",
+        "symbol": "MWV",
+        "exchange": "NYS",
+        "id": "NYS:MWV",
+        "cik": null,
+        "FIGI": "tts-826442"
+    },
+    {
+        "name": "Monster Worldwide, Inc.",
+        "sector": "Industry",
+        "symbol": "MWW",
+        "exchange": "NYS",
+        "id": "NYS:MWW",
+        "cik": "1020416",
+        "FIGI": "tts-16189359"
+    },
+    {
+        "name": "Noble Energy Inc",
+        "sector": "Energy",
+        "symbol": "NBL",
+        "exchange": "NYS",
+        "id": "NYS:NBL",
+        "cik": null,
+        "FIGI": "tts-826505"
+    },
+    {
+        "name": "Nabors Industries Ltd.",
+        "sector": null,
+        "symbol": "NBR",
+        "exchange": "NYS",
+        "id": "NYS:NBR",
+        "cik": "1163739",
+        "FIGI": "tts-3492139"
+    },
+    {
+        "name": "Norwegian Cruise Line Holdings Ltd",
+        "sector": "Consumer Goods",
+        "symbol": "NCLH",
+        "exchange": "NYS",
+        "id": "NYS:NCLH",
+        "cik": "1513761",
+        "FIGI": "tts-132399257"
+    },
+    {
+        "name": "Noble Corporation PLC",
+        "sector": null,
+        "symbol": "NE",
+        "exchange": "NYS",
+        "id": "NYS:NE",
+        "cik": "1895262",
+        "FIGI": "tts-826554"
+    },
+    {
+        "name": "Nextera Energy Capital Holdings Inc",
+        "sector": "Energy",
+        "symbol": "NEE",
+        "exchange": "NYS",
+        "id": "NYS:NEE",
+        "cik": "753308",
+        "FIGI": "tts-23932163"
+    },
+    {
+        "name": "Newmont Corporation",
+        "sector": "Commodities",
+        "symbol": "NEM",
+        "exchange": "NYS",
+        "id": "NYS:NEM",
+        "cik": "1164727",
+        "FIGI": "tts-820732"
+    },
+    {
+        "name": "Newfield Exploration Co",
+        "sector": "Energy",
+        "symbol": "NFX",
+        "exchange": "NYS",
+        "id": "NYS:NFX",
+        "cik": null,
+        "FIGI": "tts-820743"
+    },
+    {
+        "name": "Nisource Inc",
+        "sector": "Energy",
+        "symbol": "NI",
+        "exchange": "NYS",
+        "id": "NYS:NI",
+        "cik": "1111711",
+        "FIGI": "tts-826586"
+    },
+    {
+        "name": "Nike Inc",
+        "sector": "Consumer Goods",
+        "symbol": "NKE",
+        "exchange": "NYS",
+        "id": "NYS:NKE",
+        "cik": "320187",
+        "FIGI": "tts-820762"
+    },
+    {
+        "name": "Northrop Grumman Corp Holding Co",
+        "sector": "Industry",
+        "symbol": "NOC",
+        "exchange": "NYS",
+        "id": "NYS:NOC",
+        "cik": "1133421",
+        "FIGI": "tts-826630"
+    },
+    {
+        "name": "NOV Inc",
+        "sector": null,
+        "symbol": "NOV",
+        "exchange": "NYS",
+        "id": "NYS:NOV",
+        "cik": "1021860",
+        "FIGI": "tts-2496610"
+    },
+    {
+        "name": "ServiceNow Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "NOW",
+        "exchange": "NYS",
+        "id": "NYS:NOW",
+        "cik": "1373715",
+        "FIGI": "tts-16363365"
+    },
+    {
+        "name": "NRG Energy Inc",
+        "sector": "Energy",
+        "symbol": "NRG",
+        "exchange": "NYS",
+        "id": "NYS:NRG",
+        "cik": "1013871",
+        "FIGI": "tts-1312545"
+    },
+    {
+        "name": "Norfolk Southern Corp",
+        "sector": "Industry",
+        "symbol": "NSC",
+        "exchange": "NYS",
+        "id": "NYS:NSC",
+        "cik": "702165",
+        "FIGI": "tts-828358"
+    },
+    {
+        "name": "Nucor Corporation",
+        "sector": "Commodities",
+        "symbol": "NUE",
+        "exchange": "NYS",
+        "id": "NYS:NUE",
+        "cik": "73309",
+        "FIGI": "tts-820835"
+    },
+    {
+        "name": "NVR  Inc",
+        "sector": "Consumer Goods",
+        "symbol": "NVR",
+        "exchange": "NYS",
+        "id": "NYS:NVR",
+        "cik": "906163",
+        "FIGI": "tts-12362150"
+    },
+    {
+        "name": "New York Times Co",
+        "sector": "IT/Telecommunications",
+        "symbol": "NYT",
+        "exchange": "NYS",
+        "id": "NYS:NYT",
+        "cik": "71691",
+        "FIGI": "tts-820877"
+    },
+    {
+        "name": "Realty Income Corporation",
+        "sector": "Finance",
+        "symbol": "O",
+        "exchange": "NYS",
+        "id": "NYS:O",
+        "cik": "726728",
+        "FIGI": "tts-826708"
+    },
+    {
+        "name": "Office Depot, Inc.",
+        "sector": "Consumer Goods",
+        "symbol": "ODP",
+        "exchange": "NYS",
+        "id": "NYS:ODP",
+        "cik": null,
+        "FIGI": "tts-820887"
+    },
+    {
+        "name": "Organon and Co",
+        "sector": null,
+        "symbol": "OGN",
+        "exchange": "NYS",
+        "id": "NYS:OGN",
+        "cik": "1821825",
+        "FIGI": "tts-220850568"
+    },
+    {
+        "name": "OI Glass Inc",
+        "sector": null,
+        "symbol": "OI",
+        "exchange": "NYS",
+        "id": "NYS:OI",
+        "cik": "812074",
+        "FIGI": "tts-820901"
+    },
+    {
+        "name": "ONEOK Inc",
+        "sector": "Energy",
+        "symbol": "OKE",
+        "exchange": "NYS",
+        "id": "NYS:OKE",
+        "cik": "1039684",
+        "FIGI": "tts-820904"
+    },
+    {
+        "name": "Omnicom Group Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "OMC",
+        "exchange": "NYS",
+        "id": "NYS:OMC",
+        "cik": "29989",
+        "FIGI": "tts-826733"
+    },
+    {
+        "name": "Officemax Incorporated",
+        "sector": "Consumer Goods",
+        "symbol": "OMX",
+        "exchange": "NYS",
+        "id": "NYS:OMX",
+        "cik": null,
+        "FIGI": "tts-826738"
+    },
+    {
+        "name": "Oracle Corp",
+        "sector": "IT/Telecommunications",
+        "symbol": "ORCL",
+        "exchange": "NYS",
+        "id": "NYS:ORCL",
+        "cik": "1341439",
+        "FIGI": "tts-61604636"
+    },
+    {
+        "name": "Otis Worldwide Corp",
+        "sector": null,
+        "symbol": "OTIS",
+        "exchange": "NYS",
+        "id": "NYS:OTIS",
+        "cik": "1781335",
+        "FIGI": "tts-189514260"
+    },
+    {
+        "name": "Occidental Petroleum Corporation",
+        "sector": "Energy",
+        "symbol": "OXY",
+        "exchange": "NYS",
+        "id": "NYS:OXY",
+        "cik": "797468",
+        "FIGI": "tts-826756"
+    },
+    {
+        "name": "Paycom Software Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "PAYC",
+        "exchange": "NYS",
+        "id": "NYS:PAYC",
+        "cik": "1590955",
+        "FIGI": "tts-71838504"
+    },
+    {
+        "name": "Pitney Bowes Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "PBI",
+        "exchange": "NYS",
+        "id": "NYS:PBI",
+        "cik": "78814",
+        "FIGI": "tts-820938"
+    },
+    {
+        "name": "PG&E Corporation",
+        "sector": "Energy",
+        "symbol": "PCG",
+        "exchange": "NYS",
+        "id": "NYS:PCG",
+        "cik": "1004980",
+        "FIGI": "tts-820952"
+    },
+    {
+        "name": "Plum Creek Timber Company, Inc.",
+        "sector": "Finance",
+        "symbol": "PCL",
+        "exchange": "NYS",
+        "id": "NYS:PCL",
+        "cik": null,
+        "FIGI": "tts-826769"
+    },
+    {
+        "name": "PGIM Corporate Bond 10+ Year ETF",
+        "sector": null,
+        "symbol": "PCL",
+        "exchange": "NYS",
+        "id": "NYS:PCL~1",
+        "cik": null,
+        "FIGI": "tts-363799474"
+    },
+    {
+        "name": "Precision Castparts Corporation",
+        "sector": "Industry",
+        "symbol": "PCP",
+        "exchange": "NYS",
+        "id": "NYS:PCP",
+        "cik": null,
+        "FIGI": "tts-826774"
+    },
+    {
+        "name": "PagerDuty, Inc. Common Stock",
+        "sector": null,
+        "symbol": "PD",
+        "exchange": "NYS",
+        "id": "NYS:PD",
+        "cik": "1568100",
+        "FIGI": "tts-162479082"
+    },
+    {
+        "name": "Public Service Enterprise Group Inc",
+        "sector": "Energy",
+        "symbol": "PEG",
+        "exchange": "NYS",
+        "id": "NYS:PEG",
+        "cik": "788784",
+        "FIGI": "tts-820977"
+    },
+    {
+        "name": "Pfizer  Inc",
+        "sector": "Healthcare",
+        "symbol": "PFE",
+        "exchange": "NYS",
+        "id": "NYS:PFE",
+        "cik": "78003",
+        "FIGI": "tts-820986"
+    },
+    {
+        "name": "Procter and Gamble Co",
+        "sector": "Consumer Goods",
+        "symbol": "PG",
+        "exchange": "NYS",
+        "id": "NYS:PG",
+        "cik": "80424",
+        "FIGI": "tts-826840"
+    },
+    {
+        "name": "Progressive Corporation",
+        "sector": "Finance",
+        "symbol": "PGR",
+        "exchange": "NYS",
+        "id": "NYS:PGR",
+        "cik": "80661",
+        "FIGI": "tts-826847"
+    },
+    {
+        "name": "Parker Hannifin Corp",
+        "sector": "Industry",
+        "symbol": "PH",
+        "exchange": "NYS",
+        "id": "NYS:PH",
+        "cik": "76334",
+        "FIGI": "tts-826848"
+    },
+    {
+        "name": "PulteGroup Inc",
+        "sector": "Consumer Goods",
+        "symbol": "PHM",
+        "exchange": "NYS",
+        "id": "NYS:PHM",
+        "cik": "822416",
+        "FIGI": "tts-826853"
+    },
+    {
+        "name": "Packaging Corp",
+        "sector": "Industry",
+        "symbol": "PKG",
+        "exchange": "NYS",
+        "id": "NYS:PKG",
+        "cik": "75677",
+        "FIGI": "tts-826879"
+    },
+    {
+        "name": "Prologis",
+        "sector": "Finance",
+        "symbol": "PLD",
+        "exchange": "NYS",
+        "id": "NYS:PLD",
+        "cik": "1045609",
+        "FIGI": "tts-824013"
+    },
+    {
+        "name": "Pall Corporation",
+        "sector": "Industry",
+        "symbol": "PLL",
+        "exchange": "NYS",
+        "id": "NYS:PLL",
+        "cik": null,
+        "FIGI": "tts-821053"
+    },
+    {
+        "name": "Philip Morris International Inc",
+        "sector": "Consumer Goods",
+        "symbol": "PM",
+        "exchange": "NYS",
+        "id": "NYS:PM",
+        "cik": "1413329",
+        "FIGI": "tts-13350159"
+    },
+    {
+        "name": "PNC Financial Services Group Inc",
+        "sector": "Finance",
+        "symbol": "PNC",
+        "exchange": "NYS",
+        "id": "NYS:PNC",
+        "cik": "713676",
+        "FIGI": "tts-821066"
+    },
+    {
+        "name": "Pentair Inc",
+        "sector": "Industry",
+        "symbol": "PNR",
+        "exchange": "NYS",
+        "id": "NYS:PNR",
+        "cik": "77360",
+        "FIGI": "tts-826918"
+    },
+    {
+        "name": "Pinnacle West Capital Corp",
+        "sector": "Energy",
+        "symbol": "PNW",
+        "exchange": "NYS",
+        "id": "NYS:PNW",
+        "cik": "764622",
+        "FIGI": "tts-826919"
+    },
+    {
+        "name": "PEPCO Holdings, Inc",
+        "sector": "Energy",
+        "symbol": "POM",
+        "exchange": "NYS",
+        "id": "NYS:POM",
+        "cik": null,
+        "FIGI": "tts-826926"
+    },
+    {
+        "name": "PPG Industries Inc",
+        "sector": "Commodities",
+        "symbol": "PPG",
+        "exchange": "NYS",
+        "id": "NYS:PPG",
+        "cik": "79879",
+        "FIGI": "tts-826933"
+    },
+    {
+        "name": "PPL Corporation",
+        "sector": "Energy",
+        "symbol": "PPL",
+        "exchange": "NYS",
+        "id": "NYS:PPL",
+        "cik": "922224",
+        "FIGI": "tts-821103"
+    },
+    {
+        "name": "Perrigo Company Plc Ireland",
+        "sector": "Healthcare",
+        "symbol": "PRGO",
+        "exchange": "NYS",
+        "id": "NYS:PRGO",
+        "cik": "1585364",
+        "FIGI": "tts-60267672"
+    },
+    {
+        "name": "Prudential Financial Inc",
+        "sector": "Finance",
+        "symbol": "PRU",
+        "exchange": "NYS",
+        "id": "NYS:PRU",
+        "cik": "1137774",
+        "FIGI": "tts-826956"
+    },
+    {
+        "name": "Public Storage",
+        "sector": "Finance",
+        "symbol": "PSA",
+        "exchange": "NYS",
+        "id": "NYS:PSA",
+        "cik": "1393311",
+        "FIGI": "tts-821124"
+    },
+    {
+        "name": "Phillips 66",
+        "sector": "Energy",
+        "symbol": "PSX",
+        "exchange": "NYS",
+        "id": "NYS:PSX",
+        "cik": "1534701",
+        "FIGI": "tts-42406141"
+    },
+    {
+        "name": "PVH Corp",
+        "sector": "Consumer Goods",
+        "symbol": "PVH",
+        "exchange": "NYS",
+        "id": "NYS:PVH",
+        "cik": "78239",
+        "FIGI": "tts-821155"
+    },
+    {
+        "name": "Quanta Services Inc",
+        "sector": "Industry",
+        "symbol": "PWR",
+        "exchange": "NYS",
+        "id": "NYS:PWR",
+        "cik": "1050915",
+        "FIGI": "tts-826992"
+    },
+    {
+        "name": "P10, Inc. Class A Common Stock",
+        "sector": null,
+        "symbol": "PX",
+        "exchange": "NYS",
+        "id": "NYS:PX",
+        "cik": "1841968",
+        "FIGI": "tts-821160"
+    },
+    {
+        "name": "Qnity Electronics Inc",
+        "sector": null,
+        "symbol": "Q",
+        "exchange": "NYS",
+        "id": "NYS:Q",
+        "cik": "2058873",
+        "FIGI": "tts-376025814"
+    },
+    {
+        "name": "QEP Resources Inc",
+        "sector": "Energy",
+        "symbol": "QEP",
+        "exchange": "NYS",
+        "id": "NYS:QEP",
+        "cik": null,
+        "FIGI": "tts-24023730"
+    },
+    {
+        "name": "Ryder System Inc",
+        "sector": "Industry",
+        "symbol": "R",
+        "exchange": "NYS",
+        "id": "NYS:R",
+        "cik": "85961",
+        "FIGI": "tts-827000"
+    },
+    {
+        "name": "Reynolds American Inc",
+        "sector": "Consumer Goods",
+        "symbol": "RAI",
+        "exchange": "NYS",
+        "id": "NYS:RAI",
+        "cik": null,
+        "FIGI": "tts-1925813"
+    },
+    {
+        "name": "Royal Caribbean Group",
+        "sector": "Consumer Goods",
+        "symbol": "RCL",
+        "exchange": "NYS",
+        "id": "NYS:RCL",
+        "cik": "884887",
+        "FIGI": "tts-827019"
+    },
+    {
+        "name": "Rowan Companies PLC",
+        "sector": "Energy",
+        "symbol": "RDC",
+        "exchange": "NYS",
+        "id": "NYS:RDC",
+        "cik": null,
+        "FIGI": "tts-827022"
+    },
+    {
+        "name": "Regions Financial Corporation",
+        "sector": "Finance",
+        "symbol": "RF",
+        "exchange": "NYS",
+        "id": "NYS:RF",
+        "cik": "1281761",
+        "FIGI": "tts-821214"
+    },
+    {
+        "name": "Robert Half Inc",
+        "sector": "Industry",
+        "symbol": "RHI",
+        "exchange": "NYS",
+        "id": "NYS:RHI",
+        "cik": "315213",
+        "FIGI": "tts-827051"
+    },
+    {
+        "name": "Red Hat Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "RHT",
+        "exchange": "NYS",
+        "id": "NYS:RHT",
+        "cik": "1087423",
+        "FIGI": "tts-821236"
+    },
+    {
+        "name": "Transocean Ltd (Switzerland) Common Stock",
+        "sector": "Energy",
+        "symbol": "RIG",
+        "exchange": "NYS",
+        "id": "NYS:RIG",
+        "cik": "1451505",
+        "FIGI": "tts-827052"
+    },
+    {
+        "name": "Raymond James Financial Inc",
+        "sector": "Finance",
+        "symbol": "RJF",
+        "exchange": "NYS",
+        "id": "NYS:RJF",
+        "cik": "720005",
+        "FIGI": "tts-821244"
+    },
+    {
+        "name": "Ralph Lauren Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "RL",
+        "exchange": "NYS",
+        "id": "NYS:RL",
+        "cik": "1037038",
+        "FIGI": "tts-827065"
+    },
+    {
+        "name": "ResMed Inc",
+        "sector": "Healthcare",
+        "symbol": "RMD",
+        "exchange": "NYS",
+        "id": "NYS:RMD",
+        "cik": "943819",
+        "FIGI": "tts-821247"
+    },
+    {
+        "name": "Rockwell Automation Inc",
+        "sector": "Industry",
+        "symbol": "ROK",
+        "exchange": "NYS",
+        "id": "NYS:ROK",
+        "cik": "1024478",
+        "FIGI": "tts-821260"
+    },
+    {
+        "name": "Rollins Inc",
+        "sector": "Industry",
+        "symbol": "ROL",
+        "exchange": "NYS",
+        "id": "NYS:ROL",
+        "cik": "84839",
+        "FIGI": "tts-821263"
+    },
+    {
+        "name": "Range Resources Corp",
+        "sector": "Energy",
+        "symbol": "RRC",
+        "exchange": "NYS",
+        "id": "NYS:RRC",
+        "cik": "315852",
+        "FIGI": "tts-827085"
+    },
+    {
+        "name": "R.R.Donnelley & Sons Co",
+        "sector": null,
+        "symbol": "RRD",
+        "exchange": "NYS",
+        "id": "NYS:RRD",
+        "cik": null,
+        "FIGI": "tts-109195048"
+    },
+    {
+        "name": "Republic Services Inc",
+        "sector": "Utilities",
+        "symbol": "RSG",
+        "exchange": "NYS",
+        "id": "NYS:RSG",
+        "cik": "1060391",
+        "FIGI": "tts-821288"
+    },
+    {
+        "name": "Raytheon Co",
+        "sector": "Industry",
+        "symbol": "RTN",
+        "exchange": "NYS",
+        "id": "NYS:RTN",
+        "cik": null,
+        "FIGI": "tts-827094"
+    },
+    {
+        "name": "RTX Corporation",
+        "sector": null,
+        "symbol": "RTX",
+        "exchange": "NYS",
+        "id": "NYS:RTX",
+        "cik": "101829",
+        "FIGI": "tts-189494244"
+    },
+    {
+        "name": "Revvity Inc",
+        "sector": "Industry",
+        "symbol": "RVTY",
+        "exchange": "NYS",
+        "id": "NYS:RVTY",
+        "cik": "31791",
+        "FIGI": "tts-279859920"
+    },
+    {
+        "name": "SentinelOne, Inc. Class A Common Stock",
+        "sector": null,
+        "symbol": "S",
+        "exchange": "NYS",
+        "id": "NYS:S",
+        "cik": "1583708",
+        "FIGI": "tts-827106"
+    },
+    {
+        "name": "SCANA Corp",
+        "sector": "Energy",
+        "symbol": "SCG",
+        "exchange": "NYS",
+        "id": "NYS:SCG",
+        "cik": null,
+        "FIGI": "tts-821334"
+    },
+    {
+        "name": "Charles Schwab Corporation",
+        "sector": "Finance",
+        "symbol": "SCHW",
+        "exchange": "NYS",
+        "id": "NYS:SCHW",
+        "cik": "316709",
+        "FIGI": "tts-22004199"
+    },
+    {
+        "name": "Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",
+        "sector": null,
+        "symbol": "SE",
+        "exchange": "NYS",
+        "id": "NYS:SE",
+        "cik": "1703399",
+        "FIGI": "tts-821348"
+    },
+    {
+        "name": "Sealed Air Corporation",
+        "sector": "Industry",
+        "symbol": "SEE",
+        "exchange": "NYS",
+        "id": "NYS:SEE",
+        "cik": "1012100",
+        "FIGI": "tts-827138"
+    },
+    {
+        "name": "Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",
+        "sector": "Energy",
+        "symbol": "SE",
+        "exchange": "NYS",
+        "id": "NYS:SE~1",
+        "cik": null,
+        "FIGI": "tts-129844425"
+    },
+    {
+        "name": "Sherwin Williams",
+        "sector": "Commodities",
+        "symbol": "SHW",
+        "exchange": "NYS",
+        "id": "NYS:SHW",
+        "cik": "89800",
+        "FIGI": "tts-821387"
+    },
+    {
+        "name": "Signet Jewelers Ltd",
+        "sector": "Consumer Goods",
+        "symbol": "SIG",
+        "exchange": "NYS",
+        "id": "NYS:SIG",
+        "cik": "832988",
+        "FIGI": "tts-2096004"
+    },
+    {
+        "name": "Sprott Inc. Common Shares",
+        "sector": null,
+        "symbol": "SII",
+        "exchange": "NYS",
+        "id": "NYS:SII",
+        "cik": "1512920",
+        "FIGI": "tts-197048394"
+    },
+    {
+        "name": "JM Smucker Company",
+        "sector": "Consumer Goods",
+        "symbol": "SJM",
+        "exchange": "NYS",
+        "id": "NYS:SJM",
+        "cik": "91419",
+        "FIGI": "tts-821396"
+    },
+    {
+        "name": "SLB Limited",
+        "sector": "Energy",
+        "symbol": "SLB",
+        "exchange": "NYS",
+        "id": "NYS:SLB",
+        "cik": "87347",
+        "FIGI": "tts-827189"
+    },
+    {
+        "name": "SL Green Realty Corporation",
+        "sector": null,
+        "symbol": "SLG",
+        "exchange": "NYS",
+        "id": "NYS:SLG",
+        "cik": "1040971",
+        "FIGI": "tts-821417"
+    },
+    {
+        "name": "Snap on Inc",
+        "sector": "Industry",
+        "symbol": "SNA",
+        "exchange": "NYS",
+        "id": "NYS:SNA",
+        "cik": "91440",
+        "FIGI": "tts-821428"
+    },
+    {
+        "name": "Synovus Financial Corporation",
+        "sector": null,
+        "symbol": "SNV",
+        "exchange": "NYS",
+        "id": "NYS:SNV",
+        "cik": "18349",
+        "FIGI": "tts-827220"
+    },
+    {
+        "name": "Southern Co",
+        "sector": "Energy",
+        "symbol": "SO",
+        "exchange": "NYS",
+        "id": "NYS:SO",
+        "cik": "92122",
+        "FIGI": "tts-821436"
+    },
+    {
+        "name": "Solventum Corporation",
+        "sector": null,
+        "symbol": "SOLV",
+        "exchange": "NYS",
+        "id": "NYS:SOLV",
+        "cik": "1964738",
+        "FIGI": "tts-307396029"
+    },
+    {
+        "name": "Simon Property Group Inc",
+        "sector": "Finance",
+        "symbol": "SPG",
+        "exchange": "NYS",
+        "id": "NYS:SPG",
+        "cik": "1063761",
+        "FIGI": "tts-827241"
+    },
+    {
+        "name": "S&P Global Inc",
+        "sector": null,
+        "symbol": "SPGI",
+        "exchange": "NYS",
+        "id": "NYS:SPGI",
+        "cik": "64040",
+        "FIGI": "tts-104497775"
+    },
+    {
+        "name": "Sempra",
+        "sector": "Energy",
+        "symbol": "SRE",
+        "exchange": "NYS",
+        "id": "NYS:SRE",
+        "cik": "1032208",
+        "FIGI": "tts-827261"
+    },
+    {
+        "name": "STERIS plc",
+        "sector": null,
+        "symbol": "STE",
+        "exchange": "NYS",
+        "id": "NYS:STE",
+        "cik": "1757898",
+        "FIGI": "tts-821491"
+    },
+    {
+        "name": "SunTrust Banks Inc",
+        "sector": "Finance",
+        "symbol": "STI",
+        "exchange": "NYS",
+        "id": "NYS:STI",
+        "cik": null,
+        "FIGI": "tts-821495"
+    },
+    {
+        "name": "St. Jude Medical, Inc.",
+        "sector": "Healthcare",
+        "symbol": "STJ",
+        "exchange": "NYS",
+        "id": "NYS:STJ",
+        "cik": null,
+        "FIGI": "tts-827276"
+    },
+    {
+        "name": "Questar Corporation",
+        "sector": "Energy",
+        "symbol": "STR",
+        "exchange": "NYS",
+        "id": "NYS:STR",
+        "cik": null,
+        "FIGI": "tts-827287"
+    },
+    {
+        "name": "Sitio Royalties Corporation",
+        "sector": null,
+        "symbol": "STR",
+        "exchange": "NYS",
+        "id": "NYS:STR~1",
+        "cik": null,
+        "FIGI": "tts-250664059"
+    },
+    {
+        "name": "State Street Corporation",
+        "sector": "Finance",
+        "symbol": "STT",
+        "exchange": "NYS",
+        "id": "NYS:STT",
+        "cik": "93751",
+        "FIGI": "tts-821499"
+    },
+    {
+        "name": "Constellation Brands Inc",
+        "sector": "Consumer Goods",
+        "symbol": "STZ",
+        "exchange": "NYS",
+        "id": "NYS:STZ",
+        "cik": "16918",
+        "FIGI": "tts-827294"
+    },
+    {
+        "name": "Sunoco LP Common Units representing limited partner interests",
+        "sector": null,
+        "symbol": "SUN",
+        "exchange": "NYS",
+        "id": "NYS:SUN",
+        "cik": "1552275",
+        "FIGI": "tts-827302"
+    },
+    {
+        "name": "SunEdison, Inc.",
+        "sector": "IT/Telecommunications",
+        "symbol": "SUNE",
+        "exchange": "NYS",
+        "id": "NYS:SUNE",
+        "cik": null,
+        "FIGI": "tts-60184825"
+    },
+    {
+        "name": "SUPERVALU Inc",
+        "sector": null,
+        "symbol": "SVU",
+        "exchange": "NYS",
+        "id": "NYS:SVU",
+        "cik": null,
+        "FIGI": "tts-821508"
+    },
+    {
+        "name": "Smurfit WestRock plc",
+        "sector": null,
+        "symbol": "SW",
+        "exchange": "NYS",
+        "id": "NYS:SW",
+        "cik": "2005951",
+        "FIGI": "tts-316163098"
+    },
+    {
+        "name": "Stanley Black and Decker Inc",
+        "sector": "Industry",
+        "symbol": "SWK",
+        "exchange": "NYS",
+        "id": "NYS:SWK",
+        "cik": "93556",
+        "FIGI": "tts-827310"
+    },
+    {
+        "name": "Southwestern Energy",
+        "sector": "Energy",
+        "symbol": "SWN",
+        "exchange": "NYS",
+        "id": "NYS:SWN",
+        "cik": "7332",
+        "FIGI": "tts-821512"
+    },
+    {
+        "name": "Safeway Inc.",
+        "sector": "Consumer Goods",
+        "symbol": "SWY",
+        "exchange": "NYS",
+        "id": "NYS:SWY",
+        "cik": null,
+        "FIGI": "tts-827318"
+    },
+    {
+        "name": "Synchrony Financiall",
+        "sector": "Finance",
+        "symbol": "SYF",
+        "exchange": "NYS",
+        "id": "NYS:SYF",
+        "cik": "1601712",
+        "FIGI": "tts-74936266"
+    },
+    {
+        "name": "Stryker Corp",
+        "sector": "Healthcare",
+        "symbol": "SYK",
+        "exchange": "NYS",
+        "id": "NYS:SYK",
+        "cik": "310764",
+        "FIGI": "tts-821521"
+    },
+    {
+        "name": "Sysco Corp",
+        "sector": "Consumer Goods",
+        "symbol": "SYY",
+        "exchange": "NYS",
+        "id": "NYS:SYY",
+        "cik": "96021",
+        "FIGI": "tts-827333"
+    },
+    {
+        "name": "AT&T Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "T",
+        "exchange": "NYS",
+        "id": "NYS:T",
+        "cik": "732717",
+        "FIGI": "tts-821527"
+    },
+    {
+        "name": "Molson Coors Beverage Company",
+        "sector": "Consumer Goods",
+        "symbol": "TAP",
+        "exchange": "NYS",
+        "id": "NYS:TAP",
+        "cik": "24545",
+        "FIGI": "tts-2288768"
+    },
+    {
+        "name": "Teradata Corporation",
+        "sector": "IT/Telecommunications",
+        "symbol": "TDC",
+        "exchange": "NYS",
+        "id": "NYS:TDC",
+        "cik": "816761",
+        "FIGI": "tts-11568032"
+    },
+    {
+        "name": "Transdigm Group Incorporated",
+        "sector": "Industry",
+        "symbol": "TDG",
+        "exchange": "NYS",
+        "id": "NYS:TDG",
+        "cik": "1260221",
+        "FIGI": "tts-4011480"
+    },
+    {
+        "name": "Teledyne Technologies Inc",
+        "sector": "Industry",
+        "symbol": "TDY",
+        "exchange": "NYS",
+        "id": "NYS:TDY",
+        "cik": "1094285",
+        "FIGI": "tts-827362"
+    },
+    {
+        "name": "TECO Energy, Inc.",
+        "sector": "Energy",
+        "symbol": "TE",
+        "exchange": "NYS",
+        "id": "NYS:TE",
+        "cik": null,
+        "FIGI": "tts-821556"
+    },
+    {
+        "name": "Integrys Energy Group Inc",
+        "sector": "Energy",
+        "symbol": "TEG",
+        "exchange": "NYS",
+        "id": "NYS:TEG",
+        "cik": null,
+        "FIGI": "tts-6470440"
+    },
+    {
+        "name": "TE Connectivity plc",
+        "sector": null,
+        "symbol": "TEL",
+        "exchange": "NYS",
+        "id": "NYS:TEL",
+        "cik": "1385157",
+        "FIGI": "tts-10976627"
+    },
+    {
+        "name": "Terex Corp",
+        "sector": "Industry",
+        "symbol": "TEX",
+        "exchange": "NYS",
+        "id": "NYS:TEX",
+        "cik": "97216",
+        "FIGI": "tts-828501"
+    },
+    {
+        "name": "T1 Energy Inc. Common Stock",
+        "sector": null,
+        "symbol": "TE",
+        "exchange": "NYS",
+        "id": "NYS:TE~1",
+        "cik": "1992243",
+        "FIGI": "tts-343786342"
+    },
+    {
+        "name": "Truist Financial Corporation",
+        "sector": null,
+        "symbol": "TFC",
+        "exchange": "NYS",
+        "id": "NYS:TFC",
+        "cik": "92230",
+        "FIGI": "tts-179890919"
+    },
+    {
+        "name": "Teleflex Inc",
+        "sector": "Healthcare",
+        "symbol": "TFX",
+        "exchange": "NYS",
+        "id": "NYS:TFX",
+        "cik": "96943",
+        "FIGI": "tts-827371"
+    },
+    {
+        "name": "TEGNA Inc",
+        "sector": null,
+        "symbol": "TGNA",
+        "exchange": "NYS",
+        "id": "NYS:TGNA",
+        "cik": "39899",
+        "FIGI": "tts-89712746"
+    },
+    {
+        "name": "Target Corp",
+        "sector": "Consumer Goods",
+        "symbol": "TGT",
+        "exchange": "NYS",
+        "id": "NYS:TGT",
+        "cik": "27419",
+        "FIGI": "tts-821580"
+    },
+    {
+        "name": "Tenet Healthcare Corporation New",
+        "sector": "Healthcare",
+        "symbol": "THC",
+        "exchange": "NYS",
+        "id": "NYS:THC",
+        "cik": "70318",
+        "FIGI": "tts-827379"
+    },
+    {
+        "name": "Titanium Metals Corporation",
+        "sector": null,
+        "symbol": "TIE",
+        "exchange": "NYS",
+        "id": "NYS:TIE",
+        "cik": null,
+        "FIGI": "tts-827386"
+    },
+    {
+        "name": "Tiffany & Co",
+        "sector": "Consumer Goods",
+        "symbol": "TIF",
+        "exchange": "NYS",
+        "id": "NYS:TIF",
+        "cik": null,
+        "FIGI": "tts-821587"
+    },
+    {
+        "name": "TEMPLE INLAND INC",
+        "sector": null,
+        "symbol": "TIN",
+        "exchange": "NYS",
+        "id": "NYS:TIN",
+        "cik": null,
+        "FIGI": "tts-821591"
+    },
+    {
+        "name": "TJX Companies Inc",
+        "sector": "Consumer Goods",
+        "symbol": "TJX",
+        "exchange": "NYS",
+        "id": "NYS:TJX",
+        "cik": "109198",
+        "FIGI": "tts-827389"
+    },
+    {
+        "name": "TKO Group Holdings Inc",
+        "sector": null,
+        "symbol": "TKO",
+        "exchange": "NYS",
+        "id": "NYS:TKO",
+        "cik": "1973266",
+        "FIGI": "tts-289567307"
+    },
+    {
+        "name": "Thermo Fisher Scientific Inc",
+        "sector": "Industry",
+        "symbol": "TMO",
+        "exchange": "NYS",
+        "id": "NYS:TMO",
+        "cik": "97745",
+        "FIGI": "tts-827410"
+    },
+    {
+        "name": "Texas Pacific Land Corporation",
+        "sector": null,
+        "symbol": "TPL",
+        "exchange": "NYS",
+        "id": "NYS:TPL",
+        "cik": "1811074",
+        "FIGI": "tts-827432"
+    },
+    {
+        "name": "Tapestry Inc",
+        "sector": null,
+        "symbol": "TPR",
+        "exchange": "NYS",
+        "id": "NYS:TPR",
+        "cik": "1116132",
+        "FIGI": "tts-129970223"
+    },
+    {
+        "name": "Targa Resources Corporation",
+        "sector": "Energy",
+        "symbol": "TRGP",
+        "exchange": "NYS",
+        "id": "NYS:TRGP",
+        "cik": "1389170",
+        "FIGI": "tts-26549366"
+    },
+    {
+        "name": "The Travelers Companies Inc",
+        "sector": "Finance",
+        "symbol": "TRV",
+        "exchange": "NYS",
+        "id": "NYS:TRV",
+        "cik": "86312",
+        "FIGI": "tts-6642815"
+    },
+    {
+        "name": "Tyson Foods",
+        "sector": "Consumer Goods",
+        "symbol": "TSN",
+        "exchange": "NYS",
+        "id": "NYS:TSN",
+        "cik": "100493",
+        "FIGI": "tts-821674"
+    },
+    {
+        "name": "Total System Services Inc",
+        "sector": "Finance",
+        "symbol": "TSS",
+        "exchange": "NYS",
+        "id": "NYS:TSS",
+        "cik": null,
+        "FIGI": "tts-821678"
+    },
+    {
+        "name": "Trane Technologies plc",
+        "sector": null,
+        "symbol": "TT",
+        "exchange": "NYS",
+        "id": "NYS:TT",
+        "cik": "1466258",
+        "FIGI": "tts-185581020"
+    },
+    {
+        "name": "Time Warner Cable Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "TWC",
+        "exchange": "NYS",
+        "id": "NYS:TWC",
+        "cik": null,
+        "FIGI": "tts-6653657"
+    },
+    {
+        "name": "Time Warner Inc. New",
+        "sector": "IT/Telecommunications",
+        "symbol": "TWX",
+        "exchange": "NYS",
+        "id": "NYS:TWX",
+        "cik": null,
+        "FIGI": "tts-1030588"
+    },
+    {
+        "name": "Textron  Inc",
+        "sector": "Industry",
+        "symbol": "TXT",
+        "exchange": "NYS",
+        "id": "NYS:TXT",
+        "cik": "217346",
+        "FIGI": "tts-827482"
+    },
+    {
+        "name": "Tyler Technologies Corp",
+        "sector": "IT/Telecommunications",
+        "symbol": "TYL",
+        "exchange": "NYS",
+        "id": "NYS:TYL",
+        "cik": "860731",
+        "FIGI": "tts-821727"
+    },
+    {
+        "name": "Under Armour Inc",
+        "sector": null,
+        "symbol": "UA",
+        "exchange": "NYS",
+        "id": "NYS:UA",
+        "cik": "1336917",
+        "FIGI": "tts-5404352"
+    },
+    {
+        "name": "Under Armour Inc",
+        "sector": "Consumer Goods",
+        "symbol": "UAA",
+        "exchange": "NYS",
+        "id": "NYS:UAA",
+        "cik": "1336917",
+        "FIGI": "tts-114884407"
+    },
+    {
+        "name": "Uber Technologies Inc",
+        "sector": null,
+        "symbol": "UBER",
+        "exchange": "NYS",
+        "id": "NYS:UBER",
+        "cik": "1543151",
+        "FIGI": "tts-164468639"
+    },
+    {
+        "name": "UDR Inc",
+        "sector": "Finance",
+        "symbol": "UDR",
+        "exchange": "NYS",
+        "id": "NYS:UDR",
+        "cik": "74208",
+        "FIGI": "tts-827518"
+    },
+    {
+        "name": "Universal Health Services",
+        "sector": "Healthcare",
+        "symbol": "UHS",
+        "exchange": "NYS",
+        "id": "NYS:UHS",
+        "cik": "352915",
+        "FIGI": "tts-821755"
+    },
+    {
+        "name": "Unisys Corporation New Common Stock",
+        "sector": "IT/Telecommunications",
+        "symbol": "UIS",
+        "exchange": "NYS",
+        "id": "NYS:UIS",
+        "cik": "746838",
+        "FIGI": "tts-827530"
+    },
+    {
+        "name": "UnitedHealth Group Inc",
+        "sector": "Healthcare",
+        "symbol": "UNH",
+        "exchange": "NYS",
+        "id": "NYS:UNH",
+        "cik": "731766",
+        "FIGI": "tts-827537"
+    },
+    {
+        "name": "Unum Group",
+        "sector": "Finance",
+        "symbol": "UNM",
+        "exchange": "NYS",
+        "id": "NYS:UNM",
+        "cik": "5513",
+        "FIGI": "tts-827538"
+    },
+    {
+        "name": "Union Pacific Corp",
+        "sector": "Industry",
+        "symbol": "UNP",
+        "exchange": "NYS",
+        "id": "NYS:UNP",
+        "cik": "100885",
+        "FIGI": "tts-827542"
+    },
+    {
+        "name": "United Parcel Service",
+        "sector": "Industry",
+        "symbol": "UPS",
+        "exchange": "NYS",
+        "id": "NYS:UPS",
+        "cik": "1090727",
+        "FIGI": "tts-827545"
+    },
+    {
+        "name": "United Rentals",
+        "sector": "Industry",
+        "symbol": "URI",
+        "exchange": "NYS",
+        "id": "NYS:URI",
+        "cik": "1067701",
+        "FIGI": "tts-821785"
+    },
+    {
+        "name": "US Bancorp",
+        "sector": "Finance",
+        "symbol": "USB",
+        "exchange": "NYS",
+        "id": "NYS:USB",
+        "cik": "36104",
+        "FIGI": "tts-827549"
+    },
+    {
+        "name": "Visa Inc",
+        "sector": "Finance",
+        "symbol": "V",
+        "exchange": "NYS",
+        "id": "NYS:V",
+        "cik": "1403161",
+        "FIGI": "tts-827564"
+    },
+    {
+        "name": "VF Corporation",
+        "sector": "Consumer Goods",
+        "symbol": "VFC",
+        "exchange": "NYS",
+        "id": "NYS:VFC",
+        "cik": "103379",
+        "FIGI": "tts-821822"
+    },
+    {
+        "name": "Vici Properties Inc",
+        "sector": null,
+        "symbol": "VICI",
+        "exchange": "NYS",
+        "id": "NYS:VICI",
+        "cik": "1705696",
+        "FIGI": "tts-134577655"
+    },
+    {
+        "name": "Valero Energy Corporation",
+        "sector": "Energy",
+        "symbol": "VLO",
+        "exchange": "NYS",
+        "id": "NYS:VLO",
+        "cik": "1035002",
+        "FIGI": "tts-821840"
+    },
+    {
+        "name": "Veralto Corporation",
+        "sector": null,
+        "symbol": "VLTO",
+        "exchange": "NYS",
+        "id": "NYS:VLTO",
+        "cik": "1967680",
+        "FIGI": "tts-291258264"
+    },
+    {
+        "name": "Vulcan Materials",
+        "sector": "Industry",
+        "symbol": "VMC",
+        "exchange": "NYS",
+        "id": "NYS:VMC",
+        "cik": "1396009",
+        "FIGI": "tts-821842"
+    },
+    {
+        "name": "Vornado Realty Trust",
+        "sector": "Finance",
+        "symbol": "VNO",
+        "exchange": "NYS",
+        "id": "NYS:VNO",
+        "cik": "899689",
+        "FIGI": "tts-827602"
+    },
+    {
+        "name": "Vontier Corporation",
+        "sector": null,
+        "symbol": "VNT",
+        "exchange": "NYS",
+        "id": "NYS:VNT",
+        "cik": "1786842",
+        "FIGI": "tts-204177210"
+    },
+    {
+        "name": "Vistra Corp",
+        "sector": null,
+        "symbol": "VST",
+        "exchange": "NYS",
+        "id": "NYS:VST",
+        "cik": "1692819",
+        "FIGI": "tts-121888734"
+    },
+    {
+        "name": "Ventas Inc",
+        "sector": "Finance",
+        "symbol": "VTR",
+        "exchange": "NYS",
+        "id": "NYS:VTR",
+        "cik": "740260",
+        "FIGI": "tts-821867"
+    },
+    {
+        "name": "Verizon Communications Inc",
+        "sector": "IT/Telecommunications",
+        "symbol": "VZ",
+        "exchange": "NYS",
+        "id": "NYS:VZ",
+        "cik": "732712",
+        "FIGI": "tts-821874"
+    },
+    {
+        "name": "Wabtec Corp",
+        "sector": "Industry",
+        "symbol": "WAB",
+        "exchange": "NYS",
+        "id": "NYS:WAB",
+        "cik": "943452",
+        "FIGI": "tts-827621"
+    },
+    {
+        "name": "Waters Corp",
+        "sector": "Industry",
+        "symbol": "WAT",
+        "exchange": "NYS",
+        "id": "NYS:WAT",
+        "cik": "1000697",
+        "FIGI": "tts-821879"
+    },
+    {
+        "name": "WellCare Health Plans Inc",
+        "sector": "Healthcare",
+        "symbol": "WCG",
+        "exchange": "NYS",
+        "id": "NYS:WCG",
+        "cik": null,
+        "FIGI": "tts-1847428"
+    },
+    {
+        "name": "WEC Energy Group Inc",
+        "sector": null,
+        "symbol": "WEC",
+        "exchange": "NYS",
+        "id": "NYS:WEC",
+        "cik": "783325",
+        "FIGI": "tts-827634"
+    },
+    {
+        "name": "Welltower OP Inc",
+        "sector": null,
+        "symbol": "WELL",
+        "exchange": "NYS",
+        "id": "NYS:WELL",
+        "cik": "766704",
+        "FIGI": "tts-136334331"
+    },
+    {
+        "name": "Wells Fargo and Company",
+        "sector": "Finance",
+        "symbol": "WFC",
+        "exchange": "NYS",
+        "id": "NYS:WFC",
+        "cik": "72971",
+        "FIGI": "tts-821909"
+    },
+    {
+        "name": "Whirlpool Corp",
+        "sector": "Consumer Goods",
+        "symbol": "WHR",
+        "exchange": "NYS",
+        "id": "NYS:WHR",
+        "cik": "106640",
+        "FIGI": "tts-821924"
+    },
+    {
+        "name": "Waste Management",
+        "sector": "Utilities",
+        "symbol": "WM",
+        "exchange": "NYS",
+        "id": "NYS:WM",
+        "cik": "823768",
+        "FIGI": "tts-827658"
+    },
+    {
+        "name": "Williams Companies Inc",
+        "sector": "Energy",
+        "symbol": "WMB",
+        "exchange": "NYS",
+        "id": "NYS:WMB",
+        "cik": "107263",
+        "FIGI": "tts-827659"
+    },
+    {
+        "name": "WR Berkley Corp",
+        "sector": "Finance",
+        "symbol": "WRB",
+        "exchange": "NYS",
+        "id": "NYS:WRB",
+        "cik": "11544",
+        "FIGI": "tts-13882049"
+    },
+    {
+        "name": "Williams Sonoma",
+        "sector": "Consumer Goods",
+        "symbol": "WSM",
+        "exchange": "NYS",
+        "id": "NYS:WSM",
+        "cik": "719955",
+        "FIGI": "tts-827684"
+    },
+    {
+        "name": "West Pharmaceutical Services Inc",
+        "sector": "Healthcare",
+        "symbol": "WST",
+        "exchange": "NYS",
+        "id": "NYS:WST",
+        "cik": "105770",
+        "FIGI": "tts-821964"
+    },
+    {
+        "name": "Western Union Company",
+        "sector": "Finance",
+        "symbol": "WU",
+        "exchange": "NYS",
+        "id": "NYS:WU",
+        "cik": "1365135",
+        "FIGI": "tts-4979680"
+    },
+    {
+        "name": "Weyerhaeuser Company",
+        "sector": "Finance",
+        "symbol": "WY",
+        "exchange": "NYS",
+        "id": "NYS:WY",
+        "cik": "106535",
+        "FIGI": "tts-827695"
+    },
+    {
+        "name": "US Steel Corp",
+        "sector": "Commodities",
+        "symbol": "X",
+        "exchange": "NYS",
+        "id": "NYS:X",
+        "cik": "1163302",
+        "FIGI": "tts-827699"
+    },
+    {
+        "name": "Exxon Mobil Corp",
+        "sector": "Energy",
+        "symbol": "XOM",
+        "exchange": "NYS",
+        "id": "NYS:XOM",
+        "cik": "34088",
+        "FIGI": "tts-827736"
+    },
+    {
+        "name": "Xylem Inc",
+        "sector": "Industry",
+        "symbol": "XYL",
+        "exchange": "NYS",
+        "id": "NYS:XYL",
+        "cik": "1524472",
+        "FIGI": "tts-33903249"
+    },
+    {
+        "name": "Block Inc",
+        "sector": null,
+        "symbol": "XYZ",
+        "exchange": "NYS",
+        "id": "NYS:XYZ",
+        "cik": "1512673",
+        "FIGI": "tts-338656392"
+    },
+    {
+        "name": "Yum Brands Inc",
+        "sector": "Consumer Goods",
+        "symbol": "YUM",
+        "exchange": "NYS",
+        "id": "NYS:YUM",
+        "cik": "1041061",
+        "FIGI": "tts-822019"
+    },
+    {
+        "name": "Zimmer Biomet Holdings Inc",
+        "sector": "Healthcare",
+        "symbol": "ZBH",
+        "exchange": "NYS",
+        "id": "NYS:ZBH",
+        "cik": "1136869",
+        "FIGI": "tts-89712747"
+    },
+    {
+        "name": "Zoetis Inc",
+        "sector": "Healthcare",
+        "symbol": "ZTS",
+        "exchange": "NYS",
+        "id": "NYS:ZTS",
+        "cik": "1555280",
+        "FIGI": "tts-55574302"
+    }
+]

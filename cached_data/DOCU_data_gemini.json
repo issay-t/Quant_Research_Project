@@ -1,0 +1,27 @@
+{
+  "2021-04-01": {
+    "management_quality": 0.85,
+    "competitive_edge": 0.9,
+    "longevity": 0.8
+  },
+  "2022-04-01": {
+    "management_quality": 0.65,
+    "competitive_edge": 0.8,
+    "longevity": 0.7
+  },
+  "2023-04-01": {
+    "management_quality": 0.75,
+    "competitive_edge": 0.8,
+    "longevity": 0.85
+  },
+  "2024-03-31": {
+    "management_quality": 0.88,
+    "competitive_edge": 0.9,
+    "longevity": 0.92
+  },
+  "2025-04-01": {
+    "management_quality": 0.89,
+    "competitive_edge": 0.91,
+    "longevity": 0.93
+  }
+}
