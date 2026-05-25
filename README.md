@@ -2,13 +2,13 @@
 
 A systematic equity and options trading research platform built from scratch in Python. Designed for point-in-time accurate backtesting, multi-factor alpha research, and live execution via the Interactive Brokers API.
 
-> **Status:** Actively deployed — core strategies running live on Interactive Brokers (IBKR) via automated execution pipeline.
+> **Status:** Live execution infrastructure complete — strategies connected to Interactive Brokers paper trading API, executable on-demand via automated order generation scripts.
 
 ---
 
 ## Overview
 
-Most backtesting tools treat strategy research and execution as separate concerns. This platform unifies them — from raw data ingestion and factor scoring, to strategy simulation, options overlay construction, and live brokerage execution — into a single modular Python system.
+Most backtesting tools treat strategy research and execution as separate concerns. This platform unifies them - from raw data ingestion and factor scoring, to strategy simulation, options overlay construction, and live brokerage execution — into a single modular Python system.
 
 The platform was built to answer a specific research question: *can a composite scoring model combining quantitative fundamentals, qualitative LLM-derived signals, and market sentiment factors systematically identify mispriced equities and generate risk-adjusted alpha?*
 
@@ -22,12 +22,11 @@ Based on backtesting across multiple universes (2021–2025), the answer appears
 - **Multi-factor composite scoring** — integrates quantitative fundamental ratios, LLM-generated qualitative scores, and a market adjustment factor into a single ranked signal
 - **Black-Scholes options overlay** — simulates option pricing to construct asymmetric short-side strategies (OTM puts on lowest-scoring names) with explicit position sizing controls
 - **Modular architecture** — separable layers for data ingestion, scoring, strategy logic, and execution enable independent testing and iteration
-- **Live IBKR execution** — backtested signals translate directly into automated order generation and portfolio rebalancing via the Interactive Brokers API
 
 ---
 
 ## Architecture
-quant_research/
+quant_research_project/
 ├── fetch_data.py      # Data ingestion, cleaning, and normalization
 ├── stock.py           # Stock class — price history, fundamentals, factor inputs
 ├── portfolio.py       # Portfolio class — buy/sell/rebalance logic, performance tracking
