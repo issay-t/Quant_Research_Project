@@ -53,7 +53,7 @@ Core `Portfolio` class managing the full collection of positions. Handles buying
 
 **`scoring.py`**
 The alpha engine. Computes three layered signals:
-- **Fundamental Score** — quantitative ratios (ROE, D/E, P/E) combined with LLM-generated qualitative assessments (management quality, competitive positioning, business longevity)
+- **Fundamental Score** — quantitative ratios (ROE, D/E, P/E) combined with LLM-generated qualitative assessments (management quality, competitive edge, company longevity)
 - **Market Adjustment Factor** — momentum, volatility, and benchmark-relative performance overlay
 - **Adjusted Total Score** — composite ranking signal driving portfolio allocation decisions
 
