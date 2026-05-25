@@ -62,12 +62,14 @@ Strategy classes that wire together the full infrastructure — fetch_data, scor
 
 ## Scoring Model
 
-The core insight driving the platform is that **lagging financial statements systematically diverge from real-time investor sentiment** — and that divergence is exploitable.
+The platform is built on the premise that fundamental value and market context must be evaluated together. The Fundamental Score estimates intrinsic company quality through quantitative ratios and LLM-derived qualitative assessments. The Market Adjustment Factor captures short-term market dynamics — momentum, volatility, and benchmark-relative performance — to avoid entering positions during periods of adverse sentiment or extreme volatility, even when fundamentals are strong. The Adjusted Total Score combines both, producing a ranking signal that is fundamentally grounded but market-aware.
 
 The composite score addresses this with three layers:
+```text
 Fundamental Score  =  Quantitative Ratios  +  LLM Qualitative Factors
 Market Adj. Factor =  Momentum  +  Volatility  +  Benchmark-Relative Performance
 Adjusted Score     =  f(Fundamental Score, Market Adj. Factor)
+```
 Stocks are ranked by Adjusted Score each rebalancing period. Capital is allocated proportionally to highest-scoring names. The options overlay systematically targets lowest-scoring names with OTM puts — position sizing capped at 10% of held cash to bound compounded downside.
 
 ---
