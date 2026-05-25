@@ -8,7 +8,7 @@ A systematic equity and options trading research platform built from scratch in 
 
 ## Overview
 
-Most backtesting tools treat strategy research and execution as separate concerns. This platform unifies them - from raw data ingestion and factor scoring, to strategy simulation, options overlay construction, and live brokerage execution - into a single modular Python system.
+Most backtesting tools treat strategy research and execution as separate concerns. This platform unifies them - from raw data ingestion and factor scoring, to strategy simulation, and options overlay construction - into a single modular Python system.
 
 The platform was built to answer a specific research question: *can a composite scoring model combining quantitative fundamentals, qualitative LLM-derived signals, and market sentiment factors systematically identify mispriced equities and generate risk-adjusted alpha?*
 
