@@ -97,7 +97,7 @@ Tested across three distinct universes over the 2021–2025 period. In all tests
 The platform was developed iteratively across 5 strategy generations, each addressing a specific weakness of the prior:
 
 1. **Base Strategy** — monthly rebalancing, allocating proportionally to fundamental score
-2. **Market-Adjusted Strategy** — added market adjustment factor to correct for sentiment divergence from lagging fundamentals
+2. **Market-Adjusted Strategy** — added market adjustment factor to correct for short-term market movements not reflected in fundamentals (which may change slowly).
 3. **Options Overlay** — added Black-Scholes simulated OTM put positions on lowest-scoring names
 4. **Position Sizing Controls** — capped options bets at 10% of held cash to prevent compounded losses wiping out equity gains
 5. **Trimming Logic** — added dynamic trimming of fundamentally strong positions when market adjustment scores deteriorated, recycling capital into the short-side options pool
