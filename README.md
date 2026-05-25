@@ -2,13 +2,13 @@
 
 A systematic equity and options trading research platform built from scratch in Python. Designed for point-in-time accurate backtesting, multi-factor alpha research, and live execution via the Interactive Brokers API.
 
-> **Status:** Live execution infrastructure complete — strategies connected to Interactive Brokers paper trading API, executable on-demand via automated order generation scripts.
+> **Status:** Live execution infrastructure complete - strategies connected to Interactive Brokers paper trading API, executable on-demand via automated order generation scripts.
 
 ---
 
 ## Overview
 
-Most backtesting tools treat strategy research and execution as separate concerns. This platform unifies them - from raw data ingestion and factor scoring, to strategy simulation, options overlay construction, and live brokerage execution — into a single modular Python system.
+Most backtesting tools treat strategy research and execution as separate concerns. This platform unifies them - from raw data ingestion and factor scoring, to strategy simulation, options overlay construction, and live brokerage execution - into a single modular Python system.
 
 The platform was built to answer a specific research question: *can a composite scoring model combining quantitative fundamentals, qualitative LLM-derived signals, and market sentiment factors systematically identify mispriced equities and generate risk-adjusted alpha?*
 
@@ -25,7 +25,7 @@ Based on backtesting across multiple universes (2021–2025), the answer appears
 
 ---
 
-## Architecture
+## Primary Architecture
 quant_research_project/
 ├── fetch_data.py      # Data ingestion, cleaning, and normalization
 ├── stock.py           # Stock class — price history, fundamentals, factor inputs
@@ -73,7 +73,7 @@ Stocks are ranked by Adjusted Score each rebalancing period. Capital is allocate
 
 ## Backtesting Results
 
-Tested across three distinct universes over the 2021–2025 period. All tests started with approximately $56,000–$60,000 contributed capital.
+Tested across three distinct universes over the 2021–2025 period. In all tests, a $1500 monthly budget was granted, however, total contributed capital is dependent on the quality of the stocks chosen. Larger amounts of capital are invested based off stronger scores generated. This led to roughly $56,000–$60,000 in contributed capital over 5 years across all tests.
 
 | Test Universe | Stocks | Total Profit | Avg. Annual ROE | All-Time ROE |
 |---|---|---|---|---|
@@ -96,14 +96,6 @@ The platform was developed iteratively across 5 strategy generations, each addre
 3. **Options Overlay** — added Black-Scholes simulated OTM put positions on lowest-scoring names
 4. **Position Sizing Controls** — capped options bets at 10% of held cash to prevent compounded losses wiping out equity gains
 5. **Trimming Logic** — added dynamic trimming of fundamentally strong positions when market adjustment scores deteriorated, recycling capital into the short-side options pool
-
----
-
-## Live Deployment
-
-Core strategies are deployed live via the **Interactive Brokers API (TWS/IB Gateway)**. The execution layer translates backtested signals into automated order generation and portfolio rebalancing in a live brokerage environment.
-
----
 
 ## Tech Stack
 
