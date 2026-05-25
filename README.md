@@ -12,11 +12,6 @@ Most backtesting tools treat strategy research and execution as separate concern
 
 The platform originated from a simple goal: systematically evaluate hundreds of companies at once to identify the strongest long-term investments based on fundamental quality - something that would otherwise require manual analysis at scale. As the research evolved, it became clear that fundamental analysis alone was insufficient - short-term market dynamics, investor sentiment, and volatility could work against even the strongest positions at the wrong moment. This led to the development of the Market Adjustment Factor, which layers market-aware context on top of fundamental scoring to improve timing and reduce risk. In the final research phase, the platform was extended further to explore whether options trading could generate short-term profits alongside the core long-term equity strategy - leading to the Black-Scholes options overlay and asymmetric put strategy on lowest-scoring names.
 
-The platform was built to answer a specific research question: *can a composite scoring model - combining quantitative fundamentals, qualitative LLM-derived signals, and short-term market context - produce systematic portfolio allocation decisions that are more risk-adjusted and timing-aware than fundamental analysis alone?*
-
-Based on backtesting across multiple universes (2021--2025), the answer appears to be yes.
-
-
 ---
 
 ## Key Features
