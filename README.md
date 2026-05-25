@@ -10,7 +10,11 @@ A systematic equity and options trading research platform built from scratch in 
 
 Most backtesting tools treat strategy research and execution as separate concerns. This platform unifies them - from raw data ingestion and factor scoring, to strategy simulation, and options overlay construction - into a single modular Python system.
 
-The platform originated from a simple goal: systematically evaluate hundreds of companies at once to identify the strongest long-term investments based on fundamental quality - something that would otherwise require manual analysis at scale. As the research evolved, it became clear that fundamental analysis alone was insufficient - short-term market dynamics, investor sentiment, and volatility could work against even the strongest positions at the wrong moment. This led to the development of the Market Adjustment Factor, which layers market-aware context on top of fundamental scoring to improve timing and reduce risk. In the final research phase, the platform was extended further to explore whether options trading could generate short-term profits alongside the core long-term equity strategy - leading to the Black-Scholes options overlay and asymmetric put strategy on lowest-scoring names.
+The platform originated from a simple goal: systematically evaluate hundreds of companies at once to identify the strongest long-term investments based on fundamental quality - something that would otherwise require manual analysis at scale. 
+
+As the research evolved, it became clear that fundamental analysis alone was insufficient - short-term market dynamics, investor sentiment, and volatility could work against even the strongest positions at the wrong moment. This led to the development of the Market Adjustment Factor, which layers market-aware context on top of fundamental scoring to improve timing and reduce risk. 
+
+In the final research phase, the platform was extended further to explore whether options trading could generate short-term profits alongside the core long-term equity strategy - leading to the Black-Scholes options overlay and asymmetric put strategy on lowest-scoring names.
 
 ---
 
