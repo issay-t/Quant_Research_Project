@@ -88,7 +88,7 @@ Tested across three distinct universes over the 2021–2025 period. In all tests
 
 > **Note:** Results reflect backtested performance and are not indicative of future returns. The high-volatility universe result is outsized due to the nature of the test universe — concentrated speculative names during a period of significant market recovery. The diversified universe result is the more conservative and realistic performance benchmark.
 
-*Full output reports including P&L curves and portfolio vs. S&P 500 comparisons are available in the `/output` folder.*
+*Full output reports including P&L curves and portfolio vs. S&P 500 comparisons are available in 'Backtest Output Summary.pdf'.*
 
 ---
 
